@@ -1,0 +1,3 @@
+# Lecture 26
+
+[![Watch the video](https://img.youtube.com/vi/BuR89n2MZUg/0.jpg)](https://www.youtube.com/watch?v=BuR89n2MZUg&list=PL-h0BZdG_K4myglyF0owcVh9a0oO_arhD&index=26)
