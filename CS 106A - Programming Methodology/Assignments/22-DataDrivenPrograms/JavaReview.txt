@@ -1,0 +1,126 @@
+Java programming review
+1
+Would you like help with int or boolean type?
+-----
+int:      2
+boolean: 10
+
+2
+True or false: Integers can have fractional parts.
+-----
+true:     3
+false:    5
+
+3
+No.  Floating-point numbers have fractional parts;
+integers do not.
+True or false: Integers can be negative.
+-----
+true:     5
+false:    4
+
+4
+No.  You should go back and review the text.
+Would you like to quit?
+-----
+yes:      0
+y:        0
+no:       1
+n:        1
+
+5
+What is the value of 17 % 4?
+   a.  0
+   b.  1
+   c.  3
+   d.  4
+-----
+a:        6
+0:        6
+b:        7
+1:        7
+c:        6
+3:        6
+d:        6
+4:         6
+
+6
+No.  Try again.
+What is the value of 23 % 7?
+   a.  2
+   b.  3
+   c.  6
+   d.  7
+-----
+a:        7
+b:        6
+c:        6
+d:        6
+
+7
+Yes.  That is correct.
+Would you like to choose another topic?
+-----
+yes:      1
+no:       0
+
+10
+Boolean review.
+How many values are there of type boolean.
+-----
+1:       11
+2:       13
+3:       11
+many:    11
+
+11
+No, there are only two booleans:  true and false.
+
+The Java operator used to indicate the English idea of
+"and" in a Boolean expression is: 
+   a.  &
+   b.  &&
+   c.  AND
+   d.  none of the above
+-----
+a:       12
+b:       14
+c:       12
+d:       12
+
+12
+No, that is incorrect.
+
+The Java operator used to indicate the English idea of
+"and" in a Boolean expression is: 
+   a.  &
+   b.  &&
+   c.  AND
+   d.  none of the above
+-----
+a:       12
+b:       14
+c:       12
+d:       12
+
+13
+Yes, that is correct.
+
+The Java operator used to indicate the English idea of
+"and" in a Boolean expression is: 
+   a.  &
+   b.  &&
+   c.  AND
+   d.  none of the above
+-----
+a:       12
+b:       14
+c:       12
+d:       12
+
+14
+Yes, you seem to have mastered boolean data.
+Would you like to choose another topic?
+-----
+yes:      1
+no:       0

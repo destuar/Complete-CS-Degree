@@ -1,0 +1,116 @@
+Welcome to ADVENTURE!
+1
+You are standing at the end of a road before a
+small brick building.  A small stream flows out
+of the building and down a gully to the south.
+A road runs up a small hill to the west.
+-----
+south: 2
+s:     2
+north: 8
+n:     8
+in:    8
+west:  9
+w:     9
+quit:  0
+q:     0
+
+2
+You are in a valley in the forest beside a stream
+tumbling along a rocky bed.  The stream is flowing
+to the south.
+-----
+south: 3
+s:     3
+down:  3
+d:     3
+north: 1
+n:     1
+quit:  0
+q:     0
+
+3
+At your feet all the water of the stream splashes
+down a two-inch slit in the rock.  To the south,
+the streambed is bare rock.
+-----
+north: 2
+n:     2
+south: 4
+s:     4
+down:  4
+quit:  0
+q:     0
+
+4
+You are in a 20-foot depression floored with bare
+dirt.  Set into the dirt is a strong steel grate
+mounted in concrete.  A dry streambed leads into
+the depression from the north.
+The grate is open.
+-----
+north: 3
+n:     3
+up:    3
+u:     3
+down:  5
+d:     5
+quit:  0
+q:     0
+
+5
+You are in a small chamber beneath a 3x3 steel grate
+to the surface.  A low crawl leads over cobbles to
+the west.
+The grate is open.
+-----
+west:  6
+w:     6
+up:    4
+u:     4
+quit:  0
+q:     0
+
+6
+You are crawling over cobbles into a low east/west
+passage.  There is a dim light to the east.
+-----
+east:  5
+e:     5
+west:  7
+w:     7
+quit:  0
+q:     0
+
+7
+It is now pitch dark.  If you proceed you will likely
+fall into a pit.
+-----
+east:  6
+e:     6
+xyzzy: 8
+west:  0
+w:     0
+quit:  0
+q:     0
+
+8
+You are inside a building, a well house for a large
+spring.
+-----
+out:   1
+south: 1
+s:     1
+xyzzy: 7
+quit:  0
+q:     0
+
+9
+You are on a road at the top of a small hill.  You
+can see a small brick building at the end of the road
+to the east.
+-----
+east:  1
+e:     1
+quit:  0
+q:     0
