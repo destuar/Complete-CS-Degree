@@ -1,6 +1,6 @@
 # Complete 4-Year Computer Science Repository
 
-Welcome to the **Complete 4-Year Computer Science and Artificial Intelligence Course Repository**, a comprehensive collection of resources modeled after the 4-year Computer Science degree curriculum at Stanford University, with a specific focus on the Artificial Intelligence track. This repository contains materials from foundational courses to advanced topics, providing a comprehensive grounding in Computer Science and Artificial Intelligence. Below is a brief overview of each course included in the repository.
+Welcome to the **Complete 4-Year Computer Science and Artificial Intelligence Course Repository**, a comprehensive collection of resources modeled after the undergraduate Computer Science degree curriculum at Stanford University, with a specific focus on the Artificial Intelligence track. This repository contains materials from foundational courses to advanced topics, providing a comprehensive grounding in Computer Science and Artificial Intelligence. Below is a brief overview of each course included in the repository.
 
 ## Course List
 
