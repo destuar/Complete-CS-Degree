@@ -2,6 +2,10 @@
 
 Welcome to the **Complete 4-Year Computer Science and Artificial Intelligence Course Repository**, a comprehensive collection of resources modeled after the undergraduate Computer Science degree curriculum at Stanford University, with a specific focus on the Artificial Intelligence track. This repository contains materials from foundational courses to advanced topics, providing a comprehensive grounding in Computer Science and Artificial Intelligence. Below is a brief overview of each course included in the repository.
 
+Each course folder includes subfolders with **Assignments**, **Final Exams**, **Lecture Recordings**, and **Lecture Slides**.
+
+---
+
 ## Course List
 
 ### CS 103 - Mathematical Foundations of Computing
@@ -80,6 +84,12 @@ Introduction to classical mechanics, covering Newton's laws, energy, momentum, a
 Covers the principles of electromagnetism, including electric fields, magnetic fields, and their applications in circuits and technology.
 
 ## How to Use This Repository
-Each folder in this repository corresponds to one of the courses listed above and contains lecture notes, assignments, readings, and any other resources that are useful for mastering the material. While the resources are modeled after Stanford's curriculum, they are intended to be accessible to anyone with an interest in computer science and artificial intelligence.
 
-NOTE: All lectures, assignments, exams, and course materials are free and publically available online. Additional information can be found at MIT OpenCourseWare and Stanford Online.
+Each folder in this repository corresponds to one of the courses listed above. Within each course folder, you will find subfolders dedicated to:
+
+- **Assignments**: Homework and problem sets designed to reinforce the course material.
+- **Final Exam**: Practice exams or previous final exams with accompanying solutions provided.
+- **Lecture Recordings**: Links to or embedded lectures for each class session via YouTube.
+- **Lecture Slides**: Slides, textbooks, and other visual aids for the course material (if available).
+
+NOTE: While these resources are modeled after Stanford University's curriculum, all lectures, assignments, exams, and course materials are free and publically available online. Additional information can be found at **MIT OpenCourseWare** and **Stanford Online**.
