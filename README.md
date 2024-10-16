@@ -82,4 +82,4 @@ Covers the principles of electromagnetism, including electric fields, magnetic f
 ## How to Use This Repository
 Each folder in this repository corresponds to one of the courses listed above and contains lecture notes, assignments, readings, and any other resources that are useful for mastering the material. While the resources are modeled after Stanford's curriculum, they are intended to be accessible to anyone with an interest in computer science and artificial intelligence.
 
-Feel free to explore the content, use it for your learning. NOTE: All lectures, assignments, exams, and course materials are free and publically available online.
+NOTE: All lectures, assignments, exams, and course materials are free and publically available online. Additional information can be found at MIT OpenCourseWare and Stanford Online.
