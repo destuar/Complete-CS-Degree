@@ -5,7 +5,7 @@ With one bit we have two combinations (0 and 1) giving us a range of numbers bet
 
 Write out a similar list, in order, of all the possible combinations that can be represented in four bits.  What is the equivalent range of numbers in decimal?
 
-A: ```0001, 0010, 0011, 0100, 0101, 0110, 0111, 1000, 1001, 1010, 1100, 1101, 1110, 1111```
+A: ```0000, 0001, 0010, 0011, 0100, 0101, 0110, 0111, 1000, 1001, 1011, 1010, 1100, 1101, 1110, 1111```
 
 Q6:
 Since three bits can be used to represent numbers between 0 and 7, we could use three bits to store the size of most families.  Three bits wouldn’t be sufficient to store the number of students in a typical discussion section as they run anywhere from 15 to 25 students and three bits can only store numbers from 0 to 7.
