@@ -72,9 +72,9 @@ File Size (bytes)=16kilobytes/second×180 (seconds)
 
 File Size (bytes)=16kilobytes/second*180seconds *1024bytes/kilobyte
 
-File Size (bytes)=2,764,800bytes
+File Size (bytes)=2,949,120bytes
 
-Answer: ```2,764,800bytes```
+Answer: ```2,949,120bytes```
 
 Q14:
 DVD-Audio provides higher quality recording than CD music. On DVD-Audio a variety of different settings are available.  The highest quality provides stereo sampling at 192kHz with 24-bit samples.  Assuming no compression is used (i.e., we don’t perform a frequency transformation and psychoacoustic analysis as with MP3 files) how much space would a 3 minute song take using the highest quality DVD-Audio format?
