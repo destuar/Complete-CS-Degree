@@ -47,25 +47,20 @@ Given that CD music is sampled at 44.1kHz (kilohertz) at 16 bits and is stereo, 
 
 A: Convert 3 min to seconds:
 
-
 Duration (seconds)=3minutes*60seconds/minute=180seconds
 
 file size = bitrate * seconds
 
-
 bitrate = 44100 (samples, hz) * 16 (bits)  * 2 (channels)
-
 
 so
 
-
 filesize = 44100 (samples, hz) * 16 (bits)  * 2 (channels) * 180 (seconds) = 25,344,000 bits
-
 
 25,344,000 /8 = 3,168,000 bytes
 
 
-Answer = 3,168,000 bytes
+Answer = ```3,168,000 bytes```
 
 Q13:
 How many bytes would the same song take if we converted it to an MP3 file using an encoding rate of 128 kilobits/second?
@@ -79,7 +74,7 @@ File Size (bytes)=16kilobytes/second*180seconds *1024bytes/kilobyte
 
 File Size (bytes)=2,764,800bytes
 
-Answer: 2,764,800bytes
+Answer: ```2,764,800bytes```
 
 Q14:
 DVD-Audio provides higher quality recording than CD music. On DVD-Audio a variety of different settings are available.  The highest quality provides stereo sampling at 192kHz with 24-bit samples.  Assuming no compression is used (i.e., we don’t perform a frequency transformation and psychoacoustic analysis as with MP3 files) how much space would a 3 minute song take using the highest quality DVD-Audio format?
@@ -87,7 +82,7 @@ DVD-Audio provides higher quality recording than CD music. On DVD-Audio a variet
 For the purposes of this problem, assume 2-channel (left and right) stereo, although the standard is capable of supporting fancier formats including 5.1 surround sound (with 5 speakers plus a subwoofer).
 
 A:
-Duration (seconds)=3minutes*60seconds/minute=180seconds
+```Duration (seconds)=3minutes*60seconds/minute=180seconds
 
 File Size =192 kHz* 24 bits*2 channels*180 seconds
 File Size =192kHz* 24bits* 2 channels*180seconds
@@ -96,7 +91,7 @@ File Size =192,000 Hz* 24 bits*2 *180 seconds
 File Size (bytes)=192,000Hz* 24bits* 2*180seconds
 
 File Size =192,000 Hz* 24 bits*2 *180 s=86,400,000 bits
-File Size =192,000Hz* 24bits* 2*180s=86,400,000bits
+File Size =192,000Hz* 24bits* 2*180s=86,400,000bits```
 
 (Q15 and Q16 are skipped, but I will tell you how to get the answer for Q15)
 
