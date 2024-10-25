@@ -1,0 +1,132 @@
+/* General reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* Header styling */
+header {
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 15px;
+    justify-content: flex-start;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #888;
+    font-size: 14px;
+}
+
+nav ul li a:hover {
+    color: #333;
+}
+
+/* Main content styling */
+main {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+main h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+/* Search bar styling */
+.search-container {
+    display: inline-flex;
+    align-items: center;
+    margin-bottom: 40px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 50px;
+    width: 300px;
+}
+
+.search-container input {
+    border: none;
+    outline: none;
+    padding: 10px;
+    font-size: 16px;
+    flex-grow: 1;
+}
+
+.search-container button {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+/* Grid styling - 5 columns, 3 rows */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr); /* 5 boxes per row */
+    grid-auto-rows: 1fr; /* Ensures the grid items maintain proportional height */
+    grid-gap: 20px;
+    max-width: 1200px; /* Adjust this width based on your design */
+    margin: 0 auto;
+}
+
+/* Flexbox inside grid item to enforce square shape */
+.grid-item {
+    background-color: #E3F2FD; /* Light aesthetic blue color */
+    position: relative;
+    padding: 0;
+    width: 100%;
+    padding-top: 100%; /* This maintains a 1:1 aspect ratio (square) */
+    border-radius: 10px;
+    text-align: center;
+    transition: transform 0.2s ease-in-out;
+    font-size: 16px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid-item a {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-decoration: none;
+    color: blue;
+}
+
+.grid-item:hover {
+    transform: translateY(-5px);
+    cursor: pointer;
+}
+
+/* Ensure exactly 3 rows in the grid */
+.grid-container {
+    height: calc(100vh - 300px); /* Adjust height to fit exactly 3 rows */
+    max-height: 600px; /* Max height for the grid */
+}
+
+/* Remove extra items to fit exactly 15 items */
+.grid-item:nth-child(n+16) {
+    display: none;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .grid-container {
+        grid-template-columns: repeat(3, 1fr); /* Reduce to 3 columns on smaller screens */
+        height: auto; /* Remove fixed height on smaller screens */
+    }
+}
+
+@media (max-width: 500px) {
+    .grid-container {
+        grid-template-columns: 1fr; /* Single column on very small screens */
+    }
+}
