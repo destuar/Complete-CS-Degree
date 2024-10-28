@@ -1,6 +1,6 @@
 # Complete 4-Year CS Degree Repository
 
-Welcome to the **Complete 4-Year Computer Science and Artificial Intelligence Course Repository**, a comprehensive collection of resources modeled after the undergraduate Computer Science degree curriculum at Stanford University, with a specific focus on the Artificial Intelligence track. This repository contains materials from foundational courses to advanced topics, providing a comprehensive grounding in Computer Science and Artificial Intelligence. Below is a brief overview of each course included in the repository.
+Welcome to the **Complete 4-Year Computer Science and Artificial Intelligence Course Repository**, a comprehensive collection of resources modeled after a 4-year Computer Science degree curriculum with a specific focus on Artificial Intelligence. This repository contains materials from foundational courses to advanced topics, providing a thorough grounding in both Computer Science and AI. Below is a structured list of courses, organized to guide you through each stage of your studies.
 
 Each course folder includes subfolders with **Assignments**, **Final Exams**, **Lecture Recordings**, and **Lecture Slides**.
 
@@ -8,88 +8,107 @@ Each course folder includes subfolders with **Assignments**, **Final Exams**, **
 
 ## Course List
 
-### CS 103 - Mathematical Foundations of Computing
-Covers fundamental topics in discrete mathematics relevant to computer science, including logic, proof techniques, set theory, graph theory, and combinatorics.
+### Core Courses
 
-### CS 105 - Introduction to Computers
-A high-level introduction to computers and their applications, tailored for non-majors, focusing on basic concepts of programming and problem-solving.
+- **CS 105 - Introduction to Computers**  
+  A general introduction to computers, including fundamental concepts and applications, designed for non-majors.
 
-### CS 106A - Programming Methodology
-An introductory course in software engineering, teaching programming concepts using the Java programming language, emphasizing problem-solving and algorithmic thinking.
+- **MATH 19 - Calculus I**  
+  Covers basic calculus concepts, including limits, derivatives, and integrals.
 
-### CS 106B - Programming Abstractions
-Continues from CS 106A, focusing on data abstraction, recursion, and more advanced programming techniques using C++.
+- **CS 106A - Programming Methodology**  
+  Introductory programming with a focus on problem-solving and algorithmic thinking, using Java.
 
-### CS 107 - Computer Organization and Systems
-Explores the relationship between hardware and software, teaching topics such as memory hierarchy, data representation, and systems programming.
+- **CS 106B - Programming Abstractions**  
+  Expands on CS 106A, introducing data abstraction, recursion, and more advanced programming techniques using C++.
 
-### CS 109 - Introduction to Probability for Computer Scientists
-Covers basic probability theory with an emphasis on its applications in computer science, including random variables, distributions, and probabilistic reasoning.
+- **MATH 20 - Calculus II**  
+  Continuation of Calculus I, focusing on integration techniques, sequences, and series.
 
-### CS 110 - Principles of Computer Systems
-Examines the fundamentals of computer systems from a programmer’s perspective, including concurrency, networking, and memory management.
+- **CS 103 - Mathematical Foundations of Computing**  
+  Covers discrete mathematics, including logic, proof techniques, set theory, graph theory, and combinatorics.
 
-### CS 124 - From Languages to Information
-Focuses on extracting meaning and information from text and language data, covering topics such as natural language processing and text mining.
+- **ENGR 108 - Introduction to Applied Linear Algebra**  
+  Introduction to linear algebra concepts used in computer science, including matrices, vectors, and eigenvalues.
 
-### CS 131 - Computer Vision: Foundations and Applications
-Introduction to computer vision, teaching the underlying principles and algorithms used for image recognition, object detection, and visual analysis.
+- **CS 107 - Computer Organization and Systems**  
+  Explores the relationship between hardware and software, covering topics such as memory hierarchy, data representation, and systems programming.
 
-### CS 145 - Data Management and Data Systems
-Covers database systems, data models, and the basics of query processing, emphasizing relational databases and SQL.
+- **CS 109 - Introduction to Probability for Computer Scientists**  
+  Covers probability theory with applications in computer science, including random variables, distributions, and probabilistic reasoning.
 
-### CS 149 - Parallel Computing
-Introduction to parallel computing, focusing on algorithms, architectures, and programming techniques to solve computational problems efficiently.
+- **CS 110 - Principles of Computer Systems**  
+  Focuses on the fundamentals of computer systems, including concurrency, networking, and memory management.
 
-### CS 161 - Design and Analysis of Algorithms
-A study of algorithms and their efficiency, covering topics such as sorting, searching, graph algorithms, and dynamic programming.
+- **CS 161 - Design and Analysis of Algorithms**  
+  Introduction to algorithms and their efficiency, covering sorting, searching, graph algorithms, and dynamic programming.
 
-### CS 221 - Artificial Intelligence: Principles and Techniques
-An introduction to the concepts and techniques that form the foundation of artificial intelligence, including search, knowledge representation, machine learning, and decision-making.
+- **MATH 21 - Calculus III**  
+  Covers multivariable calculus, including partial derivatives, multiple integrals, and vector calculus.
 
-### CS 228 - Probabilistic Graphical Models: Principles and Techniques
-Covers probabilistic models and their use in reasoning and decision-making, focusing on graphical models like Bayesian networks and Markov random fields.
+- **CS 145 - Data Management and Data Systems**  
+  Introduction to database systems, data models, and basics of query processing, with a focus on relational databases and SQL.
 
-### CS 229 - Machine Learning
-A comprehensive introduction to machine learning, covering supervised, unsupervised, and reinforcement learning, with applications in data mining, pattern recognition, and artificial intelligence.
+- **EE 180 - Digital Systems Architecture**  
+  Covers digital system design and architecture, essential for understanding computer hardware.
 
-### CS 230 - Deep Learning
-Focuses on the techniques of deep neural networks, covering architectures such as convolutional and recurrent neural networks, with applications in image and speech processing.
+- **EE 274 - Data Compression: Theory and Applications**  
+  Covers data compression techniques, with applications in information theory and data transmission.
 
-### CS 234 - Reinforcement Learning
-Explores the principles of reinforcement learning, including Markov decision processes, Q-learning, and policy gradient methods.
+### Artificial Intelligence and Machine Learning
 
-### CS 236 - Deep Generative Models
-Covers advanced topics in machine learning, focusing on deep generative models such as variational autoencoders, generative adversarial networks, and flow-based models.
+- **CS 221 - Artificial Intelligence: Principles and Techniques**  
+  Introduction to the foundational concepts and techniques in AI, including search, knowledge representation, and machine learning.
 
-### CS 238 - Decision Making under Uncertainty
-Teaches techniques for making decisions in uncertain environments, including topics like decision theory, game theory, and planning in partially observable environments.
+- **CS 228 - Probabilistic Graphical Models: Principles and Techniques**  
+  Covers probabilistic models and their use in reasoning and decision-making, with a focus on graphical models like Bayesian networks and Markov random fields.
 
-### ENGR 40M - An Introduction to Making: What is EE
-An introduction to electrical engineering concepts, including the basics of circuits, sensors, and microcontrollers through hands-on projects.
+- **CS 229 - Machine Learning**  
+  Comprehensive introduction to machine learning, including supervised, unsupervised, and reinforcement learning.
 
-### MATH 19 - Calculus I
-Introduction to the concepts of limits, derivatives, and integrals, laying the foundation for more advanced mathematical topics used in computer science.
+- **CS 224W - Machine Learning with Graphs**  
+  Focuses on machine learning techniques for graph-structured data, including social networks and biological networks.
 
-### MATH 20 - Calculus II
-Continuation of Calculus I, focusing on integration techniques, sequences, and series.
+- **CS 224U - Natural Language Understanding**  
+  Introduction to natural language processing, with a focus on understanding and generating human language.
 
-### MATH 21 - Calculus III
-Covers multivariable calculus, including partial derivatives, multiple integrals, and vector calculus, essential for applications in physics and engineering.
+- **CS 230 - Deep Learning**  
+  Focuses on deep learning techniques, covering neural networks such as CNNs and RNNs, with applications in image and speech processing.
 
-### PHYSICS 41 - Mechanics
-Introduction to classical mechanics, covering Newton's laws, energy, momentum, and rotational dynamics.
+- **CS 224N - Natural Language Processing with Deep Learning**  
+  Advanced NLP course, covering applications of deep learning in natural language processing.
 
-### PHYSICS 43 - Electricity and Magnetism
-Covers the principles of electromagnetism, including electric fields, magnetic fields, and their applications in circuits and technology.
+- **CS 234 - Reinforcement Learning**  
+  Principles of reinforcement learning, including Markov decision processes, Q-learning, and policy gradient methods.
+
+- **CS 238 - Decision Making under Uncertainty**  
+  Techniques for decision-making in uncertain environments, including decision theory and game theory.
+
+- **CS 131 - Computer Vision: Foundations and Applications**  
+  Introduction to computer vision, covering image recognition, object detection, and visual analysis.
+
+- **CS 236 - Deep Generative Models**  
+  Advanced course on generative models, including variational autoencoders (VAEs) and generative adversarial networks (GANs).
+
+- **CS 330 - Deep Multi-Task and Meta Learning**  
+  Covers multi-task and meta-learning techniques within deep learning frameworks.
+
+- **CS 238 - Decision Making under Uncertainty**  
+  Focuses on decision-making under uncertainty, using decision theory, game theory, and planning.
+
+- **CS 131 - Computer Vision**  
+  Explores the foundations of computer vision, covering algorithms for image recognition, object detection, and analysis.
+
+- **CS 149 - Parallel Computing**  
+  Introduction to parallel computing, covering algorithms and programming techniques for high-performance computing.
 
 ## How to Use This Repository
 
 Each folder in this repository corresponds to one of the courses listed above. Within each course folder, you will find subfolders dedicated to:
 
 - **Assignments**: Homework and problem sets designed to reinforce the course material.
-- **Final Exam**: Practice exams or previous final exams with accompanying solutions provided.
-- **Lecture Recordings**: Links to or embedded lectures for each class session via YouTube.
-- **Lecture Slides**: Slides, textbooks, and other visual aids for the course material (if available).
+- **Final Exam**: Practice exams or previous final exams with solutions.
+- **Lecture Recordings**: Links or embedded lectures for each class session via online sources.
+- **Lecture Slides**: Slides, textbooks, and other visual aids to support the course material.
 
-NOTE: While these resources are modeled after Stanford University's curriculum, all lectures, assignments, exams, and course materials are free and publically available online. Additional information can be found at **MIT OpenCourseWare** and **Stanford Online**.
+NOTE: While these resources are modeled after a comprehensive university curriculum, all lectures, assignments, exams, and course materials are freely available online. Additional resources can be found on **MIT OpenCourseWare** and **Stanford Online**.
