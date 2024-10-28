@@ -112,3 +112,5 @@ Each folder in this repository corresponds to one of the courses listed above. W
 - **Lecture Slides**: Slides, textbooks, and other visual aids to support the course material.
 
 NOTE: While these resources are modeled after a comprehensive university curriculum, all lectures, assignments, exams, and course materials are freely available online. Additional resources can be found on **MIT OpenCourseWare** and **Stanford Online**.
+
+![Course Plan](project-plan.png)
