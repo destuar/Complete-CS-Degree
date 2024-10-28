@@ -1,6 +1,6 @@
 # Complete 4-Year CS Degree Repository
 
-Welcome to the **Complete 4-Year Computer Science and Artificial Intelligence Course Repository**, a comprehensive collection of resources modeled after a 4-year Computer Science degree curriculum with a specific focus on Artificial Intelligence. This repository contains materials from foundational courses to advanced topics, providing a thorough grounding in both Computer Science and AI. Below is a structured list of courses, organized to guide you through each stage of your studies.
+Welcome to the **Complete 4-Year Computer Science and Artificial Intelligence Course Repository**, a comprehensive collection of resources modeled after a 4-year Computer Science degree curriculum with a specific focus on Artificial Intelligence. This repository contains materials from foundational courses to advanced topics in both Computer Science and AI. 
 
 Each course folder includes subfolders with **Assignments**, **Final Exams**, **Lecture Recordings**, and **Lecture Slides**.
 
