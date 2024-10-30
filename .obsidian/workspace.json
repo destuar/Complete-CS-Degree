@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "MATH 19 - Calculus I/Lecture Recordings/Calculus I.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Calculus I"
             }
           }
         ]
@@ -87,7 +87,7 @@
       {
         "id": "37dad9d5eeafd551",
         "type": "tabs",
-        "dimension": 29.716024340770787,
+        "dimension": 38.20224719101123,
         "children": [
           {
             "id": "ffc995186e6f7b78",
@@ -104,7 +104,7 @@
       {
         "id": "a7ad739116e98e2f",
         "type": "tabs",
-        "dimension": 29.716024340770787,
+        "dimension": 36.82896379525593,
         "children": [
           {
             "id": "82ec96babe211102",
@@ -112,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "MATH 19 - Calculus I/Lecture Recordings/Calculus I.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -135,12 +135,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8735804647362997,
+                  "scale": 0.31701131672108585,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of README"
+              "title": "Graph of Calculus I"
             }
           }
         ]
@@ -148,7 +148,7 @@
       {
         "id": "ad78b51249fe000f",
         "type": "tabs",
-        "dimension": 40.56795131845842,
+        "dimension": 24.968789013732835,
         "children": [
           {
             "id": "c7d97508c40e0deb",
@@ -202,10 +202,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "MATH 19 - Calculus I/Lecture Recordings/Calculus I.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Calculus I"
             }
           }
         ],
@@ -227,20 +227,33 @@
   },
   "active": "b77b91cf0d095609",
   "lastOpenFiles": [
+    "Mean Value Theorem.md",
+    "MATH 19 - Calculus I/Lecture Recordings/Calculus I.md",
+    "CS 105 - Introduction to Computers/Final Project/Website/_config.yml",
+    "CS 105 - Introduction to Computers/Final Project/Website/search-icon.png",
+    "CS 105 - Introduction to Computers/Final Project/Website/index.html",
+    "CS 105 - Introduction to Computers/Final Project/Website/index.css",
+    "CS 105 - Introduction to Computers/Final Project/Website",
+    "CS 105 - Introduction to Computers/Final Project",
+    "CS 105 - Introduction to Computers/Resources/Appendix A.pdf",
+    "CS 105 - Introduction to Computers/Resources/Appendix B.pdf",
+    "CS 105 - Introduction to Computers/Lecture Recordings/Introduction to Computers.md",
+    "CS 105 - Introduction to Computers/Resources",
+    "CS 105 - Introduction to Computers/Lecture Recordings",
+    "CS 105 - Introduction to Computers",
+    "CS 106A - Programming Methodology/Final Exam/CS106A-Final-Sum17/res/saturn.jpg",
+    "CS 106A - Programming Methodology/Lecture Recordings/Programming Methodology.md",
+    "CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Mathematical Foundations of Computing.md",
+    "README.md",
     "Obsidian Notes/Logarithmic Differentiation.md",
     "Obsidian Notes/Logarithmic.md",
     "Obsidian Notes/Logarithms.md",
-    "CS 105 - Introduction to Computers/Resources/Appendix B.pdf",
-    "CS 105 - Introduction to Computers/Resources/Appendix A.pdf",
     "CS 105 - Introduction to Computers/Assignments/Assignment.md",
     "CS 105 - Introduction to Computers/Assignments/Assignment #1.md",
     "CS 105 - Introduction to Computers/Assignments/Assignment 1.md",
     "CS 105 - Introduction to Computers/Assignments/Assignment #1 Answers.md",
-    "CS 106B - Programming Abstractions/Assignments/01 Assignment.pdf",
-    "CS 106A - Programming Methodology/Assignments/Assignment 1/09-assignment-1.pdf",
     "Obsidian Notes/Implicit Differentiation.md",
     "Obsidian Notes/Inverse.md",
-    "CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Mathematical Foundations of Computing.md",
     "CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Lecture 24.md",
     "CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Lecture 02.md",
     "CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Lecture 25.md",
@@ -252,14 +265,6 @@
     "CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Lecture 18.md",
     "CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Lecture 17.md",
     "CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Lecture 16.md",
-    "CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Lecture 15.md",
-    "CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Lecture 14.md",
-    "CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Lecture 13.md",
-    "CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Lecture 12.md",
-    "CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Lecture 11.md",
-    "project_plan.png",
-    "CS 105 - Introduction to Computers/Final Project/Website/search-icon.png",
-    "Obsidian Notes",
-    "MATH 19 - Calculus I/Notes"
+    "project_plan.png"
   ]
 }

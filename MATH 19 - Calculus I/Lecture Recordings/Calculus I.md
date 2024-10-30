@@ -86,5 +86,8 @@ Links to annotated video below-
 [[Second Derivative Test]]
 [08:50:34: Second Derivative Test](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=672172c456e7b60008548e61)
 
+[[Mean Value Theorem]]
+[09:13:00: Mean Value Theorem](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=67228fa3b2da6400082ae0ca)
+
 
 
