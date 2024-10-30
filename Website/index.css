@@ -60,6 +60,8 @@ main h1 {
 }
 
 .search-container button {
+    width: 5px;
+    height: 5px;
     background: none;
     border: none;
     cursor: pointer;
@@ -69,15 +71,16 @@ main h1 {
 .grid-container {
     display: grid;
     grid-template-columns: repeat(5, 1fr); /* 5 boxes per row */
-    grid-auto-rows: 1fr; /* Ensures the grid items maintain proportional height */
     grid-gap: 20px;
     max-width: 1200px; /* Adjust this width based on your design */
     margin: 0 auto;
+    height: calc(100vh - 300px); /* Adjust height to fit exactly 3 rows */
+    max-height: 600px; /* Max height for the grid */
 }
 
 /* Flexbox inside grid item to enforce square shape */
 .grid-item {
-    background-color: #E3F2FD; /* Light aesthetic blue color */
+    background-color: #f1f1f1; /* Light gray color for grid items */
     position: relative;
     padding: 0;
     width: 100%;
@@ -98,18 +101,12 @@ main h1 {
     left: 50%;
     transform: translate(-50%, -50%);
     text-decoration: none;
-    color: blue;
+    color: #888;
 }
 
 .grid-item:hover {
     transform: translateY(-5px);
     cursor: pointer;
-}
-
-/* Ensure exactly 3 rows in the grid */
-.grid-container {
-    height: calc(100vh - 300px); /* Adjust height to fit exactly 3 rows */
-    max-height: 600px; /* Max height for the grid */
 }
 
 /* Remove extra items to fit exactly 15 items */
