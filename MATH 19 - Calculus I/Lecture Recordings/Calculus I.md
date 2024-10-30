@@ -1,4 +1,5 @@
 [![Watch the video](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
+
 Links to annotated video below-
 [Annotate.tv Editor](https://annotate.tv/videos/67210de66afc8f00080e73fb)
 [Annotate.tv Video](https://annotate.tv/watch/67210de66afc8f00080e73fb)
