@@ -11,15 +11,10 @@
             "id": "b77b91cf0d095609",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH 19 - Calculus I/Lecture Recordings/Calculus I.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Calculus I"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -78,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "be8513d247906e56",
@@ -87,7 +82,11 @@
       {
         "id": "37dad9d5eeafd551",
         "type": "tabs",
+<<<<<<< HEAD
         "dimension": 38.202247191011224,
+=======
+        "dimension": 29.705215419501137,
+>>>>>>> 73c52f485b0875bff7179852632e2930c9b8a82f
         "children": [
           {
             "id": "ffc995186e6f7b78",
@@ -104,7 +103,11 @@
       {
         "id": "a7ad739116e98e2f",
         "type": "tabs",
+<<<<<<< HEAD
         "dimension": 36.82896379525592,
+=======
+        "dimension": 38.435374149659864,
+>>>>>>> 73c52f485b0875bff7179852632e2930c9b8a82f
         "children": [
           {
             "id": "82ec96babe211102",
@@ -112,7 +115,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MATH 19 - Calculus I/Lecture Recordings/Calculus I.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -135,12 +137,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.31701131672108585,
+                  "scale": 0.8735804647362997,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Calculus I"
+              "title": "Graph view"
             }
           }
         ]
@@ -148,7 +150,11 @@
       {
         "id": "ad78b51249fe000f",
         "type": "tabs",
+<<<<<<< HEAD
         "dimension": 24.96878901373283,
+=======
+        "dimension": 31.859410430839002,
+>>>>>>> 73c52f485b0875bff7179852632e2930c9b8a82f
         "children": [
           {
             "id": "c7d97508c40e0deb",
@@ -156,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +171,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
@@ -175,12 +180,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
@@ -201,11 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MATH 19 - Calculus I/Lecture Recordings/Calculus I.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Calculus I"
+              "title": "Outline"
             }
           }
         ],
@@ -213,7 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 335.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,44 +229,42 @@
   },
   "active": "b77b91cf0d095609",
   "lastOpenFiles": [
-    "Obsidian Notes/Graphing Derivatives.md",
-    "Obsidian Notes/Graphic Derivatives.md",
-    "MATH 19 - Calculus I/Lecture Recordings/Calculus I.md",
-    "Obsidian Notes/Riemann's Formula.md",
-    "Obsidian Notes/Rectilinear Motion.md",
-    "Obsidian Notes/Riemman's Formula.md",
-    "Obsidian Notes/Fundamental Theorem of Calculus.md",
-    "Obsidian Notes/Antiderivative.md",
-    "Obsidian Notes/Newton's Method.md",
-    "Obsidian Notes/L'Hôspital's Rule.md",
-    "Obsidian Notes/The Differential.md",
     "Obsidian Notes/Linear Approximation.md",
-    "Obsidian Notes/Inflection Points.md",
-    "Obsidian Notes/Integral.md",
-    "Obsidian Notes/First Derivative Test.md",
+    "Obsidian Notes/Newton's Method.md",
+    "Obsidian Notes/Critical Numbers.md",
+    "Obsidian Notes/Derivative.md",
+    "Obsidian Notes/Secant Line.md",
+    "Obsidian Notes/Max & Min Values.md",
+    "MATH 19 - Calculus I/Lecture Recordings/Calculus I.md",
+    "Obsidian Notes/Tangent Line.md",
+    "Obsidian Notes/Fundamental Theorem of Calculus.md",
+    "Obsidian Notes/Computing Limits.md",
+    "Obsidian Notes/Chain Rule.md",
+    "Obsidian Notes/The Differential.md",
+    "Obsidian Notes/Riemann's Formula.md",
     "Obsidian Notes/Mean Value Theorem.md",
-    "CS 105 - Introduction to Computers/Final Project/Website/_config.yml",
-    "CS 105 - Introduction to Computers/Final Project/Website/search-icon.png",
-    "CS 105 - Introduction to Computers/Final Project/Website/index.html",
-    "CS 105 - Introduction to Computers/Final Project/Website/index.css",
-    "CS 105 - Introduction to Computers/Final Project/Website",
-    "CS 105 - Introduction to Computers/Final Project",
-    "CS 105 - Introduction to Computers/Resources/Appendix A.pdf",
-    "CS 105 - Introduction to Computers/Resources/Appendix B.pdf",
-    "CS 105 - Introduction to Computers/Lecture Recordings/Introduction to Computers.md",
-    "CS 105 - Introduction to Computers/Resources",
-    "CS 105 - Introduction to Computers/Lecture Recordings",
-    "CS 105 - Introduction to Computers",
-    "CS 106A - Programming Methodology/Final Exam/CS106A-Final-Sum17/res/saturn.jpg",
-    "CS 106A - Programming Methodology/Lecture Recordings/Programming Methodology.md",
-    "CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Mathematical Foundations of Computing.md",
+    "Obsidian Notes/L'Hôspital's Rule.md",
+    "Obsidian Notes/Integral.md",
+    "Obsidian Notes/Inflection Points.md",
+    "Obsidian Notes/Graphing Derivatives.md",
+    "Obsidian Notes/Antiderivative.md",
+    "CS 228 - Probabilistic Graphical Models",
+    "CS 221 - Artificial Intelligence Principles and Techniques",
+    "CS 131 - Computer Vision Foundations and Applications",
+    "Obsidian Notes/First Derivative Test.md",
+    "Obsidian Notes/Common Log.md",
+    "Obsidian Notes/Compound Functions.md",
     "README.md",
     "Obsidian Notes/Logarithmic Differentiation.md",
     "Obsidian Notes/Logarithmic.md",
     "Obsidian Notes/Logarithms.md",
-    "CS 105 - Introduction to Computers/Assignments/Assignment.md",
-    "CS 105 - Introduction to Computers/Assignments/Assignment #1.md",
-    "CS 105 - Introduction to Computers/Assignments/Assignment 1.md",
-    "project_plan.png"
+    "CS 105 - Introduction to Computers/Resources/Appendix B.pdf",
+    "CS 105 - Introduction to Computers/Resources/Appendix A.pdf",
+    "CS 106B - Programming Abstractions/Assignments/01 Assignment.pdf",
+    "CS 106A - Programming Methodology/Assignments/Assignment 1/09-assignment-1.pdf",
+    "project_plan.png",
+    "CS 105 - Introduction to Computers/Final Project/Website/search-icon.png",
+    "Obsidian Notes",
+    "MATH 19 - Calculus I/Notes"
   ]
 }
