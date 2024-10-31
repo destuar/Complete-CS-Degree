@@ -1,4 +1,5 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "Obsidian Notes"
+  "newFileFolderPath": "Obsidian Notes",
+  "alwaysUpdateLinks": true
 }

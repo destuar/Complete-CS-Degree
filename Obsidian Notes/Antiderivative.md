@@ -1,0 +1,3 @@
+The antiderivative is a function that "undoes" differentiation. The antiderivative of a function $f(x)$ is another function $F(x)$ such that $F'(x) = f(x)$. Additionally, if $F(x)$ is an antiderivative of $f(x)$, then all other antiderivatives for $f(x)$ can be written in the form $F(x) + c$.
+
+Said differently, they represent the family of all functions whose [[derivative]]s give $f(x)$. These antiderivatives are "indefinite", meaning they don't involve specific limits or bounds and are therefore known as "indefinite [[integral]]s". 

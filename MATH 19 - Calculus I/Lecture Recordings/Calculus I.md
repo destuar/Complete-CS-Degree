@@ -1,93 +1,117 @@
 [![Watch the video](https://img.youtube.com/vi/HfACrKJ_Y2w/0.jpg)](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
-
-Links to annotated video below-
-[Annotate.tv Editor](https://annotate.tv/videos/67210de66afc8f00080e73fb)
-[Annotate.tv Video](https://annotate.tv/watch/67210de66afc8f00080e73fb)
-
 # INDEX:
 [[Computing Limits]]
-*[43:12: Computing Limits](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=672113b26afc8f00080e73fd)*
+*Time: 43:12*
 
 [[Limits at Infinity]]
-*[01:38:18: Limits at Infinity](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=6721145a6afc8f00080e73ff)*
+*Time: 01:38:18*
 
 [[Tangent Line]]
-*[03:08:24: Tangent Line](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=67210fca4cc45f0008628418)*
+*Time: 03:08:24*
 
 [[Secant Line]]
-*[03:09:15: Secant Line](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=67210ff36afc8f00080e73fc)*
+*Time: 03:09:15*
 
 [[Derivative]]
-[03:14:17: Derivative](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=672112054cc45f0008628419)
+*Time: 03:14:17*
 
 [[Higher Order Derivatives]]
-[04:36:31: Higher Order Derivatives](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=672114ec6afc8f00080e7400)
+*Time: 04:36:31*
 
 [[e^x]]
-[04:39:39: e^x](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=6721157b6afc8f00080e7401)
+*Time: 04:39:39*
 
 [[Power Rule]]
-[04:52:21: The Power Rule](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=672115da9fd31e00088c6b7c)
+*Time: 04:52:21*
 
 [[Product Rule]]
-[04:56:40: The Product Rule](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=672116606afc8f00080e7402)
+*Time: 04:56:40*
 
 [[Quotient Rule]]
-[05:00:05: The Quotient Rule](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=672116c99fd31e00088c6b7d)
+*Time: 05:00:05*
 
 [[Compound Functions]]
-[05:24:35: Compound Functions](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=672117466afc8f00080e7403)
+*Time: 05:24:35*
 
 [[Rectilinear Motion]]
-[05:59:27: Rectilinear Motion](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=6721234f3b08ab00088c02e8)
+*Time: 05:59:27*
 
 [[Marginal Cost]]
-[06:13:32: Marginal Cost](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=6721253739bcbd0008381b8e)
+*Time: 06:13:32*
 
 [[Logarithms]]
-[06:18:05: Logarithms](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=672126b85bf60d00087e6be9)
+*Time: 06:18:05*
 
 [[Natural Log]]
-[06:22:10: Natural Log](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=6721278339bcbd0008381b8f)
+*Time: 06:22:10*
 
 [[Common Log]]
-[06:22:13: Common Log](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=672127a25bf60d00087e6bea)
+*Time: 06:22:13*
 
 [[Log Rules]]
-[06:38:00: Log Rules](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=6721330117275c000804fc1f)
+*Time: 06:38:00*
 
 [[Chain Rule]]
-[06:49:56: The Chain Rule](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=67214cf5d6553d0008819dbc)
+*Time: 06:49:56*
 
 [[Implicit Differentiation]]
-[07:10:34: Implicit Differentiation](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=6721570b9f446200085e000a)
+*Time: 07:10:34*
 
 [[Derivatives of Exponentials]]
-[07:24:09: Derivatives of Exponentials](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=67215b9759d0e500086194a5)
+*Time: 07:24:09*
 
 [[Derivatives of Logarithms]]
-[07:26:03: Derivatives of Logarithms](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=67215c5559d0e500086194a6)
+*Time: 07:26:03*
 
 [[Logarithmic Differentiation]]
-[07:35:26: Logarithmic Differentiation](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=67215eaab20b19000841e32f)
+*Time: 07:35:26*
 
 [[Inverse Functions]]
-[07:38:33: Inverse Functions](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=67216445e2ed2b0008fd1c87)
+*Time: 07:38:33*
 
 [[Max & Min Values]]
-[08:38:58: Max & Min Values](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=672168ef59d0e500086194a7)
+*Time: 08:38:58*
 
 [[Critical Numbers]]
-[08:44:42: Critical Numbers](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=67216c0fc70c620008bfa036)
+*Time: 08:44:42*
 
 [[First Derivative Test]]
-[08:49:17: First Derivative Test](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=6721722356e7b60008548e60)
+*Time: 08:49:17*
 
 [[Second Derivative Test]]
-[08:50:34: Second Derivative Test](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=672172c456e7b60008548e61)
+*Time: 08:50:34*
 
 [[Mean Value Theorem]]
-[09:13:00: Mean Value Theorem](https://annotate.tv/watch/67210de66afc8f00080e73fb?annotationId=67228fa3b2da6400082ae0ca)
+*Time: 09:13:00*
+
+[[Graphing Derivatives]]
+*Time: 09:27:31*
+
+[[Inflection Points]]
+*Time: 09:33:30*
+
+[[Linear Approximation]]
+*Time: 09:36:42*
+
+[[The Differential]]
+*Time: 09:31:10*
+
+[[L'Hôspital's Rule]]
+*Time: 10:02:56*
+
+[[Newton's Method]]
+*Time: 10:21:12*
+
+[[Antiderivative]]
+*Time: 10:26:53*
+
+[[Riemann's Formula]]
+*Time: 11:04:05*
+
+[[Fundamental Theorem of Calculus]]
+*Time: 11:10:07*
+
+
 
 
 

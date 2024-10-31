@@ -213,7 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,10 +225,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "680c654f8e98f04d",
+  "active": "b77b91cf0d095609",
   "lastOpenFiles": [
-    "Obsidian Notes/Mean Value Theorem.md",
+    "Obsidian Notes/Graphing Derivatives.md",
+    "Obsidian Notes/Graphic Derivatives.md",
     "MATH 19 - Calculus I/Lecture Recordings/Calculus I.md",
+    "Obsidian Notes/Riemann's Formula.md",
+    "Obsidian Notes/Rectilinear Motion.md",
+    "Obsidian Notes/Riemman's Formula.md",
+    "Obsidian Notes/Fundamental Theorem of Calculus.md",
+    "Obsidian Notes/Antiderivative.md",
+    "Obsidian Notes/Newton's Method.md",
+    "Obsidian Notes/L'Hôspital's Rule.md",
+    "Obsidian Notes/The Differential.md",
+    "Obsidian Notes/Linear Approximation.md",
+    "Obsidian Notes/Inflection Points.md",
+    "Obsidian Notes/Integral.md",
+    "Obsidian Notes/First Derivative Test.md",
+    "Obsidian Notes/Mean Value Theorem.md",
     "CS 105 - Introduction to Computers/Final Project/Website/_config.yml",
     "CS 105 - Introduction to Computers/Final Project/Website/search-icon.png",
     "CS 105 - Introduction to Computers/Final Project/Website/index.html",
@@ -251,20 +265,6 @@
     "CS 105 - Introduction to Computers/Assignments/Assignment.md",
     "CS 105 - Introduction to Computers/Assignments/Assignment #1.md",
     "CS 105 - Introduction to Computers/Assignments/Assignment 1.md",
-    "CS 105 - Introduction to Computers/Assignments/Assignment #1 Answers.md",
-    "Obsidian Notes/Implicit Differentiation.md",
-    "Obsidian Notes/Inverse.md",
-    "CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Lecture 24.md",
-    "CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Lecture 02.md",
-    "CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Lecture 25.md",
-    "CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Lecture 23.md",
-    "CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Lecture 22.md",
-    "CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Lecture 21.md",
-    "CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Lecture 20.md",
-    "CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Lecture 19.md",
-    "CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Lecture 18.md",
-    "CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Lecture 17.md",
-    "CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Lecture 16.md",
     "project_plan.png"
   ]
 }
