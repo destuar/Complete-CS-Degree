@@ -109,6 +109,9 @@
 [[Riemann's Formula]]
 *Time: 11:04:05*
 
+[[Integral]]
+*Time: 11:10:00*
+
 [[Fundamental Theorem of Calculus]]
 *Time: 11:10:07*
 

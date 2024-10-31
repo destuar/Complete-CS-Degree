@@ -6,15 +6,25 @@
 ## Lecture 1.1
 
 [![Watch the video](https://img.youtube.com/vi/LOV_BwQfOqI/0.jpg)](https://www.youtube.com/watch?v=LOV_BwQfOqI&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&index=2)
+### INDEX:
+[[Decimal Number System]]
+[[Binary Number System]]
+[[Bit]]
+[[Byte]]
 ## Lecture 1.2
 
 [![Watch the video](https://img.youtube.com/vi/CzrUquTurzw/0.jpg)](https://www.youtube.com/watch?v=CzrUquTurzw&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&index=3)
+### INDEX:
+[[Counting in Binary]]
+[[Powers of 2]]
 ## Lecture 1.3
 
 [![Watch the video](https://img.youtube.com/vi/vTDCChTAnrs/0.jpg)](https://www.youtube.com/watch?v=vTDCChTAnrs&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&index=4)
 ## Lecture #1.4
 
 [![Watch the video](https://img.youtube.com/vi/Suodr0VVHgM/0.jpg)](https://www.youtube.com/watch?v=Suodr0VVHgM&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&index=5)
+### INDEX:
+[[ASCII]]
 ## Lecture #2.1
 
 [![Watch the video](https://img.youtube.com/vi/MNAshR_e9sk/0.jpg)](https://www.youtube.com/watch?v=MNAshR_e9sk&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&index=6)
@@ -214,6 +224,4 @@
 ## Lecture #27.2
 
 [![Watch the video](https://img.youtube.com/vi/Sw6S48iZ6DM/0.jpg)](https://www.youtube.com/watch?v=Sw6S48iZ6DM&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&index=69)
-
-# INDEX:
 

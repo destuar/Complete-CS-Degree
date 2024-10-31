@@ -1,0 +1,1 @@
+A Byte is a grouping of eight [[Bit]]s, which is the primary measure of computer storage. All computer storage is ultimately stored as Bits and Bytes.
