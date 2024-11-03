@@ -11,10 +11,15 @@
             "id": "b77b91cf0d095609",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Notes/Limits at Infinity.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Limits at Infinity"
             }
           }
         ]
@@ -107,6 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Obsidian Notes/Limits at Infinity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +140,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Limits at Infinity"
             }
           }
         ]
@@ -150,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian Notes/Limits at Infinity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +166,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Limits at Infinity"
             }
           },
           {
@@ -168,11 +175,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian Notes/Limits at Infinity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Limits at Infinity"
             }
           },
           {
@@ -193,9 +201,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Obsidian Notes/Limits at Infinity.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Limits at Infinity"
             }
           }
         ],
