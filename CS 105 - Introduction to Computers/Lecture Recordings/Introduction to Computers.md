@@ -34,13 +34,14 @@
 ## Lecture #2.3
 
 [![Watch the video](https://img.youtube.com/vi/qysuyTJ8FJY/0.jpg)](https://www.youtube.com/watch?v=qysuyTJ8FJY&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&index=8)
+[[Raster Graphics]]
+[[Vector Graphics]]
 ## Lecture #2.4
 
 [![Watch the video](https://img.youtube.com/vi/hFaI3a91ugo/0.jpg)](https://www.youtube.com/watch?v=hFaI3a91ugo&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&index=9)
 ## Lecture #3.1
 
 [![Watch the video](https://img.youtube.com/vi/KuLxqrdmais/0.jpg)](https://www.youtube.com/watch?v=KuLxqrdmais&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&index=10)
-
 ## Lecture #3.2
 
 [![Watch the video](https://img.youtube.com/vi/ejJEzdUwFjQ/0.jpg)](https://www.youtube.com/watch?v=ejJEzdUwFjQ&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&index=11)
@@ -69,16 +70,28 @@
 ## Lecture #5.1
 
 [![Watch the video](https://img.youtube.com/vi/ypr3W8YbaH8/0.jpg)](https://www.youtube.com/watch?v=ypr3W8YbaH8&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&index=19)
+[[Star Network]]
+[[Ring Network]]
+[[Bus Network]]
+[[Internet]]
+[[Bandwidth]]
+[[Latency]]
 ## Lecture #5.2
 
 [![Watch the video](https://img.youtube.com/vi/wt8Z9SPPz9U/0.jpg)](https://www.youtube.com/watch?v=wt8Z9SPPz9U&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&index=20)
-
+[[IP Address]]
+[[Port Number]]
 ## Lecture #6.1
 
 [![Watch the video](https://img.youtube.com/vi/_7MGRAuG3kc/0.jpg)](https://www.youtube.com/watch?v=_7MGRAuG3kc&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&index=21)
+[[HTTP Protocol]]
 ## Lecture #6.2
 
 [![Watch the video](https://img.youtube.com/vi/dxxEJbxuJOE/0.jpg)](https://www.youtube.com/watch?v=dxxEJbxuJOE&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&index=22)
+[[Application Layer]]
+[[Transport Layer]]
+[[Network Layer]]
+[[Physical Layer]]
 ## Lecture #7.1
 
 [![Watch the video](https://img.youtube.com/vi/TtM1YJ1Z8TA/0.jpg)](https://www.youtube.com/watch?v=TtM1YJ1Z8TA&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&index=23)
@@ -86,6 +99,7 @@
 ## Lecture #7.2
 
 [![Watch the video](https://img.youtube.com/vi/zymolE4q_Pk/0.jpg)](https://www.youtube.com/watch?v=zymolE4q_Pk&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&index=24)
+[[HTML]]
 ## Lecture #7.3
 
 [![Watch the video](https://img.youtube.com/vi/6IgMedQysSw/0.jpg)](https://www.youtube.com/watch?v=6IgMedQysSw&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&index=25)
@@ -95,6 +109,7 @@
 ## Lecture #8.1
 
 [![Watch the video](https://img.youtube.com/vi/gpTIWKu36vQ/0.jpg)](https://www.youtube.com/watch?v=gpTIWKu36vQ&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&index=27)
+[[CSS]]
 ## Lecture #8.2
 
 [![Watch the video](https://img.youtube.com/vi/adggOmf3OEM/0.jpg)](https://www.youtube.com/watch?v=adggOmf3OEM&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&index=28)
@@ -214,13 +229,16 @@
 ## Lecture #26.1
 
 [![Watch the video](https://img.youtube.com/vi/1r8ClbKmEtE/0.jpg)](https://www.youtube.com/watch?v=1r8ClbKmEtE&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&index=66)
-
+[[Cloud Computing]]
 ## Lecture #26.2
 
 [![Watch the video](https://img.youtube.com/vi/mR4DKWoZEM4/0.jpg)](https://www.youtube.com/watch?v=mR4DKWoZEM4&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&index=67)
 ## Lecture #27.1
 
 [![Watch the video](https://img.youtube.com/vi/J4OnlGsym8Y/0.jpg)](https://www.youtube.com/watch?v=J4OnlGsym8Y&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&index=68)
+[[Big O-Notation]]
+[[Big Omega-Notation]]
+[[Big Theta-Notation]]
 ## Lecture #27.2
 
 [![Watch the video](https://img.youtube.com/vi/Sw6S48iZ6DM/0.jpg)](https://www.youtube.com/watch?v=Sw6S48iZ6DM&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&index=69)

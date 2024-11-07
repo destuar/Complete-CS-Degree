@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Notes/Limits at Infinity.md",
+                "file": "Obsidian Notes/Byte.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Limits at Infinity"
+              "title": "Byte"
             }
           }
         ]
@@ -112,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Obsidian Notes/Limits at Infinity.md",
+                "file": "Obsidian Notes/Byte.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -135,12 +135,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8735804647362997,
+                  "scale": 0.3170113167210858,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Limits at Infinity"
+              "title": "Graph of Byte"
             }
           }
         ]
@@ -202,10 +202,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Notes/Limits at Infinity.md"
+                "file": "Obsidian Notes/Byte.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Limits at Infinity"
+              "title": "Outline of Byte"
             }
           }
         ],
@@ -227,32 +227,34 @@
   },
   "active": "b77b91cf0d095609",
   "lastOpenFiles": [
-    "Obsidian Notes/Powers of 2.md",
-    "Obsidian Notes/Decimal Number System.md",
-    "Obsidian Notes/Counting in Binary.md",
-    "Obsidian Notes/Byte.md",
+    "Obsidian Notes/Bus Network.md",
     "Obsidian Notes/Bit.md",
     "Obsidian Notes/Binary Number System.md",
+    "Obsidian Notes/Big O-Notation.md",
+    "Obsidian Notes/Bandwidth.md",
+    "Obsidian Notes/Application Layer.md",
     "Obsidian Notes/ASCII.md",
-    "Obsidian Notes/Linear Approximation.md",
-    "Obsidian Notes/Newton's Method.md",
-    "Obsidian Notes/Critical Numbers.md",
-    "Obsidian Notes/Derivative.md",
-    "Obsidian Notes/Secant Line.md",
-    "Obsidian Notes/Max & Min Values.md",
-    "MATH 19 - Calculus I/Lecture Recordings/Calculus I.md",
-    "Obsidian Notes/Tangent Line.md",
-    "Obsidian Notes/Fundamental Theorem of Calculus.md",
-    "Obsidian Notes/Computing Limits.md",
-    "Obsidian Notes/Chain Rule.md",
-    "Obsidian Notes/The Differential.md",
-    "Obsidian Notes/Riemann's Formula.md",
-    "Obsidian Notes/Mean Value Theorem.md",
-    "Obsidian Notes/L'Hôspital's Rule.md",
-    "Obsidian Notes/Integral.md",
-    "Obsidian Notes/Inflection Points.md",
-    "Obsidian Notes/Graphing Derivatives.md",
     "Obsidian Notes/Antiderivative.md",
+    "CS 105 - Introduction to Computers/Lecture Recordings/Introduction to Computers.md",
+    "Obsidian Notes/Big Theta-Notation.md",
+    "Obsidian Notes/Big Omega-Notation.md",
+    "Obsidian Notes/Cloud Computing.md",
+    "Obsidian Notes/CSS.md",
+    "Obsidian Notes/HTML.md",
+    "Obsidian Notes/HTTP Protocol.md",
+    "Obsidian Notes/Physical Layer.md",
+    "Obsidian Notes/Network Layer.md",
+    "Obsidian Notes/IP Address.md",
+    "Obsidian Notes/Transport Layer.md",
+    "Obsidian Notes/Port Number.md",
+    "Obsidian Notes/Port Number.md",
+    "Obsidian Notes/Latency.md",
+    "Obsidian Notes/Internet.md",
+    "Obsidian Notes/Ring Network.md",
+    "Obsidian Notes/Star Network.md",
+    "Obsidian Notes/Critical Numbers.md",
+    "Object",
+    "Bitmap",
     "CS 228 - Probabilistic Graphical Models",
     "CS 221 - Artificial Intelligence Principles and Techniques",
     "CS 131 - Computer Vision Foundations and Applications",
@@ -262,7 +264,6 @@
     "CS 106A - Programming Methodology/Assignments/Assignment 1/09-assignment-1.pdf",
     "project_plan.png",
     "CS 105 - Introduction to Computers/Final Project/Website/search-icon.png",
-    "Obsidian Notes",
-    "MATH 19 - Calculus I/Notes"
+    "Obsidian Notes"
   ]
 }
