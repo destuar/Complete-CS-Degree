@@ -2,29 +2,45 @@
 ## Lecture 01
 
 [![Watch the video](https://img.youtube.com/vi/k6u4EhJh5oo/0.jpg)](https://www.youtube.com/watch?v=k6u4EhJh5oo&list=PL-h0BZdG_K4myglyF0owcVh9a0oO_arhD)
+[[Object-Oriented Programming]]
+[[Java]]
 ## Lecture 02
 
 [![Watch the video](https://img.youtube.com/vi/vAfNzsQwaSo/0.jpg)](https://www.youtube.com/watch?v=vAfNzsQwaSo&list=PL-h0BZdG_K4myglyF0owcVh9a0oO_arhD&index=2)
+[[Method]]
+[[For Loop]]
+[[While Loop]]
+[[If-Else Statements]]
+[[Fencepost Structure]]
 ## Lecture 03
 
 [![Watch the video](https://img.youtube.com/vi/bqFSFfAm3do/0.jpg)](https://www.youtube.com/watch?v=bqFSFfAm3do&list=PL-h0BZdG_K4myglyF0owcVh9a0oO_arhD&index=3)
+[[Decomposition]]
 ## Lecture 04
 
 [![Watch the video](https://img.youtube.com/vi/jhls_fJ-e6Y/0.jpg)](https://www.youtube.com/watch?v=jhls_fJ-e6Y&list=PL-h0BZdG_K4myglyF0owcVh9a0oO_arhD&index=4)
+[[Escape Sequence]]
+[[Variable]]
+[[Variable Declaration]]
+[[Modulus]]
+
 ## Lecture 05
 
 [![Watch the video](https://img.youtube.com/vi/YO7giiwStDs/0.jpg)](https://www.youtube.com/watch?v=YO7giiwStDs&list=PL-h0BZdG_K4myglyF0owcVh9a0oO_arhD&index=5)
-
+[[Constant]]
+[[Precedence]]
 ## Lecture 06
 
 [![Watch the video](https://img.youtube.com/vi/sWqN8ieDJEw/0.jpg)](https://www.youtube.com/watch?v=sWqN8ieDJEw&list=PL-h0BZdG_K4myglyF0owcVh9a0oO_arhD&index=6)
+[[Variable Scope]]
+[[Method Parameters]]
 ## Lecture 07
 
 [![Watch the video](https://img.youtube.com/vi/bwXRk0P-bYc/0.jpg)](https://www.youtube.com/watch?v=bwXRk0P-bYc&list=PL-h0BZdG_K4myglyF0owcVh9a0oO_arhD&index=7)
+[[Method Return]]
 ## Lecture 08
 
 [![Watch the video](https://img.youtube.com/vi/wEJJfZ6fIKM/0.jpg)](https://www.youtube.com/watch?v=wEJJfZ6fIKM&list=PL-h0BZdG_K4myglyF0owcVh9a0oO_arhD&index=8)
-
 ## Lecture 09
 
 [![Watch the video](https://img.youtube.com/vi/pOKu7U1exVs/0.jpg)](https://www.youtube.com/watch?v=pOKu7U1exVs&list=PL-h0BZdG_K4myglyF0owcVh9a0oO_arhD&index=9)
