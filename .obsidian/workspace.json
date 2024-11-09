@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 106A - Programming Methodology/Lecture Recordings/Programming Methodology.md",
+                "file": "Obsidian Notes/ArrayList.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programming Methodology"
+              "title": "ArrayList"
             }
           }
         ]
@@ -112,7 +112,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS 106A - Programming Methodology/Lecture Recordings/Programming Methodology.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +139,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Programming Methodology"
+              "title": "Graph view"
             }
           }
         ]
@@ -201,11 +200,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS 106A - Programming Methodology/Lecture Recordings/Programming Methodology.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Programming Methodology"
+              "title": "Outline"
             }
           }
         ],
@@ -225,10 +222,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b77b91cf0d095609",
+  "active": "ffc995186e6f7b78",
   "lastOpenFiles": [
-    "Obsidian Notes/Method.md",
+    "Obsidian Notes/ArrayList.md",
     "CS 106A - Programming Methodology/Lecture Recordings/Programming Methodology.md",
+    "CS 106A - Programming Methodology/Assignments/Assignment 7/AdventureContest/acm.jar",
+    "CS 106A - Programming Methodology/Assignments/Assignment 7/AdventureContest/TinyRooms.txt",
+    "CS 106A - Programming Methodology/Assignments/Assignment 7/AdventureContest/SmallSynonyms.txt",
+    "CS 106A - Programming Methodology/Assignments/Assignment 7/AdventureContest/SmallRooms.txt",
+    "CS 106A - Programming Methodology/Assignments/Assignment 7/AdventureContest/SmallObjects.txt",
+    "CS 106A - Programming Methodology/Assignments/Assignment 7/AdventureContest/CrowtherSynonyms.txt",
+    "CS 106A - Programming Methodology/Assignments/Assignment 7/AdventureContest/CrowtherRooms.txt",
+    "CS 106A - Programming Methodology/Assignments/Assignment 7/AdventureContest/CrowtherObjects.txt",
+    "CS 106A - Programming Methodology/Assignments/Assignment 7/AdventureContest/AdventureMagic.jar",
+    "CS 106A - Programming Methodology/Assignments/Assignment 7/AdventureContest/Adventure.java",
+    "Obsidian Notes/Method.md",
     "Obsidian Notes/Method Return.md",
     "Obsidian Notes/Variable Scope.md",
     "Obsidian Notes/Variable.md",
@@ -247,22 +255,11 @@
     "Obsidian Notes/Fencepost Structure.md",
     "Obsidian Notes/If-Else Statements.md",
     "Obsidian Notes/Object-Oriented Programming.md",
-    "CS 106A - Programming Methodology/Final Exam/FinalExamSolutions.pdf",
-    "CS 106A - Programming Methodology/Final Exam/FinalExamQuestionBooklet.pdf",
     "Obsidian Notes/Byte.md",
     "Obsidian Notes/Bus Network.md",
     "Obsidian Notes/Bit.md",
     "Obsidian Notes/Binary Number System.md",
     "Obsidian Notes/Big O-Notation.md",
-    "Obsidian Notes/Bandwidth.md",
-    "Object",
-    "Bitmap",
-    "CS 228 - Probabilistic Graphical Models",
-    "CS 221 - Artificial Intelligence Principles and Techniques",
-    "CS 131 - Computer Vision Foundations and Applications",
-    "CS 105 - Introduction to Computers/Resources/Appendix B.pdf",
-    "CS 105 - Introduction to Computers/Resources/Appendix A.pdf",
-    "CS 106B - Programming Abstractions/Assignments/01 Assignment.pdf",
     "project_plan.png",
     "CS 105 - Introduction to Computers/Final Project/Website/search-icon.png"
   ]

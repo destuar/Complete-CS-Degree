@@ -1,0 +1,13 @@
+!SESSION 2024-11-08 19:12:13.904 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=21.0.4
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/diegoestuar/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/diegoestuar/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-08 19:12:19.221
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-08 19:13:07.849
+!MESSAGE Logback config file: /Users/diegoestuar/Desktop/Independent Work/Stanford-Complete-CS-Degree/CS 106A - Programming Methodology/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
