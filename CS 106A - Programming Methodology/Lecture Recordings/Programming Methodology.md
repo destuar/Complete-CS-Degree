@@ -63,12 +63,18 @@
 ## Lecture 15
 
 [![Watch the video](https://img.youtube.com/vi/3oeAAYekyP4/0.jpg)](https://www.youtube.com/watch?v=3oeAAYekyP4&list=PL-h0BZdG_K4myglyF0owcVh9a0oO_arhD&index=15)
+[[Boolean]]
+[[Morgan's Law]]
 ## Lecture 16
 
 [![Watch the video](https://img.youtube.com/vi/JwnLjuYb2fI/0.jpg)](https://www.youtube.com/watch?v=JwnLjuYb2fI&list=PL-h0BZdG_K4myglyF0owcVh9a0oO_arhD&index=16)
+[[Array]]
+[[2D Array]]
 ## Lecture 17
 
 [![Watch the video](https://img.youtube.com/vi/oztV6PEflA0/0.jpg)](https://www.youtube.com/watch?v=oztV6PEflA0&list=PL-h0BZdG_K4myglyF0owcVh9a0oO_arhD&index=17)
+[[Value Semantics]]
+[[Reference Semantics]]
 ## Lecture 18
 
 [![Watch the video](https://img.youtube.com/vi/3PUrJ_K_i7Y/0.jpg)](https://www.youtube.com/watch?v=3PUrJ_K_i7Y&list=PL-h0BZdG_K4myglyF0owcVh9a0oO_arhD&index=18)
