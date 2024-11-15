@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 106A - Programming Methodology/Lecture Recordings/Programming Methodology.md",
+                "file": "Obsidian Notes/Inheritance.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programming Methodology"
+              "title": "Inheritance"
             }
           }
         ]
@@ -112,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS 106A - Programming Methodology/Lecture Recordings/Programming Methodology.md",
+                "file": "Obsidian Notes/Inheritance.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Programming Methodology"
+              "title": "Graph of Inheritance"
             }
           }
         ]
@@ -202,10 +202,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 106A - Programming Methodology/Lecture Recordings/Programming Methodology.md"
+                "file": "Obsidian Notes/Inheritance.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Programming Methodology"
+              "title": "Outline of Inheritance"
             }
           }
         ],
@@ -227,9 +227,17 @@
   },
   "active": "b77b91cf0d095609",
   "lastOpenFiles": [
-    "Obsidian Notes/Reference Semantics.md",
+    "Obsidian Notes/Method.md",
+    "Obsidian Notes/Inheritance.md",
     "CS 106A - Programming Methodology/Lecture Recordings/Programming Methodology.md",
+    "Obsidian Notes/Object.md",
+    "Obsidian Notes/Class.md",
+    "Obsidian Notes/Precedence.md",
+    "Obsidian Notes/Modulus.md",
+    "Obsidian Notes/Method Return.md",
+    "Obsidian Notes/Morgan's Law.md",
     "Obsidian Notes/Value Semantics.md",
+    "Obsidian Notes/Reference Semantics.md",
     "Obsidian Notes/Chain Rule.md",
     "Obsidian Notes/Array.md",
     "Obsidian Notes/2D Array.md",
@@ -241,24 +249,16 @@
     "STATS 216 - Introduction to Statistical Learning/Assignments",
     "STATS 216 - Introduction to Statistical Learning",
     "New folder",
-    "Obsidian Notes/Morgan's Law.md",
     "Obsidian Notes/Boolean.md",
     "Obsidian Notes/Java.md",
     "CS 106B - Programming Abstractions/Lecture Recordings/Programming Abstractions.md",
     "Obsidian Notes/Method Parameters.md",
     "Obsidian Notes/Method Parameter.md",
-    "Obsidian Notes/Method Return.md",
-    "Obsidian Notes/Method.md",
     "Obsidian Notes/Variable Scope.md",
     "Obsidian Notes/Variable.md",
-    "Obsidian Notes/Precedence.md",
     "Obsidian Notes/Constant.md",
-    "Obsidian Notes/Modulus.md",
     "Obsidian Notes/Variable Declaration.md",
     "Obsidian Notes/Escape Sequence.md",
-    "Obsidian Notes/Decomposition.md",
-    "Obsidian Notes/For Loop.md",
-    "Obsidian Notes/While Loop.md",
     "CS 106A - Programming Methodology/Final Exam/FinalExamSolutions.pdf",
     "CS 106A - Programming Methodology/Final Exam/FinalExamQuestionBooklet.pdf",
     "Object",
