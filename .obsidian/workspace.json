@@ -13,13 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
+
                 "file": "CS 106A - Programming Methodology/Lecture Recordings/Programming Methodology.md",
+
+                "file": "Obsidian Notes/Polymorphism.md",
+
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
+
               "title": "Programming Methodology"
+
+              "title": "Polymorphism"
+
             }
           }
         ]
@@ -112,7 +120,11 @@
             "state": {
               "type": "localgraph",
               "state": {
+
                 "file": "CS 106A - Programming Methodology/Lecture Recordings/Programming Methodology.md",
+
+                "file": "Obsidian Notes/Polymorphism.md",
+
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +152,11 @@
                 }
               },
               "icon": "lucide-git-fork",
+
               "title": "Graph of Programming Methodology"
+
+              "title": "Graph of Polymorphism"
+
             }
           }
         ]
@@ -202,10 +218,17 @@
             "state": {
               "type": "outline",
               "state": {
+
                 "file": "CS 106A - Programming Methodology/Lecture Recordings/Programming Methodology.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Programming Methodology"
+
+                "file": "Obsidian Notes/Polymorphism.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Polymorphism"
+
             }
           }
         ],
@@ -227,9 +250,13 @@
   },
   "active": "b77b91cf0d095609",
   "lastOpenFiles": [
+
     "Obsidian Notes/ArrayList.md",
     "CS 106A - Programming Methodology/Lecture Recordings/Programming Methodology.md",
     "Obsidian Notes/Array.md",
+
+    "CS 106A - Programming Methodology/Lecture Recordings/Programming Methodology.md",
+
     "Obsidian Notes/Polymorphism.md",
     "Obsidian Notes/Inheritance.md",
     "Obsidian Notes/Method.md",
@@ -259,6 +286,10 @@
     "Obsidian Notes/Variable Scope.md",
     "Obsidian Notes/Variable.md",
     "Obsidian Notes/Constant.md",
+
+
+    "Obsidian Notes/Variable Declaration.md",
+
     "CS 106A - Programming Methodology/Final Exam/FinalExamSolutions.pdf",
     "CS 106A - Programming Methodology/Final Exam/FinalExamQuestionBooklet.pdf",
     "Object",
