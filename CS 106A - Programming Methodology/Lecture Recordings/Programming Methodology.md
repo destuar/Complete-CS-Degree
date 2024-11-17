@@ -100,6 +100,7 @@
 ## Lecture 23
 
 [![Watch the video](https://img.youtube.com/vi/3Fa2ZN1WlLo/0.jpg)](https://www.youtube.com/watch?v=3Fa2ZN1WlLo&list=PL-h0BZdG_K4myglyF0owcVh9a0oO_arhD&index=23)
+
 ## Lecture 24
 
 [![Watch the video](https://img.youtube.com/vi/wf2SAuy2rao/0.jpg)](https://www.youtube.com/watch?v=wf2SAuy2rao&list=PL-h0BZdG_K4myglyF0owcVh9a0oO_arhD&index=24)
@@ -109,9 +110,7 @@
 ## Lecture 26
 
 [![Watch the video](https://img.youtube.com/vi/BuR89n2MZUg/0.jpg)](https://www.youtube.com/watch?v=BuR89n2MZUg&list=PL-h0BZdG_K4myglyF0owcVh9a0oO_arhD&index=26)
+[[Interface]]
 ## Lecture 27
 
 [![Watch the video](https://img.youtube.com/vi/vSEHBBnoH1Q/0.jpg)](https://www.youtube.com/watch?v=vSEHBBnoH1Q&list=PL-h0BZdG_K4myglyF0owcVh9a0oO_arhD&index=27)
-
-# INDEX:
-

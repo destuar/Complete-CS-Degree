@@ -1,3 +1,5 @@
+**Allows for code-sharing and [[Polymorphism]].**
+
 **A way to form new classes based on existing classes, taking on their attributes/behavior.**
 - A way to group related classes and share code between them.
 - One class can *extend* another, absorbing its data/behavior.
