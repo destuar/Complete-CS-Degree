@@ -15,4 +15,4 @@ The **return** keyword is used in functions or methods to exit the function and 
 
 Tags:
 [[Method]]
-[[Method Parameter]]
+[[Method Parameters]]
