@@ -2,6 +2,7 @@
 ## Lecture #1
 
 [![Watch the video](https://img.youtube.com/vi/L6lvEkCj7Us/0.jpg)](https://www.youtube.com/watch?v=L6lvEkCj7Us&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc)
+[[main()]]
 ## Lecture #2
 
 [![Watch the video](https://img.youtube.com/vi/th2FI5KSbTs/0.jpg)](https://www.youtube.com/watch?v=th2FI5KSbTs&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=2)
@@ -84,5 +85,4 @@
 
 [![Watch the video](https://img.youtube.com/vi/6_mwx7kpd_w/0.jpg)](https://www.youtube.com/watch?v=6_mwx7kpd_w&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=27)
 
-# INDEX:
 
