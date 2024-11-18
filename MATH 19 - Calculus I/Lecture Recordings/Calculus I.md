@@ -1,6 +1,10 @@
 
 [![Watch the video](https://img.youtube.com/vi/HfACrKJ_Y2w/0.jpg)](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
 # INDEX:
+
+
+
+
 [[Computing Limits]]
 *Time: 43:12*
 
