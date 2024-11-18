@@ -11,10 +11,15 @@
             "id": "b77b91cf0d095609",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "CS 106A - Programming Methodology/Lecture Recordings/Programming Methodology.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Programming Methodology"
             }
           }
         ]
@@ -112,6 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "CS 106A - Programming Methodology/Lecture Recordings/Programming Methodology.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,7 +145,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Programming Methodology"
             }
           }
         ]
@@ -200,9 +206,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "CS 106A - Programming Methodology/Lecture Recordings/Programming Methodology.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Programming Methodology"
             }
           }
         ],
@@ -224,6 +232,8 @@
   },
   "active": "b77b91cf0d095609",
   "lastOpenFiles": [
+    "CS 105 - Introduction to Computers/Final Project/Website/search-icon.png",
+    "CS 106A - Programming Methodology/Final Exam/FinalExamQuestionBooklet.pdf",
     "CS 106B - Programming Abstractions/Lecture Recordings/Programming Abstractions.md",
     "z_Images/main() function.png",
     "CS 106A - Programming Methodology/Lecture Recordings/Programming Methodology.md",
@@ -252,7 +262,6 @@
     "z_Obsidian Notes/Higher Order Derivatives.md",
     "CS 105 - Introduction to Computers/Resources/Appendix A.pdf",
     "z_Images",
-    "CS 106A - Programming Methodology/Final Exam/FinalExamQuestionBooklet.pdf",
     "CS 106A - Programming Methodology/Final Exam/FinalExamSolutions.pdf",
     "STATS 216 - Introduction to Statistical Learning/Lecture Slides",
     "STATS 216 - Introduction to Statistical Learning/Lecture Recordings",
@@ -260,7 +269,6 @@
     "STATS 216 - Introduction to Statistical Learning/Assignments",
     "STATS 216 - Introduction to Statistical Learning",
     "CS 106A - Programming Methodology/Assignments/Assignment 7/AdventureContest/acm.jar",
-    "project_plan.png",
-    "CS 105 - Introduction to Computers/Final Project/Website/search-icon.png"
+    "project_plan.png"
   ]
 }
