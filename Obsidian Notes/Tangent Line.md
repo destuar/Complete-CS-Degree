@@ -1,1 +1,0 @@
-A line that touches the graph of a function at one point and points in the same direction as that function.

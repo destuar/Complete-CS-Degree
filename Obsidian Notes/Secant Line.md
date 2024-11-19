@@ -1,1 +1,0 @@
-A line that goes through two points on the graph of a function, where the two points can be used to calculate the slope of the secant line.

@@ -1,1 +1,0 @@
-Different combinations of [[bit]]s can be used to represent text characters and symbols- an example of this is ASCII when interpreted by a word processor. 

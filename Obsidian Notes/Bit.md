@@ -1,1 +1,0 @@
-A Binary Digit, or "Bit" is a switch, or memory inside of a computer, that can either store $0$ or $1$. Bits are a single digit in the [[Binary Number System]], where strings of multiple Bits together form computer interpretable code.

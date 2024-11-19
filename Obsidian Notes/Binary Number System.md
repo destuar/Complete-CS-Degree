@@ -1,1 +1,0 @@
-In the binary number system, there are only two digits $[0, 1]$ of which all numbers in this system are composed.  This is also known as "Base 2".
