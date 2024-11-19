@@ -9,8 +9,17 @@
 	**`a2[0] = 7;`**
 	**`println(arrays.toString(a1));`** // *[7, 15, 8]*
 
+When to use in [[C++]]
+*(must use "&" in order to show that it is passed as a reference)
+
+Ex.
+`void example(string a, string&b) {}`
+- `string a` is passed as a value, while `string b` is a reference.
+
+![[Value vs Reference Semantics.png]]
+
 Tags:
 [[Java]]
 [[Python]]
-[[C++]]
 [[Array]]
+[[Value Semantics]]
