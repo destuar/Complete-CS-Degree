@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+/Users/diegoestuar/Desktop/Independent Work/Stanford-Complete-CS-Degree/CS 106A - Programming Methodology/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index

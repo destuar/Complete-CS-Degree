@@ -1,0 +1,3 @@
+Implicitly defined curves, unlike explicitly defined curves, may not satisfy the vertical line test, but $y$ may still be a function of $x$ for small pieces. In these situations, implicit differentiation is required.
+
+You can take the [[Derivative]] of both sides of a function (both $x$ and $y$ in regards to $\frac{d}{dx}$), but you have to remember to solve for $\frac{dy}{dx}$ when taking the derivative of $y$.
