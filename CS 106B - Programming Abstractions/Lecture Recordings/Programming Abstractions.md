@@ -3,15 +3,22 @@
 
 [![Watch the video](https://img.youtube.com/vi/L6lvEkCj7Us/0.jpg)](https://www.youtube.com/watch?v=L6lvEkCj7Us&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc)
 [[main()]]
+[[C++]]
 ## Lecture #2
 
 [![Watch the video](https://img.youtube.com/vi/th2FI5KSbTs/0.jpg)](https://www.youtube.com/watch?v=th2FI5KSbTs&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=2)
+[[Vector]]
+[[LinkedList]]
 ## Lecture #3
 
 [![Watch the video](https://img.youtube.com/vi/qi1ijaFPMCU/0.jpg)](https://www.youtube.com/watch?v=qi1ijaFPMCU&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=3)
+[[Collection]]
+[[Abstract Data Types (ADTs)]]
 ## Lecture #4
 
 [![Watch the video](https://img.youtube.com/vi/062uPWfVJgA/0.jpg)](https://www.youtube.com/watch?v=062uPWfVJgA&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=4)
+[[Queue]]
+[[Stack]]
 ## Lecture #5
 
 [![Watch the video](https://img.youtube.com/vi/PiLgI76hU-o/0.jpg)](https://www.youtube.com/watch?v=PiLgI76hU-o&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=5)
