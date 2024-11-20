@@ -7,30 +7,41 @@
 ## Lecture #2
 
 [![Watch the video](https://img.youtube.com/vi/th2FI5KSbTs/0.jpg)](https://www.youtube.com/watch?v=th2FI5KSbTs&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=2)
-[[Vector]]
-[[LinkedList]]
+[[Reference Semantics]]
+[[Value Semantics]]
 ## Lecture #3
 
 [![Watch the video](https://img.youtube.com/vi/qi1ijaFPMCU/0.jpg)](https://www.youtube.com/watch?v=qi1ijaFPMCU&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=3)
 [[Collection]]
 [[Abstract Data Types (ADTs)]]
+[[Vector]]
+[[LinkedList]]
 ## Lecture #4
 
 [![Watch the video](https://img.youtube.com/vi/062uPWfVJgA/0.jpg)](https://www.youtube.com/watch?v=062uPWfVJgA&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=4)
-[[Queue]]
 [[Stack]]
+[[Queue]]
 ## Lecture #5
 
 [![Watch the video](https://img.youtube.com/vi/PiLgI76hU-o/0.jpg)](https://www.youtube.com/watch?v=PiLgI76hU-o&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=5)
+[[Set]]
+[[HashSet]]
+[[Map]]
+[[HashMap]]
+[[Big O-Notation]]
 ## Lecture #6
 
 [![Watch the video](https://img.youtube.com/vi/lOypCBUczlo/0.jpg)](https://www.youtube.com/watch?v=lOypCBUczlo&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=6)
+[[Recursion]]
+[[Fractal]]
 ## Lecture #7
 
 [![Watch the video](https://img.youtube.com/vi/lmvhaA5syQc/0.jpg)](https://www.youtube.com/watch?v=lmvhaA5syQc&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=7)
 ## Lecture #8
 
 [![Watch the video](https://img.youtube.com/vi/lTXEIgyHcrY/0.jpg)](https://www.youtube.com/watch?v=lTXEIgyHcrY&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=8)
+[[Exhaustive Search]]
+[[Backtracking]]
 ## Lecture #9
 
 [![Watch the video](https://img.youtube.com/vi/SpNv7pHu8OQ/0.jpg)](https://www.youtube.com/watch?v=SpNv7pHu8OQ&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=9)

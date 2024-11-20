@@ -9,3 +9,8 @@
 
 Example:
 The "undo" button is built on a stack, where actions are LIFO and pushed or popped accordingly. 
+
+![[Stack Diagram.png]]
+
+Tags:
+[[C++]]

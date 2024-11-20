@@ -11,3 +11,8 @@
 
 Example:
 This is like a line of people waiting in line for something.
+
+![[Queue Diagram.png]]
+
+Tags:
+[[C++]]
