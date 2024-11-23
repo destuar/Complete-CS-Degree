@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Obsidian Notes/Backtracking.md",
+                "file": "z_Obsidian Notes/Pointers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backtracking"
+              "title": "Pointers"
             }
           }
         ]
@@ -112,7 +112,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "z_Obsidian Notes/Backtracking.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +139,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Backtracking"
+              "title": "Graph view"
             }
           }
         ]
@@ -201,11 +200,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "z_Obsidian Notes/Backtracking.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Backtracking"
+              "title": "Outline"
             }
           }
         ],
@@ -225,11 +222,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b77b91cf0d095609",
+  "active": "ffc995186e6f7b78",
   "lastOpenFiles": [
     "CS 106B - Programming Abstractions/Lecture Recordings/Programming Abstractions.md",
-    "z_Obsidian Notes/Exhaustive Search.md",
+    "z_Obsidian Notes/Big O-Notation.md",
+    "z_Obsidian Notes/Pointers.md",
+    "z_Obsidian Notes/Memory Address.md",
+    "z_Obsidian Notes/Struct.md",
+    "z_Obsidian Notes/Array.md",
+    "z_Obsidian Notes/Class.md",
+    "z_Obsidian Notes/Object.md",
+    "z_Obsidian Notes/Vector.md",
     "z_Obsidian Notes/Backtracking.md",
+    "z_Obsidian Notes/Exhaustive Search.md",
     "z_Obsidian Notes/Fractal.md",
     "z_Obsidian Notes/Java.md",
     "z_Images/Fractal.png",
@@ -238,7 +243,6 @@
     "z_Obsidian Notes/Map.md",
     "z_Obsidian Notes/HashSet.md",
     "z_Obsidian Notes/HashMap.md",
-    "z_Obsidian Notes/Vector.md",
     "z_Obsidian Notes/LinkedList.md",
     "z_Obsidian Notes/Stack.md",
     "z_Obsidian Notes/Queue.md",
@@ -255,15 +259,8 @@
     "z_Images/Set Diagram.png",
     "z_Obsidian Notes/Value Semantics.md",
     "z_Obsidian Notes/Reference Semantics.md",
-    "CS 106A - Programming Methodology/Lecture Recordings/Programming Methodology.md",
-    "z_Obsidian Notes/Derivative.md",
     "CS 105 - Introduction to Computers/Final Project/Website/search-icon.png",
     "CS 106A - Programming Methodology/Final Exam/FinalExamQuestionBooklet.pdf",
-    "MATH 19 - Calculus I/Lecture Recordings/Calculus I.md",
-    "z_Obsidian Notes/Quotient Rule.md",
-    "z_Obsidian Notes/Log Rules.md",
-    "z_Obsidian Notes/Power Rule.md",
-    "Amar.md",
     "CS 105 - Introduction to Computers/Resources/Appendix A.pdf",
     "z_Images",
     "CS 106A - Programming Methodology/Final Exam/FinalExamSolutions.pdf",

@@ -28,7 +28,6 @@
 [[HashSet]]
 [[Map]]
 [[HashMap]]
-[[Big O-Notation]]
 ## Lecture #6
 
 [![Watch the video](https://img.youtube.com/vi/lOypCBUczlo/0.jpg)](https://www.youtube.com/watch?v=lOypCBUczlo&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=6)
@@ -51,10 +50,17 @@
 ## Lecture #11
 
 [![Watch the video](https://img.youtube.com/vi/dObiRzRDwUk/0.jpg)](https://www.youtube.com/watch?v=dObiRzRDwUk&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=11)
+[[Class]]
+[[Object]]
+[[Object-Oriented Programming]]
+[[Class]]
+[[Array]]
 ## Lecture #12
 
 [![Watch the video](https://img.youtube.com/vi/jI5AvnFdDfg/0.jpg)](https://www.youtube.com/watch?v=jI5AvnFdDfg&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=12)
-
+[[Struct]]
+[[Memory Address]]
+[[Pointers]]
 ## Lecture #13
 
 [![Watch the video](https://img.youtube.com/vi/3Dq3tU1Oi1A/0.jpg)](https://www.youtube.com/watch?v=3Dq3tU1Oi1A&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=13)
