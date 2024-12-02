@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Obsidian Notes/Pointers.md",
+                "file": "CS 106B - Programming Abstractions/Lecture Recordings/Programming Abstractions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pointers"
+              "title": "Programming Abstractions"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "constructor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,6 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "CS 106B - Programming Abstractions/Lecture Recordings/Programming Abstractions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,7 +140,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Programming Abstractions"
             }
           }
         ]
@@ -200,9 +201,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "CS 106B - Programming Abstractions/Lecture Recordings/Programming Abstractions.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Programming Abstractions"
             }
           }
         ],
@@ -210,7 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,44 +225,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffc995186e6f7b78",
+  "active": "b77b91cf0d095609",
   "lastOpenFiles": [
+    "z_Obsidian Notes/Edge List.md",
     "CS 106B - Programming Abstractions/Lecture Recordings/Programming Abstractions.md",
-    "z_Obsidian Notes/Big O-Notation.md",
-    "z_Obsidian Notes/Pointers.md",
-    "z_Obsidian Notes/Memory Address.md",
-    "z_Obsidian Notes/Struct.md",
-    "z_Obsidian Notes/Array.md",
-    "z_Obsidian Notes/Class.md",
-    "z_Obsidian Notes/Object.md",
-    "z_Obsidian Notes/Vector.md",
-    "z_Obsidian Notes/Backtracking.md",
-    "z_Obsidian Notes/Exhaustive Search.md",
-    "z_Obsidian Notes/Fractal.md",
-    "z_Obsidian Notes/Java.md",
-    "z_Images/Fractal.png",
-    "z_Obsidian Notes/Recursion.md",
-    "z_Obsidian Notes/Set.md",
-    "z_Obsidian Notes/Map.md",
-    "z_Obsidian Notes/HashSet.md",
-    "z_Obsidian Notes/HashMap.md",
-    "z_Obsidian Notes/LinkedList.md",
-    "z_Obsidian Notes/Stack.md",
-    "z_Obsidian Notes/Queue.md",
-    "z_Obsidian Notes/Dictionary.md",
-    "z_Images/Map Diagram.png",
-    "z_Obsidian Notes/Hash.md",
-    "z_Obsidian Notes/Collection.md",
-    "z_Images/Queue Diagram.png",
-    "Pasted image 20241119092546.png",
-    "z_Images/Stack Diagram.png",
-    "Pasted image 20241119092421.png",
-    "z_Images/Vector Diagram.png",
-    "z_Images/LinkedList Diagram.png",
-    "z_Images/Set Diagram.png",
+    "z_Obsidian Notes/Adjacency List.md",
+    "z_Obsidian Notes/Adjacency Matrix.md",
+    "z_Images/Graph Runtime Comparison.png",
+    "z_Images/Adjacency Matrix Diagram.png",
+    "z_Images/Adjacency List Diagram.png",
+    "z_Images/Edge List Diagram.png",
     "z_Obsidian Notes/Value Semantics.md",
-    "z_Obsidian Notes/Reference Semantics.md",
-    "CS 105 - Introduction to Computers/Final Project/Website/search-icon.png",
+    "z_Obsidian Notes/Traversal.md",
+    "z_Obsidian Notes/Quotient Rule.md",
+    "z_Obsidian Notes/Kruskal's Algorithm.md",
+    "z_Obsidian Notes/Graph.md",
+    "z_Images/Vertex Clusters Diagram.png",
+    "z_Obsidian Notes/Priority Queue.md",
+    "z_Images/Kruskal's Algorithm Pseudocode.png",
+    "z_Obsidian Notes/Minimum Spanning Tree (MST).md",
+    "z_Images/Minimum Spanning Tree Diagram.png",
+    "z_Obsidian Notes/Spanning Tree.md",
+    "z_Obsidian Notes/A* Algorithm.md",
+    "z_Images/A* Pseudocode.png",
+    "z_Images/A* Diagram.png",
+    "z_Obsidian Notes/Heuristic.md",
+    "z_Obsidian Notes/Dijkstra's Algorithm.md",
+    "z_Images/Dijkstra's Runtime.png",
+    "z_Obsidian Notes/Breadth-First Search (BFS).md",
+    "z_Obsidian Notes/Depth-First Search (DFS).md",
+    "z_Obsidian Notes/Abstract Data Types (ADTs).md",
+    "z_Obsidian Notes/Huffman Encoding.md",
+    "z_Obsidian Notes/Balanced Tree.md",
+    "z_Obsidian Notes/Binary Search Tree.md",
+    "z_Obsidian Notes/Tree Node Object.md",
+    "z_Obsidian Notes/Binary Tree.md",
+    "z_Obsidian Notes/Heap.md",
+    "z_Obsidian Notes/Destructor.md",
     "CS 106A - Programming Methodology/Final Exam/FinalExamQuestionBooklet.pdf",
     "CS 105 - Introduction to Computers/Resources/Appendix A.pdf",
     "z_Images",
