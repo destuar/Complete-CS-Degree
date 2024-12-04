@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Obsidian Notes/Pointers.md",
+                "file": "CS 106B - Programming Abstractions/Lecture Recordings/Programming Abstractions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pointers"
+              "title": "Programming Abstractions"
             }
           }
         ]
@@ -112,6 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "CS 106B - Programming Abstractions/Lecture Recordings/Programming Abstractions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,7 +140,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Programming Abstractions"
             }
           }
         ]
@@ -200,9 +201,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "CS 106B - Programming Abstractions/Lecture Recordings/Programming Abstractions.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Programming Abstractions"
             }
           }
         ],
@@ -222,11 +225,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffc995186e6f7b78",
+  "active": "b77b91cf0d095609",
   "lastOpenFiles": [
+    "z_Obsidian Notes/Pointers.md",
     "CS 106B - Programming Abstractions/Lecture Recordings/Programming Abstractions.md",
     "z_Obsidian Notes/Big O-Notation.md",
-    "z_Obsidian Notes/Pointers.md",
     "z_Obsidian Notes/Memory Address.md",
     "z_Obsidian Notes/Struct.md",
     "z_Obsidian Notes/Array.md",
