@@ -51,6 +51,7 @@
 
 [![Watch the video](https://img.youtube.com/vi/dObiRzRDwUk/0.jpg)](https://www.youtube.com/watch?v=dObiRzRDwUk&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=11)
 [[Class]]
+[[Constructor]]
 [[Object]]
 [[Object-Oriented Programming]]
 [[Class]]
@@ -61,40 +62,70 @@
 [[Struct]]
 [[Memory Address]]
 [[Pointers]]
+[[LinkedList]]
 ## Lecture #13
 
 [![Watch the video](https://img.youtube.com/vi/3Dq3tU1Oi1A/0.jpg)](https://www.youtube.com/watch?v=3Dq3tU1Oi1A&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=13)
 ## Lecture #14
 
 [![Watch the video](https://img.youtube.com/vi/vXoqDTe1b3w/0.jpg)](https://www.youtube.com/watch?v=vXoqDTe1b3w&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=14)
+[[Destructor]]
+[[Priority Queue]]
+[[Heap]]
 ## Lecture #15
 
 [![Watch the video](https://img.youtube.com/vi/2x_Ewjcsg8g/0.jpg)](https://www.youtube.com/watch?v=2x_Ewjcsg8g&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=15)
+[[Big O-Notation]]
+[[Binary Tree]]
+[[Tree Node Object]]
 ## Lecture #16
 
 [![Watch the video](https://img.youtube.com/vi/EAiWS7VeHXE/0.jpg)](https://www.youtube.com/watch?v=EAiWS7VeHXE&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=16)
+[[Traversal]]
+[[Binary Search Tree]]
 ## Lecture #17
 
 [![Watch the video](https://img.youtube.com/vi/8eA8e4l2Flk/0.jpg)](https://www.youtube.com/watch?v=8eA8e4l2Flk&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=17)
+[[Balanced Tree]]
+[[Huffman Encoding]]
 ## Lecture #18
 
 [![Watch the video](https://img.youtube.com/vi/RILPhiWZmT4/0.jpg)](https://www.youtube.com/watch?v=RILPhiWZmT4&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=18)
-
+[[Graph]]
+[[Depth-First Search (DFS)]]
+[[Breadth-First Search (BFS)]]
 ## Lecture #19
 
 [![Watch the video](https://img.youtube.com/vi/CPTG5JPbDEY/0.jpg)](https://www.youtube.com/watch?v=CPTG5JPbDEY&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=19)
+[[Dijkstra's Algorithm]]
+[[Heuristic]]
+[[A* Algorithm]]
 ## Lecture #20
 
 [![Watch the video](https://img.youtube.com/vi/XG70D7JHOaE/0.jpg)](https://www.youtube.com/watch?v=XG70D7JHOaE&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=20)
+[[Spanning Tree]]
+[[Minimum Spanning Tree (MST)]]
+[[Kruskal's Algorithm]]
+[[Edge List]]
+[[Adjacency List]]
+[[Adjacency Matrix]]
 ## Lecture #21
 
 [![Watch the video](https://img.youtube.com/vi/I_dcE6oG258/0.jpg)](https://www.youtube.com/watch?v=I_dcE6oG258&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=21)
+[[Hash]]
+[[Hash Table]]
+[[Separate Chaining]]
 ## Lecture #22
 
 [![Watch the video](https://img.youtube.com/vi/83xl7KdN5yw/0.jpg)](https://www.youtube.com/watch?v=83xl7KdN5yw&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=22)
+[[HashMap]]
 ## Lecture #23
 
 [![Watch the video](https://img.youtube.com/vi/7tddaY-W27g/0.jpg)](https://www.youtube.com/watch?v=7tddaY-W27g&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=23)
+[[Sorting]]
+[[Selection Sort]]
+[[Insertion Sort]]
+[[Merge Sort]]
 ## Lecture #24
 
 [![Watch the video](https://img.youtube.com/vi/Zzwi-s538FM/0.jpg)](https://www.youtube.com/watch?v=Zzwi-s538FM&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=24)
