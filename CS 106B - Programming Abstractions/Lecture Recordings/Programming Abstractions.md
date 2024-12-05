@@ -99,7 +99,7 @@
 [![Watch the video](https://img.youtube.com/vi/CPTG5JPbDEY/0.jpg)](https://www.youtube.com/watch?v=CPTG5JPbDEY&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=19)
 [[Dijkstra's Algorithm]]
 [[Heuristic]]
-[[A* Algorithm]]
+[[AStar Algorithm]]
 ## Lecture #20
 
 [![Watch the video](https://img.youtube.com/vi/XG70D7JHOaE/0.jpg)](https://www.youtube.com/watch?v=XG70D7JHOaE&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=20)
@@ -129,9 +129,11 @@
 ## Lecture #24
 
 [![Watch the video](https://img.youtube.com/vi/Zzwi-s538FM/0.jpg)](https://www.youtube.com/watch?v=Zzwi-s538FM&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=24)
+[[Inheritance]]
 ## Lecture #25
 
 [![Watch the video](https://img.youtube.com/vi/Dg_miJbkSxE/0.jpg)](https://www.youtube.com/watch?v=Dg_miJbkSxE&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=25)
+[[Polymorphism]]
 ## Lecture #26
 
 [![Watch the video](https://img.youtube.com/vi/x78k5z3RFL4/0.jpg)](https://www.youtube.com/watch?v=x78k5z3RFL4&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc&index=26)

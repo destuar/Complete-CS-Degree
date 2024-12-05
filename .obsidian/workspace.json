@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "7e2b10b578e5f7fe",
+    "id": "e96db264cbafb38e",
     "type": "split",
     "children": [
       {
-        "id": "10bbfa01194a25b8",
+        "id": "42775bce7345ac5d",
         "type": "tabs",
         "children": [
           {
-            "id": "b77b91cf0d095609",
+            "id": "068bfe65ccf41613",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3e8bf9c960a9b466",
+    "id": "eee94d5ef85dc18d",
     "type": "split",
     "children": [
       {
-        "id": "2f3b7a812150c3bd",
+        "id": "c88a0f4bbae6bf19",
         "type": "tabs",
         "children": [
           {
-            "id": "680c654f8e98f04d",
+            "id": "e025d34f6632ab6e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "c18240d7eba53ab5",
+            "id": "9582001bbdc4fa94",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "constructor",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "3eeb9d535067c105",
+            "id": "6969b1bffc864519",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,113 +78,51 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "be8513d247906e56",
+    "id": "56b321b238dbfd19",
     "type": "split",
     "children": [
       {
-        "id": "37dad9d5eeafd551",
+        "id": "d1c064943e7cafc9",
         "type": "tabs",
-        "dimension": 29.705215419501137,
         "children": [
           {
-            "id": "ffc995186e6f7b78",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a7ad739116e98e2f",
-        "type": "tabs",
-        "dimension": 38.435374149659864,
-        "children": [
-          {
-            "id": "82ec96babe211102",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "CS 106B - Programming Abstractions/Lecture Recordings/Programming Abstractions.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.35689495398568777,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Programming Abstractions"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ad78b51249fe000f",
-        "type": "tabs",
-        "dimension": 31.859410430839002,
-        "children": [
-          {
-            "id": "c7d97508c40e0deb",
+            "id": "653e3b94c5231a01",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Notes/Limits at Infinity.md",
+                "file": "CS 106B - Programming Abstractions/Lecture Recordings/Programming Abstractions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Limits at Infinity"
+              "title": "Backlinks for Programming Abstractions"
             }
           },
           {
-            "id": "7a527fa87fe786c7",
+            "id": "09bc27308b700af9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Notes/Limits at Infinity.md",
+                "file": "CS 106B - Programming Abstractions/Lecture Recordings/Programming Abstractions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Limits at Infinity"
+              "title": "Outgoing links from Programming Abstractions"
             }
           },
           {
-            "id": "0fe8301d88747890",
+            "id": "4c066a2282b99dda",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -197,7 +135,7 @@
             }
           },
           {
-            "id": "63cd9af959a7a4c8",
+            "id": "4d191f6cf22438fa",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -208,12 +146,12 @@
               "title": "Outline of Programming Abstractions"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,73 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b77b91cf0d095609",
+  "active": "068bfe65ccf41613",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "z_Obsidian Notes/Pointers.md",
+    "z_Obsidian Notes/Polymorphism.md",
     "CS 106B - Programming Abstractions/Lecture Recordings/Programming Abstractions.md",
-    "z_Obsidian Notes/Big O-Notation.md",
-    "z_Obsidian Notes/Memory Address.md",
-    "z_Obsidian Notes/Struct.md",
-    "z_Obsidian Notes/Array.md",
-    "z_Obsidian Notes/Class.md",
-    "z_Obsidian Notes/Object.md",
-    "z_Obsidian Notes/Vector.md",
-    "z_Obsidian Notes/Backtracking.md",
-    "z_Obsidian Notes/Exhaustive Search.md",
-    "z_Obsidian Notes/Fractal.md",
-    "z_Obsidian Notes/Java.md",
-    "z_Images/Fractal.png",
-    "z_Obsidian Notes/Recursion.md",
-    "z_Obsidian Notes/Set.md",
-    "z_Obsidian Notes/Map.md",
-    "z_Obsidian Notes/HashSet.md",
-=======
-    "z_Obsidian Notes/Merge Sort.md",
-    "z_Images/Merge Sort Diagram 3.png",
-    "z_Images/Merge Sort Diagram 2.png",
-    "z_Images/Merge Sort Diagram.png",
-    "CS 106B - Programming Abstractions/Lecture Recordings/Programming Abstractions.md",
-    "z_Obsidian Notes/Insertion Sort.md",
-    "z_Images/Insertion Sort Diagram 2.png",
-    "z_Images/Selection Sort Diagram.png",
-    "z_Obsidian Notes/Selection Sort.md",
-    "z_Images/Insertion Sort Diagram.png",
-    "z_Obsidian Notes/Sorting.md",
-    "z_Images/Sorting Algorithms Diagram.png",
->>>>>>> e39a770d8807e2868ebf73431e4fe599029faf8c
-    "z_Obsidian Notes/HashMap.md",
-    "z_Obsidian Notes/Separate Chaining.md",
-    "z_Images/Rehash Diagram.png",
-    "z_Obsidian Notes/Binary Search Tree.md",
-    "z_Obsidian Notes/Spanning Tree.md",
-    "z_Obsidian Notes/Minimum Spanning Tree (MST).md",
-    "z_Obsidian Notes/Hash Table.md",
-    "z_Obsidian Notes/Hash.md",
-    "z_Images/Separate Chaining Diagram.png",
-    "z_Obsidian Notes/Edge List.md",
-    "z_Obsidian Notes/Adjacency List.md",
-    "z_Obsidian Notes/Adjacency Matrix.md",
-    "z_Images/Graph Runtime Comparison.png",
-    "z_Obsidian Notes/Value Semantics.md",
-    "z_Obsidian Notes/Traversal.md",
-    "z_Obsidian Notes/Quotient Rule.md",
-    "z_Obsidian Notes/Kruskal's Algorithm.md",
-    "z_Obsidian Notes/Graph.md",
-    "z_Obsidian Notes/Priority Queue.md",
-    "z_Obsidian Notes/A* Algorithm.md",
-    "z_Obsidian Notes/Heuristic.md",
-    "z_Obsidian Notes/Dijkstra's Algorithm.md",
-    "z_Obsidian Notes/Breadth-First Search (BFS).md",
-    "CS 106A - Programming Methodology/Final Exam/FinalExamQuestionBooklet.pdf",
-    "CS 105 - Introduction to Computers/Resources/Appendix A.pdf",
-    "z_Images",
-    "CS 106A - Programming Methodology/Final Exam/FinalExamSolutions.pdf",
-    "STATS 216 - Introduction to Statistical Learning/Lecture Slides",
-    "STATS 216 - Introduction to Statistical Learning/Lecture Recordings",
-    "STATS 216 - Introduction to Statistical Learning/Final Exam",
-    "STATS 216 - Introduction to Statistical Learning/Assignments",
-    "STATS 216 - Introduction to Statistical Learning",
-    "CS 106A - Programming Methodology/Assignments/Assignment 7/AdventureContest/acm.jar"
+    "z_Obsidian Notes/Inheritance.md",
+    "z_Obsidian Notes/AStar Algorithm.md"
   ]
 }
