@@ -4,22 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "42775bce7345ac5d",
+        "id": "9352227779409688",
         "type": "tabs",
         "children": [
           {
-            "id": "068bfe65ccf41613",
+            "id": "8828eef07171fb8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 106B - Programming Abstractions/Lecture Recordings/Programming Abstractions.md",
+                "file": "05 MATH 20 - Calculus II/Lecture Recordings/Calculus II.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programming Abstractions"
+              "title": "Calculus II"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8e1fc5b8f27f8b37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b9885b74fbcea87",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -163,8 +179,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "068bfe65ccf41613",
+  "active": "8828eef07171fb8f",
   "lastOpenFiles": [
+    "z_Obsidian Notes/Mean Value Theorem for Integrals.md",
+    "z_Obsidian Notes/[.md",
+    "05 MATH 20 - Calculus II/Lecture Recordings/Calculus II.md",
+    "z_Obsidian Notes/Avg Value of a Function.md",
+    "z_Obsidian Notes/Riemann's Formula.md",
+    "z_Obsidian Notes/Arc Length of a Curve.md",
+    "z_Obsidian Notes/Solids of Revolution.md",
+    "02 MATH 19 - Calculus I/Lecture Recordings/Calculus I.md",
+    "04 CS 106B - Programming Abstractions/Lecture Recordings/Programming Abstractions.md",
     "z_Obsidian Notes/Polymorphism.md",
     "CS 106B - Programming Abstractions/Lecture Recordings/Programming Abstractions.md",
     "z_Obsidian Notes/Inheritance.md",
