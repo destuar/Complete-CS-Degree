@@ -6,6 +6,7 @@
       {
         "id": "9352227779409688",
         "type": "tabs",
+        "dimension": 78.58672376873662,
         "children": [
           {
             "id": "8828eef07171fb8f",
@@ -27,6 +28,7 @@
       {
         "id": "8e1fc5b8f27f8b37",
         "type": "tabs",
+        "dimension": 21.413276231263385,
         "children": [
           {
             "id": "6b9885b74fbcea87",
@@ -181,9 +183,10 @@
   },
   "active": "8828eef07171fb8f",
   "lastOpenFiles": [
+    "z_Obsidian Notes/Integration by Parts.md",
+    "05 MATH 20 - Calculus II/Lecture Recordings/Calculus II.md",
     "z_Obsidian Notes/Mean Value Theorem for Integrals.md",
     "z_Obsidian Notes/[.md",
-    "05 MATH 20 - Calculus II/Lecture Recordings/Calculus II.md",
     "z_Obsidian Notes/Avg Value of a Function.md",
     "z_Obsidian Notes/Riemann's Formula.md",
     "z_Obsidian Notes/Arc Length of a Curve.md",

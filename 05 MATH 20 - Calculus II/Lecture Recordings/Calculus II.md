@@ -16,3 +16,6 @@
 
 [[Mean Value Theorem for Integrals]]
 *Time: 0:58:00*
+
+[[Integration by Parts]]
+*Time: 1:08:00*
