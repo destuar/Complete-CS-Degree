@@ -6,7 +6,7 @@
       {
         "id": "9352227779409688",
         "type": "tabs",
-        "dimension": 78.58672376873662,
+        "dimension": 77.92068595927117,
         "children": [
           {
             "id": "8828eef07171fb8f",
@@ -28,10 +28,10 @@
       {
         "id": "8e1fc5b8f27f8b37",
         "type": "tabs",
-        "dimension": 21.413276231263385,
+        "dimension": 22.079314040728832,
         "children": [
           {
-            "id": "6b9885b74fbcea87",
+            "id": "d4535471ef31515e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -181,10 +181,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8828eef07171fb8f",
+  "active": "d4535471ef31515e",
   "lastOpenFiles": [
-    "z_Obsidian Notes/Integration by Parts.md",
+    "12 MATH 21 - Calculus III/Lecture Recordings/Calculus III.md",
     "05 MATH 20 - Calculus II/Lecture Recordings/Calculus II.md",
+    "z_Obsidian Notes/Sequence.md",
+    "z_Obsidian Notes/Series.md",
+    "z_Obsidian Notes/Recursively Defined Sequence.md",
+    "z_Obsidian Notes/Geometric Sequence.md",
+    "z_Obsidian Notes/Arithmetic Sequence.md",
+    "z_Obsidian Notes/Improper Integral.md",
+    "z_Obsidian Notes/Integration by Parts.md",
     "z_Obsidian Notes/Mean Value Theorem for Integrals.md",
     "z_Obsidian Notes/[.md",
     "z_Obsidian Notes/Avg Value of a Function.md",

@@ -19,3 +19,21 @@
 
 [[Integration by Parts]]
 *Time: 1:08:00*
+
+[[Improper Integral]]
+*Time: 2:05:00*
+
+[[Sequence]]
+*Time: 2:20:00*
+
+[[Arithmetic Sequence]]
+*Time: 2:22:00*
+
+[[Geometric Sequence]]
+*Time: 2:28:00*
+
+[[Recursively Defined Sequence]]
+*Time: 2:28:00*
+
+[[Series]]
+*Time: 2:30:00*
