@@ -37,3 +37,21 @@
 
 [[Series]]
 *Time: 2:30:00*
+
+[[Convergence & Divergence]]
+*Time: 4:39:00*
+
+[[Taylor Series]]
+*Time: 5:00:00*
+
+[[Power Series]]
+*Time: 5:03:00*
+
+[[Cartesian Equation]]
+*Time: 6:16:00*
+
+[[Parametric Equation]]
+Time: 6:16:00
+
+[[Polar Coordinates]]
+*Time: 6:45:00*

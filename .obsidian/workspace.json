@@ -181,10 +181,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4535471ef31515e",
+  "active": "8828eef07171fb8f",
   "lastOpenFiles": [
-    "12 MATH 21 - Calculus III/Lecture Recordings/Calculus III.md",
+    "z_Obsidian Notes/Polar Coordinates.md",
     "05 MATH 20 - Calculus II/Lecture Recordings/Calculus II.md",
+    "z_Obsidian Notes/Convergence & Divergence.md",
+    "z_Obsidian Notes/Parametric Equation.md",
+    "z_Obsidian Notes/Cartesian Equation.md",
+    "z_Obsidian Notes/Power Series.md",
+    "z_Obsidian Notes/Taylor Series.md",
+    "z_Obsidian Notes/Integral.md",
+    "12 MATH 21 - Calculus III/Lecture Recordings/Calculus III.md",
     "z_Obsidian Notes/Sequence.md",
     "z_Obsidian Notes/Series.md",
     "z_Obsidian Notes/Recursively Defined Sequence.md",
@@ -201,8 +208,6 @@
     "02 MATH 19 - Calculus I/Lecture Recordings/Calculus I.md",
     "04 CS 106B - Programming Abstractions/Lecture Recordings/Programming Abstractions.md",
     "z_Obsidian Notes/Polymorphism.md",
-    "CS 106B - Programming Abstractions/Lecture Recordings/Programming Abstractions.md",
-    "z_Obsidian Notes/Inheritance.md",
-    "z_Obsidian Notes/AStar Algorithm.md"
+    "CS 106B - Programming Abstractions/Lecture Recordings/Programming Abstractions.md"
   ]
 }
