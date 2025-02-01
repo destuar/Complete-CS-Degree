@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 MATH 20 - Calculus II/Lecture Recordings/Calculus II.md",
+                "file": "06 CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Mathematical Foundations of Computing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calculus II"
+              "title": "Mathematical Foundations of Computing"
             }
           }
         ]
@@ -181,10 +181,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8828eef07171fb8f",
+  "active": "d4535471ef31515e",
   "lastOpenFiles": [
-    "z_Obsidian Notes/Polar Coordinates.md",
+    "06 CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Mathematical Foundations of Computing.md",
+    "z_Obsidian Notes/Induction.md",
+    "z_Obsidian Notes/Proof.md",
+    "z_Obsidian Notes/Axiom.md",
+    "z_Obsidian Notes/Truth Table.md",
+    "z_Obsidian Notes/Proposition.md",
+    "z_Obsidian Notes/Predicate.md",
+    "z_Obsidian Notes/[.md",
+    "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/01_READING.pdf",
+    "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/35_READING.pdf",
+    "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/30_READING.pdf",
+    "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/09_READING.pdf",
+    "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/04_READING.pdf",
+    "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/03_READING.pdf",
+    "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/02_READING.pdf",
     "05 MATH 20 - Calculus II/Lecture Recordings/Calculus II.md",
+    "z_Obsidian Notes/Polar Coordinates.md",
     "z_Obsidian Notes/Convergence & Divergence.md",
     "z_Obsidian Notes/Parametric Equation.md",
     "z_Obsidian Notes/Cartesian Equation.md",
@@ -200,14 +215,6 @@
     "z_Obsidian Notes/Improper Integral.md",
     "z_Obsidian Notes/Integration by Parts.md",
     "z_Obsidian Notes/Mean Value Theorem for Integrals.md",
-    "z_Obsidian Notes/[.md",
-    "z_Obsidian Notes/Avg Value of a Function.md",
-    "z_Obsidian Notes/Riemann's Formula.md",
-    "z_Obsidian Notes/Arc Length of a Curve.md",
-    "z_Obsidian Notes/Solids of Revolution.md",
-    "02 MATH 19 - Calculus I/Lecture Recordings/Calculus I.md",
-    "04 CS 106B - Programming Abstractions/Lecture Recordings/Programming Abstractions.md",
-    "z_Obsidian Notes/Polymorphism.md",
-    "CS 106B - Programming Abstractions/Lecture Recordings/Programming Abstractions.md"
+    "z_Obsidian Notes/Avg Value of a Function.md"
   ]
 }

@@ -2,9 +2,15 @@
 ## Lecture 01
  
 [![Watch the video](https://img.youtube.com/vi/L3LMbpZIKhQ/0.jpg)](https://www.youtube.com/watch?v=L3LMbpZIKhQ)
+[[Proof]]
+[[Proposition]]
+[[Axiom]]
+[[Truth Table]]
 ## Lecture 02
 
 [![Watch the video](https://img.youtube.com/vi/z8HKWUWS-lA/0.jpg)](https://www.youtube.com/watch?v=z8HKWUWS-lA)
+[[Proof]]
+[[Induction]]
 ## Lecture 03
 
 [![Watch the video](https://img.youtube.com/vi/NuGDkmwEObM/0.jpg)](https://www.youtube.com/watch?v=NuGDkmwEObM)

@@ -1,0 +1,1 @@
+A [[proposition]] whose truth depends on the value of a variable(s).
