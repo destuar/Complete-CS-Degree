@@ -6,7 +6,7 @@
       {
         "id": "9352227779409688",
         "type": "tabs",
-        "dimension": 77.92068595927117,
+        "dimension": 70.41800643086816,
         "children": [
           {
             "id": "8828eef07171fb8f",
@@ -16,8 +16,17 @@
               "state": {
                 "file": "06 CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Mathematical Foundations of Computing.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Mathematical Foundations of Computing"
@@ -28,7 +37,7 @@
       {
         "id": "8e1fc5b8f27f8b37",
         "type": "tabs",
-        "dimension": 22.079314040728832,
+        "dimension": 29.581993569131832,
         "children": [
           {
             "id": "d4535471ef31515e",
@@ -38,6 +47,18 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "7b6bb06dec810c95",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
         ]
@@ -59,7 +80,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -71,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "theorem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,12 +203,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4535471ef31515e",
+  "active": "8828eef07171fb8f",
   "lastOpenFiles": [
+    "z_Obsidian Notes/Lemma.md",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Mathematical Foundations of Computing.md",
     "z_Obsidian Notes/Induction.md",
-    "z_Obsidian Notes/Proof.md",
+    "z_Obsidian Notes/Theorem.md",
+    "z_Obsidian Notes/Conjecture.md",
+    "z_Obsidian Notes/Invariant.md",
+    "z_Obsidian Notes/Strong Induction.md",
+    "07 ENGR 108 - Introduction to Applied Linear Algebra/Lecture Recordings/Introduction to Applied Linear Algebra.md.md",
+    "z_Obsidian Notes/Array.md",
+    "z_Obsidian Notes/Internet.md",
+    "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/03_READING.pdf",
     "z_Obsidian Notes/Axiom.md",
+    "z_Obsidian Notes/axioms.md",
+    "z_Obsidian Notes/Fundamental Theorem of Calculus.md",
+    "z_Obsidian Notes/Mean Value Theorem for Integrals.md",
+    "05 MATH 20 - Calculus II/Lecture Recordings/Calculus II.md",
+    "02 MATH 19 - Calculus I/Lecture Recordings/Calculus I.md",
+    "z_Obsidian Notes/Mean Value Theorem.md",
+    "z_Obsidian Notes/Proof.md",
     "z_Obsidian Notes/Truth Table.md",
     "z_Obsidian Notes/Proposition.md",
     "z_Obsidian Notes/Predicate.md",
@@ -196,25 +233,10 @@
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/30_READING.pdf",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/09_READING.pdf",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/04_READING.pdf",
-    "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/03_READING.pdf",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/02_READING.pdf",
-    "05 MATH 20 - Calculus II/Lecture Recordings/Calculus II.md",
     "z_Obsidian Notes/Polar Coordinates.md",
     "z_Obsidian Notes/Convergence & Divergence.md",
     "z_Obsidian Notes/Parametric Equation.md",
-    "z_Obsidian Notes/Cartesian Equation.md",
-    "z_Obsidian Notes/Power Series.md",
-    "z_Obsidian Notes/Taylor Series.md",
-    "z_Obsidian Notes/Integral.md",
-    "12 MATH 21 - Calculus III/Lecture Recordings/Calculus III.md",
-    "z_Obsidian Notes/Sequence.md",
-    "z_Obsidian Notes/Series.md",
-    "z_Obsidian Notes/Recursively Defined Sequence.md",
-    "z_Obsidian Notes/Geometric Sequence.md",
-    "z_Obsidian Notes/Arithmetic Sequence.md",
-    "z_Obsidian Notes/Improper Integral.md",
-    "z_Obsidian Notes/Integration by Parts.md",
-    "z_Obsidian Notes/Mean Value Theorem for Integrals.md",
-    "z_Obsidian Notes/Avg Value of a Function.md"
+    "z_Obsidian Notes/Cartesian Equation.md"
   ]
 }

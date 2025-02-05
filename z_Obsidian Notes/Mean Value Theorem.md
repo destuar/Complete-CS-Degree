@@ -1,4 +1,4 @@
-The Mean Value Theorem (MVT) for functions states that, 
+The Mean Value [[Theorem]] (MVT) for functions states that, 
 
 If $g(x)$ is continuous on $[$a, $b$], and differentiable on ($a$, $b$), then there is some $c$ in ($a$, $b$) such that the [[Derivative]] of  $g$ at $c$ is equal to the average rate of change of $g$ across the entire interval, $g'(c) = \frac{g(b) - g(a)}{b - a}$.
 

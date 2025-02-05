@@ -8,14 +8,13 @@ There are two main types of induction:
 2. **Structural Induction** – Used to prove properties of recursively defined structures, like trees and graphs.
 
 ---
-
-### **Proof by Mathematical Induction**
+**Proof by Mathematical Induction**
 
 [[Proof]] by induction is a technique used to prove statements of the form:
 
 $P(n) \text{ is true for all } n∈N$
 
-#### **Steps of Induction**
+**Steps of Induction**
 
 A proof by induction consists of two steps:
 
@@ -24,7 +23,15 @@ A proof by induction consists of two steps:
     - This establishes that the claim is true for at least one case.
 
 2. **Inductive Step**:
-    - Assume that the statement is true for some arbitrary natural number $k$, i.e., assume $P(k)$ is true.
-    - Use this assumption (called the **inductive hypothesis**) to prove that $P(k+1)$ is also true.
+    - Assume that the statement is true for some arbitrary natural number $n$, i.e., assume $P(n)$ is true.
+    - Use this assumption (called the **inductive hypothesis**) to prove that $P(n+1)$ is also true.
 
 If both steps hold, then **by the principle of mathematical induction,** the statement is true for all $n∈N$.
+
+A "more powerful" $P(n)$ generally means that the inductive hypothesis assumes a stronger statement. This helps in two key ways:
+
+1. **Stronger Assumptions Make the Inductive Step Easier**  
+    If $P(n)$ includes additional useful properties, then proving $P(n+1)$ might become more straightforward. This is because a stronger $P(n)$ provides more tools when transitioning to $P(n+1)$.
+
+2. **Covers More Cases and Avoids Gaps**  
+    Sometimes, a naive choice of $P(n)$ might fail to cover all necessary cases when proving $P(n+1)$. A stronger version ensures that the induction can properly extend the proof to all numbers without missing crucial information.

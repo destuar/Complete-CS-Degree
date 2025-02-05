@@ -9,4 +9,4 @@ Rearranging for $f(c)$, we see that $f(c)$ is the **average value** of the funct
 
 $f(c) = \frac{1}{b-a} \int_a^b f(x) , dx$
 
-This shows that the Mean Value Theorem for Integrals guarantees the existence of a point $c$ where the function's value equals its average value over the interval.
+This shows that the Mean Value [[Theorem]] for Integrals guarantees the existence of a point $c$ where the function's value equals its average value over the interval.

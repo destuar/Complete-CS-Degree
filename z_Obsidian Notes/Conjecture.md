@@ -1,0 +1,1 @@
+A **conjecture** is a statement believed to be true based on observed patterns, but it lacks a formal [[proof]].

@@ -9,11 +9,15 @@
 ## Lecture 02
 
 [![Watch the video](https://img.youtube.com/vi/z8HKWUWS-lA/0.jpg)](https://www.youtube.com/watch?v=z8HKWUWS-lA)
-[[Proof]]
 [[Induction]]
+[[Lemma]]
+[[Theorem]]
 ## Lecture 03
 
 [![Watch the video](https://img.youtube.com/vi/NuGDkmwEObM/0.jpg)](https://www.youtube.com/watch?v=NuGDkmwEObM)
+[[Conjecture]]
+[[Invariant]]
+[[Strong Induction]]
 ## Lecture 04
 
 [![Watch the video](https://img.youtube.com/vi/NuY7szYSXSw/0.jpg)](https://www.youtube.com/watch?v=NuY7szYSXSw)
