@@ -12,6 +12,7 @@
 [[Induction]]
 [[Lemma]]
 [[Theorem]]
+[[Predicate]]
 ## Lecture 03
 
 [![Watch the video](https://img.youtube.com/vi/NuGDkmwEObM/0.jpg)](https://www.youtube.com/watch?v=NuGDkmwEObM)
@@ -21,12 +22,24 @@
 ## Lecture 04
 
 [![Watch the video](https://img.youtube.com/vi/NuY7szYSXSw/0.jpg)](https://www.youtube.com/watch?v=NuY7szYSXSw)
+[[Number Theory]]
+[[State Machine]]
+[[Euclid's Algorithm]]
 ## Lecture 05
 
 [![Watch the video](https://img.youtube.com/vi/XX7ePR21Ook/0.jpg)](https://www.youtube.com/watch?v=XX7ePR21Ook)
+[[Encryption]]
+[[Decryption]]
+[[Congruency]]
+[[Multiplicative Inverse]]
+
 ## Lecture 06
 
 [![Watch the video](https://img.youtube.com/vi/h9wxtqoa1jY/0.jpg)](https://www.youtube.com/watch?v=h9wxtqoa1jY)
+[[Graph]]
+[[Graph Coloring]]
+[[Greedy Algorithm]]
+[[Bipartite Graph]]
 ## Lecture 07
 
 [![Watch the video](https://img.youtube.com/vi/5RSMLgy06Ew/0.jpg)](https://www.youtube.com/watch?v=5RSMLgy06Ew)

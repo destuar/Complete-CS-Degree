@@ -5,6 +5,8 @@ A data structure ([[Abstract Data Types (ADTs)]]) containing:
 		- Graph G = (V, E)
 		- an edge is a pair (v, w) where v, w are in V
 
+**Mathematical Definition:** A **graph** $G$ is a pair of [[set]]s $(V, E)$ where $V$ is a nonempty set of items called vertices or nodes and $E$ is a set of $z$-item subsets called edges.
+
 - the graph below:
 	- V = {a, b, c, d}
 	- E = {{a, c}, {b, c}, {b, d}, {c, d}}
@@ -29,3 +31,6 @@ A [[LinkedList]] is also a graph:
 - In/out degree of at most 1 for all nodes
 
 ![[Graph Search.png]]
+
+
+

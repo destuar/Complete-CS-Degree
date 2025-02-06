@@ -6,7 +6,7 @@
       {
         "id": "9352227779409688",
         "type": "tabs",
-        "dimension": 70.41800643086816,
+        "dimension": 70.52518756698821,
         "children": [
           {
             "id": "8828eef07171fb8f",
@@ -37,7 +37,7 @@
       {
         "id": "8e1fc5b8f27f8b37",
         "type": "tabs",
-        "dimension": 29.581993569131832,
+        "dimension": 29.474812433011788,
         "children": [
           {
             "id": "d4535471ef31515e",
@@ -203,10 +203,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8828eef07171fb8f",
+  "active": "d4535471ef31515e",
   "lastOpenFiles": [
-    "z_Obsidian Notes/Lemma.md",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Mathematical Foundations of Computing.md",
+    "z_Obsidian Notes/Graph Coloring.md",
+    "z_Obsidian Notes/Greedy Algorithm.md",
+    "z_Obsidian Notes/Bipartite Graph.md",
+    "z_Obsidian Notes/Big O-Notation.md",
+    "z_Obsidian Notes/Graph.md",
+    "z_Obsidian Notes/Multiplicative Inverse.md",
+    "z_Obsidian Notes/Congruency.md",
+    "z_Obsidian Notes/Predicate.md",
+    "z_Obsidian Notes/Encryption.md",
+    "z_Obsidian Notes/Decryption.md",
+    "z_Obsidian Notes/Euclid's Algorithm.md",
+    "z_Obsidian Notes/State Machine.md",
+    "z_Obsidian Notes/Number Theory.md",
+    "z_Obsidian Notes/Lemma.md",
     "z_Obsidian Notes/Induction.md",
     "z_Obsidian Notes/Theorem.md",
     "z_Obsidian Notes/Conjecture.md",
@@ -219,24 +232,11 @@
     "z_Obsidian Notes/Axiom.md",
     "z_Obsidian Notes/axioms.md",
     "z_Obsidian Notes/Fundamental Theorem of Calculus.md",
-    "z_Obsidian Notes/Mean Value Theorem for Integrals.md",
-    "05 MATH 20 - Calculus II/Lecture Recordings/Calculus II.md",
-    "02 MATH 19 - Calculus I/Lecture Recordings/Calculus I.md",
-    "z_Obsidian Notes/Mean Value Theorem.md",
-    "z_Obsidian Notes/Proof.md",
-    "z_Obsidian Notes/Truth Table.md",
-    "z_Obsidian Notes/Proposition.md",
-    "z_Obsidian Notes/Predicate.md",
-    "z_Obsidian Notes/[.md",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/01_READING.pdf",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/35_READING.pdf",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/30_READING.pdf",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/09_READING.pdf",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/04_READING.pdf",
-    "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/02_READING.pdf",
-    "z_Obsidian Notes/Polar Coordinates.md",
-    "z_Obsidian Notes/Convergence & Divergence.md",
-    "z_Obsidian Notes/Parametric Equation.md",
-    "z_Obsidian Notes/Cartesian Equation.md"
+    "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/02_READING.pdf"
   ]
 }
