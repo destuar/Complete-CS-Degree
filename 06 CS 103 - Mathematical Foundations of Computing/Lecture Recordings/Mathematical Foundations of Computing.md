@@ -43,9 +43,16 @@
 ## Lecture 07
 
 [![Watch the video](https://img.youtube.com/vi/5RSMLgy06Ew/0.jpg)](https://www.youtube.com/watch?v=5RSMLgy06Ew)
+[[Greedy Algorithm]]
+[[Matching Algorithm]]
 ## Lecture 08
 
 [![Watch the video](https://img.youtube.com/vi/GJpt_3ie4WU/0.jpg)](https://www.youtube.com/watch?v=GJpt_3ie4WU)
+[[Walks & Paths]]
+[[Well-Ordering Principle]]
+[[Graph]]
+[[Spanning Tree]]
+[[Minimum Spanning Tree (MST)]]
 ## Lecture 09
 
 [![Watch the video](https://img.youtube.com/vi/bTyxpoi2dmM/0.jpg)](https://www.youtube.com/watch?v=bTyxpoi2dmM)

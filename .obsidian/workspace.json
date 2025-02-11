@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "theorem",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,14 +204,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4535471ef31515e",
+  "active": "8828eef07171fb8f",
   "lastOpenFiles": [
+    "z_Obsidian Notes/Graph.md",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Mathematical Foundations of Computing.md",
+    "z_Obsidian Notes/Well-Ordering Principle.md",
+    "z_Obsidian Notes/Matching Algorithm.md",
+    "z_Obsidian Notes/Walks & Paths.md",
     "z_Obsidian Notes/Graph Coloring.md",
     "z_Obsidian Notes/Greedy Algorithm.md",
     "z_Obsidian Notes/Bipartite Graph.md",
     "z_Obsidian Notes/Big O-Notation.md",
-    "z_Obsidian Notes/Graph.md",
     "z_Obsidian Notes/Multiplicative Inverse.md",
     "z_Obsidian Notes/Congruency.md",
     "z_Obsidian Notes/Predicate.md",
@@ -229,9 +233,6 @@
     "z_Obsidian Notes/Array.md",
     "z_Obsidian Notes/Internet.md",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/03_READING.pdf",
-    "z_Obsidian Notes/Axiom.md",
-    "z_Obsidian Notes/axioms.md",
-    "z_Obsidian Notes/Fundamental Theorem of Calculus.md",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/01_READING.pdf",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/35_READING.pdf",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/30_READING.pdf",
