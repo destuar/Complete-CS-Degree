@@ -1,3 +1,5 @@
+**The time required for a packet to travel from an input to and output.**
+
 Latency refers to the delay before a transfer of data begins following an instruction for its transfer. It is the time taken for data to travel from the source to the destination and is usually measured in milliseconds (ms).
 
 In networking, latency can be influenced by various factors, including:
@@ -17,3 +19,4 @@ Lower latency is generally preferred, especially for applications requiring real
 
 Tags:
 [[Internet]]
+[[Graph Theory]]

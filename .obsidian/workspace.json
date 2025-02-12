@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Mathematical Foundations of Computing.md",
+                "file": "z_Obsidian Notes/Relation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mathematical Foundations of Computing"
+              "title": "Relation"
             }
           }
         ]
@@ -114,8 +114,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,32 +205,33 @@
   },
   "active": "8828eef07171fb8f",
   "lastOpenFiles": [
-    "z_Obsidian Notes/Graph.md",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Mathematical Foundations of Computing.md",
+    "z_Obsidian Notes/Relation.md",
+    "z_Obsidian Notes/Butterfly Network.md",
+    "z_Obsidian Notes/Benes Network.md",
+    "z_Images/Butterfly Network.png",
+    "z_Obsidian Notes/Congestion.md",
+    "z_Obsidian Notes/Switch.md",
+    "z_Obsidian Notes/Permutation.md",
+    "z_Obsidian Notes/Network Diameter.md",
+    "z_Obsidian Notes/Latency.md",
+    "z_Obsidian Notes/Directed Hamiltonian Path.md",
+    "z_Obsidian Notes/Adjacency Matrix.md",
+    "z_Obsidian Notes/Euler Tour.md",
+    "z_Obsidian Notes/Spanning Tree.md",
+    "z_Obsidian Notes/Minimum Spanning Tree (MST).md",
     "z_Obsidian Notes/Well-Ordering Principle.md",
-    "z_Obsidian Notes/Matching Algorithm.md",
     "z_Obsidian Notes/Walks & Paths.md",
-    "z_Obsidian Notes/Graph Coloring.md",
+    "z_Obsidian Notes/Matching Algorithm.md",
     "z_Obsidian Notes/Greedy Algorithm.md",
     "z_Obsidian Notes/Bipartite Graph.md",
+    "z_Obsidian Notes/Graph Coloring.md",
+    "z_Obsidian Notes/Graph Theory.md",
     "z_Obsidian Notes/Big O-Notation.md",
+    "z_Obsidian Notes/Graph.md",
     "z_Obsidian Notes/Multiplicative Inverse.md",
     "z_Obsidian Notes/Congruency.md",
     "z_Obsidian Notes/Predicate.md",
-    "z_Obsidian Notes/Encryption.md",
-    "z_Obsidian Notes/Decryption.md",
-    "z_Obsidian Notes/Euclid's Algorithm.md",
-    "z_Obsidian Notes/State Machine.md",
-    "z_Obsidian Notes/Number Theory.md",
-    "z_Obsidian Notes/Lemma.md",
-    "z_Obsidian Notes/Induction.md",
-    "z_Obsidian Notes/Theorem.md",
-    "z_Obsidian Notes/Conjecture.md",
-    "z_Obsidian Notes/Invariant.md",
-    "z_Obsidian Notes/Strong Induction.md",
-    "07 ENGR 108 - Introduction to Applied Linear Algebra/Lecture Recordings/Introduction to Applied Linear Algebra.md.md",
-    "z_Obsidian Notes/Array.md",
-    "z_Obsidian Notes/Internet.md",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/03_READING.pdf",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/01_READING.pdf",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/35_READING.pdf",

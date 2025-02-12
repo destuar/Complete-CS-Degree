@@ -20,3 +20,6 @@ Graph coloring is the process of **assigning colors** to the **vertices, edges, 
 	2. For each remaining vertex:
 	    - Choose the **smallest available color** that is **not used** by its adjacent vertices.
 	3. Repeat until all vertices are colored.
+
+Tags:
+[[Graph Theory]]

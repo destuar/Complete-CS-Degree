@@ -14,3 +14,6 @@ One of the most famous matching algorithms is the **Gale-Shapley algorithm**, al
 3. **Repeat** until every person is matched.
 
 The algorithm **guarantees a stable matching**, meaning that **no two people would rather be with each other than their assigned partners**.
+
+Tags:
+[[Graph Theory]]

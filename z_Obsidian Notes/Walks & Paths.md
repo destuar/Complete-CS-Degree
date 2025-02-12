@@ -13,3 +13,6 @@ A **path** is a special type of walk where **no vertex is repeated** (except in 
 - **Simple Path** – A path that **does not repeat any vertex**.
 - **Closed Path (Cycle)** – A path that **starts and ends at the same vertex**, with no other vertex repetition.
 - **Shortest Path** – The path between two vertices with the minimum number of edges.
+
+Tags:
+[[Graph Theory]]

@@ -4,3 +4,6 @@ It is derived from a graph (typically an undirected, connected graph) and "spans
 
 **Edge Count:**
 - A spanning tree of a graph with $V$ vertices will have exactly $V−1$ edges.
+
+Tags:
+[[Graph Theory]]

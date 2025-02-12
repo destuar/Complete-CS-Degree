@@ -11,3 +11,6 @@ A **greedy [[graph coloring]] algorithm** follows these steps:
 1. **Pick a vertex** and assign it the **smallest available color** that has not been used by its adjacent vertices.
 2. **Move to the next vertex** and repeat the process.
 3. Continue until all vertices are colored.
+
+Tags:
+[[Graph Theory]]

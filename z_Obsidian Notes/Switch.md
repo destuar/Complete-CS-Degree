@@ -1,0 +1,1 @@
+A **switch** in network and circuit switching refers to a **node** that controls how data flows between input and output ports. In [[graph theory]] and networking, switches are used to **route signals, packets, or flows** between multiple nodes efficiently.

@@ -37,6 +37,7 @@
 
 [![Watch the video](https://img.youtube.com/vi/h9wxtqoa1jY/0.jpg)](https://www.youtube.com/watch?v=h9wxtqoa1jY)
 [[Graph]]
+[[Graph Theory]]
 [[Graph Coloring]]
 [[Greedy Algorithm]]
 [[Bipartite Graph]]
@@ -55,13 +56,25 @@
 [[Minimum Spanning Tree (MST)]]
 ## Lecture 09
 
-[![Watch the video](https://img.youtube.com/vi/bTyxpoi2dmM/0.jpg)](https://www.youtube.com/watch?v=bTyxpoi2dmM)
+[![Watch the video](https://img.youtube.com/vi/DOIp5D7VMS4/0.jpg)](https://www.youtube.com/watch?v=DOIp5D7VMS4)
+[[Euler Tour]]
+[[Adjacency Matrix]]
+[[Directed Hamiltonian Path]]
 ## Lecture 10
 
-[![Watch the video](https://img.youtube.com/vi/DOIp5D7VMS4/0.jpg)](https://www.youtube.com/watch?v=DOIp5D7VMS4)
+[![Watch the video](https://img.youtube.com/vi/bTyxpoi2dmM/0.jpg)](https://www.youtube.com/watch?v=bTyxpoi2dmM)
+[[Binary Tree]]
+[[Latency]]
+[[Network Diameter]]
+[[Permutation]]
+[[Switch]]
+[[Congestion]]
+[[Butterfly Network]]
+[[Benes Network]]
 ## Lecture 11
 
 [![Watch the video](https://img.youtube.com/vi/1nScXLQAQ9A/0.jpg)](https://www.youtube.com/watch?v=1nScXLQAQ9A)
+[[Relation]]
 ## Lecture 12
 
 [![Watch the video](https://img.youtube.com/vi/fAeShezAGLE/0.jpg)](https://www.youtube.com/watch?v=fAeShezAGLE)
