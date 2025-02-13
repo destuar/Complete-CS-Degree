@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Obsidian Notes/Relation.md",
+                "file": "06 CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Mathematical Foundations of Computing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Relation"
+              "title": "Mathematical Foundations of Computing"
             }
           }
         ]
@@ -205,7 +205,13 @@
   },
   "active": "8828eef07171fb8f",
   "lastOpenFiles": [
+    "z_Obsidian Notes/Asymptotic Notation.md",
+    "z_Obsidian Notes/Asymptotic Functions.md",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Mathematical Foundations of Computing.md",
+    "z_Obsidian Notes/Harmonic Sum.md",
+    "z_Obsidian Notes/Topological Sort.md",
+    "z_Obsidian Notes/Hasse Diagram.md",
+    "Pasted image 20250212090938.png",
     "z_Obsidian Notes/Relation.md",
     "z_Obsidian Notes/Butterfly Network.md",
     "z_Obsidian Notes/Benes Network.md",
@@ -227,11 +233,6 @@
     "z_Obsidian Notes/Bipartite Graph.md",
     "z_Obsidian Notes/Graph Coloring.md",
     "z_Obsidian Notes/Graph Theory.md",
-    "z_Obsidian Notes/Big O-Notation.md",
-    "z_Obsidian Notes/Graph.md",
-    "z_Obsidian Notes/Multiplicative Inverse.md",
-    "z_Obsidian Notes/Congruency.md",
-    "z_Obsidian Notes/Predicate.md",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/03_READING.pdf",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/01_READING.pdf",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/35_READING.pdf",

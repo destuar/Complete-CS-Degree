@@ -75,13 +75,21 @@
 
 [![Watch the video](https://img.youtube.com/vi/1nScXLQAQ9A/0.jpg)](https://www.youtube.com/watch?v=1nScXLQAQ9A)
 [[Relation]]
+[[Hasse Diagram]]
+[[Topological Sort]]
 ## Lecture 12
 
 [![Watch the video](https://img.youtube.com/vi/fAeShezAGLE/0.jpg)](https://www.youtube.com/watch?v=fAeShezAGLE)
-
+[[Riemann's Formula]]
+[[Geometric Sequence]]
+[[Integral]]
+[[Derivative]]
 ## Lecture 13
 
 [![Watch the video](https://img.youtube.com/vi/X9eErxRjQEI/0.jpg)](https://www.youtube.com/watch?v=X9eErxRjQEI)
+[[Greedy Algorithm]]
+[[Harmonic Sum]]
+[[Asymptotic Notation]]
 ## Lecture 14
 
 [![Watch the video](https://img.youtube.com/vi/Kqf0uO0oV6s/0.jpg)](https://www.youtube.com/watch?v=Kqf0uO0oV6s)
