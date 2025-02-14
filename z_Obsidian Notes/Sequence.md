@@ -1,4 +1,4 @@
-**A sequence is an ordered list of numbers. Each number in the sequence is called a term, and the sequence is typically denoted as ${a_n}$, where $a_n$ represents the $n$th term.**
+**A sequence is an ordered [[collection]] or list of numbers. Each number in the sequence is called a term, and the sequence is typically denoted as ${a_n}$, where $a_n$ represents the $n$th term.**
 
 ### **Definition**
 

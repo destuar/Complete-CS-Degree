@@ -93,13 +93,23 @@
 ## Lecture 14
 
 [![Watch the video](https://img.youtube.com/vi/Kqf0uO0oV6s/0.jpg)](https://www.youtube.com/watch?v=Kqf0uO0oV6s)
+[[Merge Sort]]
+[[Divide & Conquer Recurrence]]
 ## Lecture 15
 
 [![Watch the video](https://img.youtube.com/vi/TWBB-JlmYUc/0.jpg)](https://www.youtube.com/watch?v=TWBB-JlmYUc)
+[[Linear Recurrence]]
 ## Lecture 16
 
 [![Watch the video](https://img.youtube.com/vi/pNt5Ll6hGqo/0.jpg)](https://www.youtube.com/watch?v=pNt5Ll6hGqo)
-
+[[Set]]
+[[Cardinality]]
+[[Sequence]]
+[[Permutation]]
+[[Surjective]]
+[[Injective]]
+[[Bijective]]
+[[Pigeonhole Principle]]
 ## Lecture 17
 
 [![Watch the video](https://img.youtube.com/vi/09yIb3VHhMI/0.jpg)](https://www.youtube.com/watch?v=09yIb3VHhMI)
@@ -130,5 +140,4 @@
 
 [![Watch the video](https://img.youtube.com/vi/56iFMY8QW2k/0.jpg)](https://www.youtube.com/watch?v=56iFMY8QW2k)
 
-# INDEX:
 
