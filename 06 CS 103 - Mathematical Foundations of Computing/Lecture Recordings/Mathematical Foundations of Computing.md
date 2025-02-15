@@ -113,13 +113,19 @@
 ## Lecture 17
 
 [![Watch the video](https://img.youtube.com/vi/09yIb3VHhMI/0.jpg)](https://www.youtube.com/watch?v=09yIb3VHhMI)
+[[Sum Rule]]
+[[Binomial Theorem]]
+[[Pascal's Identity]]
 ## Lecture 18
 
 [![Watch the video](https://img.youtube.com/vi/SmFwFdESMHI/0.jpg)](https://www.youtube.com/watch?v=SmFwFdESMHI)
-
+[[Sample Space]]
+[[Probability Space]]
 ## Lecture 19
 
 [![Watch the video](https://img.youtube.com/vi/E6FbvM-FGZ8/0.jpg)](https://www.youtube.com/watch?v=E6FbvM-FGZ8)
+[[Conditional Probability]]
+[[Product Rule]]
 
 ## Lecture 20
 

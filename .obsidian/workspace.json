@@ -6,7 +6,7 @@
       {
         "id": "9352227779409688",
         "type": "tabs",
-        "dimension": 70.52518756698821,
+        "dimension": 74.38370846730975,
         "children": [
           {
             "id": "8828eef07171fb8f",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Mathematical Foundations of Computing.md",
+                "file": "z_Obsidian Notes/Product Rule.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mathematical Foundations of Computing"
+              "title": "Product Rule"
             }
           }
         ]
@@ -37,7 +37,7 @@
       {
         "id": "8e1fc5b8f27f8b37",
         "type": "tabs",
-        "dimension": 29.474812433011788,
+        "dimension": 25.616291532690244,
         "children": [
           {
             "id": "d4535471ef31515e",
@@ -59,6 +59,16 @@
               },
               "icon": "lucide-book-up",
               "title": "Release Notes 1.8.4"
+            }
+          },
+          {
+            "id": "8bcf126ddd3cd980",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -203,9 +213,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4535471ef31515e",
+  "active": "8828eef07171fb8f",
   "lastOpenFiles": [
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Mathematical Foundations of Computing.md",
+    "z_Obsidian Notes/Product Rule.md",
+    "z_Obsidian Notes/Conditional Probability.md",
+    "z_Obsidian Notes/Sum Rule.md",
+    "z_Obsidian Notes/Stack.md",
+    "z_Obsidian Notes/Reference Semantics.md",
+    "z_Obsidian Notes/Polymorphism.md",
+    "z_Obsidian Notes/Minimum Spanning Tree (MST).md",
+    "z_Obsidian Notes/Log Rules.md",
+    "z_Obsidian Notes/Switch.md",
+    "z_Obsidian Notes/Probability Space.md",
+    "z_Obsidian Notes/Sample Space.md",
+    "z_Obsidian Notes/Pascal's Identity.md",
+    "z_Obsidian Notes/Binomial Theorem.md",
+    "07 ENGR 108 - Introduction to Applied Linear Algebra/Lecture Recordings/Introduction to Applied Linear Algebra.md.md",
     "z_Obsidian Notes/Pigeonhole Principle.md",
     "z_Obsidian Notes/Injective.md",
     "z_Obsidian Notes/Bijective.md",
@@ -217,22 +241,8 @@
     "z_Obsidian Notes/Linear Recurrence.md",
     "z_Obsidian Notes/Divide & Conquer Recurrence.md",
     "z_Obsidian Notes/Asymptotic Notation.md",
-    "z_Obsidian Notes/Asymptotic Functions.md",
-    "z_Obsidian Notes/Harmonic Sum.md",
-    "z_Obsidian Notes/Topological Sort.md",
-    "z_Obsidian Notes/Hasse Diagram.md",
     "Pasted image 20250212090938.png",
-    "z_Obsidian Notes/Relation.md",
-    "z_Obsidian Notes/Butterfly Network.md",
-    "z_Obsidian Notes/Benes Network.md",
     "z_Images/Butterfly Network.png",
-    "z_Obsidian Notes/Congestion.md",
-    "z_Obsidian Notes/Switch.md",
-    "z_Obsidian Notes/Network Diameter.md",
-    "z_Obsidian Notes/Latency.md",
-    "z_Obsidian Notes/Directed Hamiltonian Path.md",
-    "z_Obsidian Notes/Adjacency Matrix.md",
-    "z_Obsidian Notes/Euler Tour.md",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/03_READING.pdf",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/01_READING.pdf",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/35_READING.pdf",
