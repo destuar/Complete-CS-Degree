@@ -152,6 +152,9 @@
 
 [![Watch the video](https://img.youtube.com/vi/q4mwO2qS2z4/0.jpg)](https://www.youtube.com/watch?v=q4mwO2qS2z4)
 [[Markov's Theorem]]
+[[Chebyshev's Theorem]]
+[[Chernoff Bound]]
+
 ## Lecture 25
 
 [![Watch the video](https://img.youtube.com/vi/56iFMY8QW2k/0.jpg)](https://www.youtube.com/watch?v=56iFMY8QW2k)
