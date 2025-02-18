@@ -130,18 +130,28 @@
 ## Lecture 20
 
 [![Watch the video](https://img.youtube.com/vi/l1BCv3qqW4A/0.jpg)](https://www.youtube.com/watch?v=l1BCv3qqW4A)
+[[Mutual Independence]]
+[[Pairwise Independence]]
 ## Lecture 21
 
 [![Watch the video](https://img.youtube.com/vi/MOfhhFaQdjw/0.jpg)](https://www.youtube.com/watch?v=MOfhhFaQdjw)
+[[Random Variable]]
+[[Probability Distribution Function]]
+[[Cumulative Distribution Function]]
 ## Lecture 22
 
 [![Watch the video](https://img.youtube.com/vi/gGlMSe7uEkA/0.jpg)](https://www.youtube.com/watch?v=gGlMSe7uEkA)
+[[Expected Value]]
+[[Linearity of Expectation]]
 ## Lecture 23
 
 [![Watch the video](https://img.youtube.com/vi/oI9fMUqgfxY/0.jpg)](https://www.youtube.com/watch?v=oI9fMUqgfxY)
+[[Variance]]
+[[Standard Deviation]]
 ## Lecture 24
 
 [![Watch the video](https://img.youtube.com/vi/q4mwO2qS2z4/0.jpg)](https://www.youtube.com/watch?v=q4mwO2qS2z4)
+[[Markov's Theorem]]
 ## Lecture 25
 
 [![Watch the video](https://img.youtube.com/vi/56iFMY8QW2k/0.jpg)](https://www.youtube.com/watch?v=56iFMY8QW2k)

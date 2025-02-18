@@ -6,7 +6,7 @@
       {
         "id": "9352227779409688",
         "type": "tabs",
-        "dimension": 74.38370846730975,
+        "dimension": 74.38370846730976,
         "children": [
           {
             "id": "8828eef07171fb8f",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Obsidian Notes/Product Rule.md",
+                "file": "z_Obsidian Notes/Markov's Theorem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Product Rule"
+              "title": "Markov's Theorem"
             }
           }
         ]
@@ -37,7 +37,7 @@
       {
         "id": "8e1fc5b8f27f8b37",
         "type": "tabs",
-        "dimension": 25.616291532690244,
+        "dimension": 25.616291532690248,
         "children": [
           {
             "id": "d4535471ef31515e",
@@ -216,6 +216,18 @@
   "active": "8828eef07171fb8f",
   "lastOpenFiles": [
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Mathematical Foundations of Computing.md",
+    "z_Obsidian Notes/Markov's Theorem.md",
+    "z_Obsidian Notes/Variance.md",
+    "z_Obsidian Notes/Standard Deviation.md",
+    "z_Obsidian Notes/Linearity of Expectation.md",
+    "z_Obsidian Notes/Expected Value.md",
+    "z_Obsidian Notes/Stan.md",
+    "z_Obsidian Notes/Probability Distribution Function.md",
+    "z_Obsidian Notes/Random Variable.md",
+    "z_Obsidian Notes/Probability Space.md",
+    "z_Obsidian Notes/Cumulative Distribution Function.md",
+    "z_Obsidian Notes/Pairwise Independence.md",
+    "z_Obsidian Notes/Mutual Independence.md",
     "z_Obsidian Notes/Product Rule.md",
     "z_Obsidian Notes/Conditional Probability.md",
     "z_Obsidian Notes/Sum Rule.md",
@@ -225,22 +237,10 @@
     "z_Obsidian Notes/Minimum Spanning Tree (MST).md",
     "z_Obsidian Notes/Log Rules.md",
     "z_Obsidian Notes/Switch.md",
-    "z_Obsidian Notes/Probability Space.md",
     "z_Obsidian Notes/Sample Space.md",
     "z_Obsidian Notes/Pascal's Identity.md",
     "z_Obsidian Notes/Binomial Theorem.md",
     "07 ENGR 108 - Introduction to Applied Linear Algebra/Lecture Recordings/Introduction to Applied Linear Algebra.md.md",
-    "z_Obsidian Notes/Pigeonhole Principle.md",
-    "z_Obsidian Notes/Injective.md",
-    "z_Obsidian Notes/Bijective.md",
-    "z_Obsidian Notes/Surjective.md",
-    "z_Obsidian Notes/Permutation.md",
-    "z_Obsidian Notes/Cardinality.md",
-    "z_Obsidian Notes/Sequence.md",
-    "z_Obsidian Notes/Set.md",
-    "z_Obsidian Notes/Linear Recurrence.md",
-    "z_Obsidian Notes/Divide & Conquer Recurrence.md",
-    "z_Obsidian Notes/Asymptotic Notation.md",
     "Pasted image 20250212090938.png",
     "z_Images/Butterfly Network.png",
     "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/03_READING.pdf",
