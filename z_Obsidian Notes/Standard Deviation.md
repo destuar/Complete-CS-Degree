@@ -7,3 +7,5 @@ $$\sigma_R = \sqrt{\text{Var}(R)}$$
 where:
 
 $$\text{Var}(R) = E[(R - E[R])^2]$$
+
+![[StDev image.png]]

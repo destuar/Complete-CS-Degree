@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8e1fc5b8f27f8b37",
+        "id": "e001f4e7e77cc1b9",
         "type": "tabs",
-        "dimension": 76.23400365630712,
+        "dimension": 78.33655705996132,
         "children": [
           {
-            "id": "6bad2aa22ed44cc5",
+            "id": "d4535471ef31515e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Mathematical Foundations of Computing.md",
+                "file": "07 ENGR 108 - Introduction to Applied Linear Algebra/Lecture Recordings/Introduction to Applied Linear Algebra.md.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,18 +29,18 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mathematical Foundations of Computing"
+              "title": "Introduction to Applied Linear Algebra.md"
             }
           }
         ]
       },
       {
-        "id": "e001f4e7e77cc1b9",
+        "id": "c52f0b55f0d04f30",
         "type": "tabs",
-        "dimension": 23.76599634369287,
+        "dimension": 21.663442940038685,
         "children": [
           {
-            "id": "d4535471ef31515e",
+            "id": "81ab5794e7c71496",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -191,42 +191,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6bad2aa22ed44cc5",
+  "active": "d4535471ef31515e",
   "lastOpenFiles": [
-    "z_Obsidian Notes/Chernoff Bound.md",
-    "06 CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Mathematical Foundations of Computing.md",
+    "z_Obsidian Notes/Chebyshev's Inequality.md",
+    "07 ENGR 108 - Introduction to Applied Linear Algebra/Lecture Recordings/Introduction to Applied Linear Algebra.md.md",
     "z_Obsidian Notes/Chebyshev's Theorem.md",
-    "z_Obsidian Notes/Cartesian Equation.md",
-    "z_Obsidian Notes/L'Hôspital's Rule.md",
-    "z_Obsidian Notes/Probability Space.md",
-    "z_Obsidian Notes/Recursively Defined Sequence.md",
-    "z_Obsidian Notes/Asymptotic Notation.md",
-    "z_Obsidian Notes/Set.md",
-    "z_Obsidian Notes/Mutual Independence.md",
-    "z_Obsidian Notes/Dijkstra's Algorithm.md",
-    "z_Obsidian Notes/Sequence.md",
-    "z_Images/Pasted image 20250212090938.png",
-    "z_Obsidian Notes/Markov's Theorem.md",
-    "z_Obsidian Notes/Variance.md",
     "z_Obsidian Notes/Standard Deviation.md",
-    "z_Obsidian Notes/Linearity of Expectation.md",
-    "z_Obsidian Notes/Expected Value.md",
-    "z_Obsidian Notes/Stan.md",
-    "z_Obsidian Notes/Probability Distribution Function.md",
-    "z_Obsidian Notes/Random Variable.md",
-    "z_Obsidian Notes/Cumulative Distribution Function.md",
-    "z_Obsidian Notes/Pairwise Independence.md",
-    "z_Obsidian Notes/Product Rule.md",
-    "z_Obsidian Notes/Conditional Probability.md",
-    "z_Obsidian Notes/Sum Rule.md",
-    "z_Obsidian Notes/Stack.md",
-    "z_Images/Butterfly Network.png",
-    "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/03_READING.pdf",
-    "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/01_READING.pdf",
-    "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/35_READING.pdf",
-    "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/30_READING.pdf",
-    "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/09_READING.pdf",
-    "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/04_READING.pdf",
-    "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/02_READING.pdf"
+    "z_Images/StDev image.png",
+    "z_Obsidian Notes/Euclidean Norm.md",
+    "z_Obsidian Notes/Euclidean Distance.md",
+    "z_Obsidian Notes/Euclidian Distance.md",
+    "z_Obsidian Notes/Euclidian Norm.md",
+    "z_Images/Chebyshev Inequality Image.png",
+    "z_Images/Block Vector image.png",
+    "z_Images/RMS Value Image.png",
+    "z_Obsidian Notes/Vector.md",
+    "z_Obsidian Notes/Sparsity.md",
+    "z_Obsidian Notes/Scalar.md",
+    "z_Obsidian Notes/Vector Addition.md",
+    "z_Obsidian Notes/Scalar-Vector Multiplication.md",
+    "z_Obsidian Notes/Linear Combination.md",
+    "z_Obsidian Notes/Inner Product.md",
+    "z_Obsidian Notes/Complexity.md",
+    "z_Obsidian Notes/Superposition.md",
+    "z_Obsidian Notes/Affine Function.md",
+    "z_Obsidian Notes/Taylor Approximation.md",
+    "z_Obsidian Notes/Regression Model.md",
+    "z_Images/Regression Model Image.png",
+    "z_Images/Taylor Approx Image.png",
+    "z_Obsidian Notes/Taylor Series.md",
+    "z_Images/Affine Function Image.png",
+    "z_Obsidian Notes/Linear Transformation.md",
+    "04 CS 106B - Programming Abstractions/Lecture Recordings/Programming Abstractions.md",
+    "z_Images/Complexity Image.png",
+    "z_Images/Linear Combination Image.png",
+    "z_Images/Sparsity Image.png",
+    "06 CS 103 - Mathematical Foundations of Computing/Final Exam/FINAL_EXAM.pdf",
+    "06 CS 103 - Mathematical Foundations of Computing/Final Exam/FINAL_EXAM_SOLUTIONS.pdf",
+    "07 ENGR 108 - Introduction to Applied Linear Algebra/Assignments/vmls-additional-exercises.pdf",
+    "07 ENGR 108 - Introduction to Applied Linear Algebra/Assignments/vmls-additional-exercises.pdf.crdownload",
+    "07 ENGR 108 - Introduction to Applied Linear Algebra/Assignments",
+    "07 ENGR 108 - Introduction to Applied Linear Algebra/New folder",
+    "07 ENGR 108 - Introduction to Applied Linear Algebra/Lecture Slides/vmls-slides.pdf",
+    "07 ENGR 108 - Introduction to Applied Linear Algebra/Lecture Slides/vmls-slides.pdf.crdownload",
+    "07 ENGR 108 - Introduction to Applied Linear Algebra/Lecture Slides",
+    "06 CS 103 - Mathematical Foundations of Computing/Lecture Recordings/Mathematical Foundations of Computing.md",
+    "z_Obsidian Notes/Chernoff Bound.md",
+    "z_Obsidian Notes/Cartesian Equation.md",
+    "06 CS 103 - Mathematical Foundations of Computing/Lecture Slides/03_READING.pdf"
   ]
 }

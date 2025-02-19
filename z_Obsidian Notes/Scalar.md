@@ -1,0 +1,1 @@
+A **scalar** is a single numerical value, typically taken from a field such as the real numbers ($\mathbb{R}$) or the complex numbers ($\mathbb{C}$).
