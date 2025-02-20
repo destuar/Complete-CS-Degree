@@ -51,6 +51,3 @@ where:
    - Use with [[Cross-Validation]]
    - Check model assumptions
    - Consider practical significance
-
-Tags:
-[[Model Selection]]

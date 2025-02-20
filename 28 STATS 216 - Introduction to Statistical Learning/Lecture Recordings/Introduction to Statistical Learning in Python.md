@@ -63,6 +63,7 @@
 - [[Regularization]]
 - [[Resampling Methods]]
 - [[Covariance]]
+- [[Dimensionality Reduction]]
 
 ### Non-Linear Methods
 - [[Polynomial Regression]]
@@ -73,6 +74,7 @@
 - [[Local Regression]]
 - [[Generalized Additive Models]]
 - [[Clustering]]
+- [[Factor Analysis]]
 
 ### Tree-Based Methods
 - [[Regression Trees]]

@@ -28,5 +28,4 @@ $$\text{Cov}(X,Y) = \frac{1}{n-1}\sum_{i=1}^n (x_i - \bar{x})(y_i - \bar{y})$$
    $$\Sigma_{ij} = \text{Cov}(X_i,X_j)$$
 
 ### Related Concepts
-- [[Correlation]] (normalized covariance)
 - [[Variance]]
