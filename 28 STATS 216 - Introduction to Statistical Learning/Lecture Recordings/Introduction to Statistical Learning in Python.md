@@ -26,7 +26,7 @@
 - [[Poisson Regression]]
 - [[Gamma Regression]]
 - [[Negative Binomial Regression]]
-- [[Natural Log]] Transformations
+- [[Natural Log]] 
 - [[Exponential Family]]
 
 ### Classification Methods
@@ -49,7 +49,7 @@
 
 ### Non-Linear Methods
 - [[Polynomial Regression]]
-- [[Power Rule]] Applications
+- [[Power Rule]] 
 - [[Step Functions]]
 - [[Regression Splines]]
 - [[Smoothing Splines]]
@@ -68,7 +68,7 @@
 - [[Maximal Margin Classifier]]
 - [[Support Vector Classifier]]
 - [[Support Vector Machines]]
-- [[Hash]] Functions in Implementation
+- [[Hash]] Functions 
 
 ### Deep Learning
 - [[Neural Networks]]
@@ -94,7 +94,7 @@
 - [[False Discovery Rate]]
 - [[Bonferroni Method]]
 - [[Benjamini-Hochberg Procedure]]
-- [[Conjecture]] Testing
+- [[Conjecture]]
 
 
 
