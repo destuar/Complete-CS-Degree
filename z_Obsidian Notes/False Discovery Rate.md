@@ -83,7 +83,4 @@ where:
 - Choice of threshold
 
 Tags:
-[[Statistical Learning]]
 [[Multiple Testing]]
-[[Inference]]
-[[Probability Theory]]

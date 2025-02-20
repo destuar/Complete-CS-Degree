@@ -82,6 +82,5 @@ where:
 - Partial dependence plots
 
 Tags:
-[[Statistical Learning]]
 [[Non-Parametric Models]]
 [[Classification]]

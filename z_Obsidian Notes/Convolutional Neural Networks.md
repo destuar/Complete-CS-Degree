@@ -92,5 +92,3 @@ where:
 Tags:
 [[Neural Networks]]
 [[Deep Learning]]
-[[Statistical Learning]]
-[[Supervised Learning]]

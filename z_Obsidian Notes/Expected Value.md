@@ -54,10 +54,7 @@ $\mathbb{E}[X] = \int_{-\infty}^{\infty} x f(x) dx$
 - [[Variance]]: $\text{Var}(X) = \mathbb{E}[(X - \mathbb{E}[X])^2]$
 - [[Covariance]]: $\text{Cov}(X,Y) = \mathbb{E}[(X - \mathbb{E}[X])(Y - \mathbb{E}[Y])]$
 - [[Probability Distribution Function]]
-- [[Moment Generating Function]]
+- Moment Generating Function
 
 Tags:
-[[Statistical Learning]]
-[[Probability Theory]]
-[[Random Variables]]
-[[Statistics]]
+[[Random Variable]]

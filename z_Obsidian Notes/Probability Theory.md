@@ -74,7 +74,5 @@
    - Probability measures
 
 Tags:
-[[Statistical Learning]]
-[[Inference]]
 [[Random Variable]]
 [[Probability Distribution Function]]

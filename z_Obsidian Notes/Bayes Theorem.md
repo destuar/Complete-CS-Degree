@@ -1,4 +1,4 @@
-**Bayes Theorem** is a fundamental rule in probability theory that describes how to update the probability of a hypothesis given new evidence. It forms the basis for many [[Statistical Learning]] methods.
+**Bayes Theorem** is a fundamental rule in probability theory that describes how to update the probability of a hypothesis given new evidence. It forms the basis for many Statistical Learning methods.
 
 ### Mathematical Framework
 
@@ -67,7 +67,3 @@ where:
 - May require large samples
 - Interpretation challenges
 - Sensitivity to assumptions
-
-Tags:
-[[Probability Theory]]
-[[Statistical Learning]]

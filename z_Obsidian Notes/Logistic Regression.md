@@ -75,8 +75,6 @@ Solved using:
 - Large sample size relative to predictors
 
 Tags:
-[[Statistical Learning]]
 [[Classification]]
 [[Parametric Models]]
-[[Maximum Likelihood]]
 [[Generalized Linear Models]]

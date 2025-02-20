@@ -91,7 +91,5 @@ For training set D = {(xi, yi)}:
 - Computational efficiency
 
 Tags:
-[[Statistical Learning]]
 [[Ensemble Methods]]
 [[Bootstrap]]
-[[Model Selection]]

@@ -88,8 +88,5 @@ where $\bar{\theta}^* = \frac{1}{B}\sum_{b=1}^B\hat{\theta}^{*(b)}$
 - Requires independence assumption (unless modified)
 
 Tags:
-[[Statistical Learning]]
 [[Resampling Methods]]
 [[Cross-Validation]]
-[[Inference]]
-[[Computational Statistics]]

@@ -88,9 +88,6 @@ $\log P(Y=k|X=x) = \log P(Y=k) + \sum_{j=1}^p \log P(X_j=x_j|Y=k)$
 - ROC curves
 
 Tags:
-[[Statistical Learning]]
 [[Classification]]
 [[Parametric Models]]
 [[Bayes Theorem]]
-[[Probability Theory]]
-[[Text Classification]]

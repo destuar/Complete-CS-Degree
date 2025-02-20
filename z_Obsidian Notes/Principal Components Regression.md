@@ -113,8 +113,5 @@
 - Economic forecasting
 
 Tags:
-[[Statistical Learning]]
 [[Dimensionality Reduction]]
-[[Regression Model]]
 [[Principal Components Analysis]]
-[[Model Selection]]

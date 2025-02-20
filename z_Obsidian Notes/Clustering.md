@@ -107,5 +107,4 @@
 - Validation indices
 
 Tags:
-[[Statistical Learning]]
 [[Unsupervised Learning]] 

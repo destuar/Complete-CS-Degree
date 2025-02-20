@@ -84,6 +84,4 @@ where:
 
 Tags:
 [[Survival Analysis]]
-[[Statistical Learning]]
-[[Non-Parametric Models]]
 [[Censored Data]]

@@ -78,8 +78,5 @@
    - Discovery proportions
 
 Tags:
-[[Statistical Learning]]
-[[Inference]]
-[[Probability Theory]]
 [[Family-Wise Error Rate]]
 [[False Discovery Rate]]

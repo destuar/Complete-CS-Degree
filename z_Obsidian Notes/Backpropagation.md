@@ -95,5 +95,4 @@
 
 Tags:
 [[Neural Networks]]
-[[Optimization]]
 [[Gradient Descent]]

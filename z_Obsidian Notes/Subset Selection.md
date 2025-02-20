@@ -91,12 +91,8 @@ where:
 ### Alternatives
 - [[Ridge Regression]]
 - [[Lasso Regression]]
-- [[Elastic Net]]
 - [[Principal Components Regression]]
 
 Tags:
-[[Statistical Learning]]
-[[Model Selection]]
-[[Variable Selection]]
 [[Multiple Linear Regression]]
 [[Regularization]]

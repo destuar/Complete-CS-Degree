@@ -83,7 +83,5 @@ Common linkage functions:
 - Memory constraints
 
 Tags:
-[[Statistical Learning]]
 [[Unsupervised Learning]]
 [[Clustering]]
-[[Non-Parametric Models]]

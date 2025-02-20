@@ -6,7 +6,7 @@
       {
         "id": "e001f4e7e77cc1b9",
         "type": "tabs",
-        "dimension": 78.33655705996132,
+        "dimension": 71.92642787996128,
         "children": [
           {
             "id": "d4535471ef31515e",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "28 STATS 216 - Introduction to Statistical Learning/Lecture Recordings/Introduction to Statistical Learning in Python.md",
+                "file": "z_Obsidian Notes/Lasso Regression.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Introduction to Statistical Learning in Python"
+              "title": "Lasso Regression"
             }
           }
         ]
@@ -37,7 +37,7 @@
       {
         "id": "c52f0b55f0d04f30",
         "type": "tabs",
-        "dimension": 21.663442940038685,
+        "dimension": 28.07357212003872,
         "children": [
           {
             "id": "81ab5794e7c71496",
@@ -193,32 +193,32 @@
   },
   "active": "81ab5794e7c71496",
   "lastOpenFiles": [
-    "z_Obsidian Notes/Statistical Learning.md",
-    "z_Obsidian Notes/Survival Analysis.md",
-    "z_Obsidian Notes/Time Series Analysis.md",
-    "z_Obsidian Notes/Clustering.md",
-    "z_Obsidian Notes/Probability Theory.md",
-    "z_Obsidian Notes/Bias-Variance Trade-Off.md",
-    "28 STATS 216 - Introduction to Statistical Learning/Lecture Recordings/Introduction to Statistical Learning in Python.md",
-    "z_Obsidian Notes/Cross-Validation.md",
-    "z_Obsidian Notes/Ridge Regression.md",
-    "z_Obsidian Notes/Supervised Learning.md",
-    "z_Obsidian Notes/Neural Networks.md",
-    "z_Obsidian Notes/Support Vector Machines.md",
+    "z_Obsidian Notes/2D Array.md",
+    "z_Obsidian Notes/Lasso Regression.md",
+    "z_Obsidian Notes/Multiple Linear Regression.md",
     "z_Obsidian Notes/Classification.md",
-    "z_Obsidian Notes/Prediction.md",
-    "17 CS 229 - Machine Learning/Lecture Recordings/Machine Learning.md",
-    "z_Obsidian Notes/Regression Model.md",
-    "z_Obsidian Notes/Conjecture.md",
-    "z_Obsidian Notes/Benjamini-Hochberg Procedure.md",
-    "z_Obsidian Notes/Bonferroni Method.md",
-    "z_Obsidian Notes/False Discovery Rate.md",
-    "z_Obsidian Notes/Family-Wise Error Rate.md",
+    "z_Obsidian Notes/Probability Theory.md",
+    "z_Obsidian Notes/Naive Bayes.md",
     "z_Obsidian Notes/Multiple Testing.md",
-    "z_Obsidian Notes/Hierarchical Clustering.md",
-    "z_Obsidian Notes/K-Means Clustering.md",
-    "z_Obsidian Notes/Principal Components Analysis.md",
-    "z_Obsidian Notes/Censored Data.md",
+    "z_Obsidian Notes/Family-Wise Error Rate.md",
+    "z_Obsidian Notes/False Discovery Rate.md",
+    "z_Obsidian Notes/Exponential Family.md",
+    "z_Obsidian Notes/Expected Value.md",
+    "z_Obsidian Notes/Bayes Theorem.md",
+    "z_Obsidian Notes/Inference.md",
+    "z_Obsidian Notes/Prediction.md",
+    "z_Obsidian Notes/Bonferroni Method.md",
+    "z_Obsidian Notes/Benjamini-Hochberg Procedure.md",
+    "28 STATS 216 - Introduction to Statistical Learning/Lecture Recordings/Introduction to Statistical Learning in Python.md",
+    "z_Obsidian Notes/Polynomial Regression.md",
+    "z_Obsidian Notes/Simple Linear Regression.md",
+    "z_Obsidian Notes/Regression Model.md",
+    "z_Obsidian Notes/Elastic Net.md",
+    "z_Obsidian Notes/Subset Selection.md",
+    "07 ENGR 108 - Introduction to Applied Linear Algebra/Lecture Recordings/Introduction to Applied Linear Algebra.md.md",
+    "z_Obsidian Notes/Bias-Variance Trade-Off.md",
+    "z_Obsidian Notes/Local Regression.md",
+    "z_Obsidian Notes/Smoothing Splines.md",
     "z_Images/Corr Coef Image.png",
     "z_Images/Angle Image.png",
     "z_Images/StDev image.png",

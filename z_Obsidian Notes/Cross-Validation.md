@@ -90,8 +90,5 @@ where:
 - May not work well for very small datasets
 
 Tags:
-[[Statistical Learning]]
-[[Model Selection]]
 [[Resampling Methods]]
 [[Bootstrap]]
-[[Bias-Variance Trade-Off]]

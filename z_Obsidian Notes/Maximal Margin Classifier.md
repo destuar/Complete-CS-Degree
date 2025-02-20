@@ -69,7 +69,4 @@ where:
    - Theoretical studies
 
 Tags:
-[[Statistical Learning]]
-[[Classification]]
 [[Support Vector Machines]]
-[[Supervised Learning]]

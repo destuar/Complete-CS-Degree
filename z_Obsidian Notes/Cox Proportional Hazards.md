@@ -80,7 +80,4 @@ where:
 - Handles [[Censored Data]]
 
 Tags:
-[[Statistical Learning]]
 [[Survival Analysis]]
-[[Regression Model]]
-[[Semi-Parametric Models]]

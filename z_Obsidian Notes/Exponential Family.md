@@ -52,7 +52,7 @@ where:
 
 ### Relationship to Other Concepts
 1. **Model Families**
-   - [[Linear Regression]]
+   - [[Simple Linear Regression]]
    - [[Logistic Regression]]
    - [[Poisson Regression]]
    - [[Gamma Regression]]
@@ -77,7 +77,5 @@ where:
    - Natural gradients
 
 Tags:
-[[Statistical Learning]]
-[[Probability Theory]]
 [[Probability Distribution Function]]
 [[Parametric Models]]

@@ -14,6 +14,14 @@
 - [[Bias-Variance Trade-Off]]
 - [[Expected Value]]
 - [[Probability Distribution Function]]
+- [[Hypothesis Testing]]
+- [[Time Series Analysis]]
+- [[Gamma Distribution]]
+- [[Normal Distribution]]
+- [[Binomial Distribution]]
+- [[Poisson Distribution]]
+- [[Bernoulli Distribution]]
+- [[Exponential Distribution]]
 
 ### Linear Methods
 - [[Linear Transformation]]
@@ -22,12 +30,13 @@
 - [[K-Nearest Neighbors]]
 
 ### Generalized Linear Models
-- [[State Machine]] Applications
+- [[State Machine]]
 - [[Poisson Regression]]
 - [[Gamma Regression]]
 - [[Negative Binomial Regression]]
 - [[Natural Log]] 
 - [[Exponential Family]]
+- [[Generalized Linear Models]]
 
 ### Classification Methods
 - [[Logistic Regression]]
@@ -36,6 +45,8 @@
 - [[Linear Discriminant Analysis]]
 - [[Quadratic Discriminant Analysis]]
 - [[Naive Bayes]]
+- [[Gaussian Mixture Models]]
+- [[Ensemble Methods]]
 
 ### Model Selection & Validation
 - [[Cross-Validation]]
@@ -46,6 +57,12 @@
 - [[Principal Components Analysis]]
 - [[Principal Components Regression]]
 - [[Partial Least Squares]]
+- [[K-Fold Cross-Validation]]
+- [[Akaike Information Criterion (AIC)]]
+- [[Bayesian Information Criterion (BIC)]]
+- [[Regularization]]
+- [[Resampling Methods]]
+- [[Covariance]]
 
 ### Non-Linear Methods
 - [[Polynomial Regression]]
@@ -55,6 +72,7 @@
 - [[Smoothing Splines]]
 - [[Local Regression]]
 - [[Generalized Additive Models]]
+- [[Clustering]]
 
 ### Tree-Based Methods
 - [[Regression Trees]]
@@ -69,13 +87,17 @@
 - [[Support Vector Classifier]]
 - [[Support Vector Machines]]
 - [[Hash]] Functions 
+- [[Kernel Regression]]
+- [[Curse of Dimensionality]]
 
 ### Deep Learning
 - [[Neural Networks]]
 - [[Convolutional Neural Networks]]
 - [[Recurrent Neural Networks]]
 - [[Backpropagation]]
+- [[Gradient Descent]]
 - [[Stochastic Gradient Descent]]
+- [[Deep Learning]]
 
 ### Survival Analysis
 - [[Survival Function]]

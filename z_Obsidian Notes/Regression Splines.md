@@ -77,7 +77,4 @@ where:
 - Curse of dimensionality
 
 Tags:
-[[Statistical Learning]]
-[[Non-Parametric Models]]
-[[Regression Model]]
 [[Smoothing Splines]]

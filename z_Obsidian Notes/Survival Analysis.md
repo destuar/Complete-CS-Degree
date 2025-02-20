@@ -108,6 +108,4 @@
    - Clustered data
 
 Tags:
-[[Statistical Learning]]
-[[Time-to-Event Analysis]]
 [[Censored Data]] 

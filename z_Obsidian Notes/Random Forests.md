@@ -102,9 +102,5 @@ For B trees and training set D:
 - Prediction intervals
 
 Tags:
-[[Statistical Learning]]
 [[Ensemble Methods]]
-[[Tree-Based Methods]]
-[[Classification]]
-[[Regression Model]]
 [[Bootstrap]]

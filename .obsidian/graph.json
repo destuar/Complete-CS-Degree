@@ -50,7 +50,7 @@
       }
     },
     {
-      "query": "path:\"07 ENGR 108 - Introduction to Applied Linear Algebra\" []",
+      "query": "path:\"07 ENGR 108 - Introduction to Applied Linear Algebra/Lecture Recordings\"  ",
       "color": {
         "a": 1,
         "rgb": 6053078
@@ -74,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.07420877702202675,
+  "scale": 0.05293129976103342,
   "close": true
 }

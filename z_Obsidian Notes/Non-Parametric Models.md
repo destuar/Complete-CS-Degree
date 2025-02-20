@@ -62,7 +62,4 @@ $f(x) = \mathbb{E}[Y|X=x]$ directly from the data
 
 Tags:
 [[Parametric Models]]
-[[Statistical Learning]]
-[[Machine Learning]]
-[[Model Selection]]
 [[Bias-Variance Trade-Off]]

@@ -50,17 +50,3 @@ $P(Y = k|X = x)$ where k represents different classes
   - One-vs-One
   - Error-Correcting Output Codes
 
-### Advanced Topics
-- Cost-sensitive classification
-- Probabilistic outputs
-- Ensemble methods
-- Deep learning approaches:
-  - [[Neural Networks]]
-  - [[Convolutional Neural Networks]]
-  - [[Recurrent Neural Networks]]
-
-Tags:
-[[Regression Model]]
-[[Statistical Learning]]
-[[Machine Learning]]
-[[Prediction]]

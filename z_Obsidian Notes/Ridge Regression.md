@@ -92,8 +92,5 @@ Before fitting:
 - Genomics
 
 Tags:
-[[Statistical Learning]]
 [[Regularization]]
 [[Multiple Linear Regression]]
-[[Model Selection]]
-[[Shrinkage Methods]]

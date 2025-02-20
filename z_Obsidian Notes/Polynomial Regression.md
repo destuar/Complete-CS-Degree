@@ -1,4 +1,4 @@
-**Polynomial Regression** extends [[Linear Regression]] by modeling nonlinear relationships using polynomial terms of the predictor variables. It provides a simple way to capture curved relationships while maintaining the interpretability of linear models.
+**Polynomial Regression** extends [[Simple Linear Regression]] by modeling nonlinear relationships using polynomial terms of the predictor variables. It provides a simple way to capture curved relationships while maintaining the interpretability of linear models.
 
 ### Mathematical Framework
 For a single predictor x, a polynomial regression of degree d:
@@ -78,7 +78,4 @@ where:
    - Constrained regression
 
 Tags:
-[[Statistical Learning]]
-[[Regression Model]]
 [[Multiple Linear Regression]]
-[[Non-Parametric Models]]

@@ -73,7 +73,5 @@ where:
    - Influence analysis
 
 Tags:
-[[Statistical Learning]]
-[[Regression Model]]
 [[Poisson Regression]]
 [[Generalized Additive Models]]

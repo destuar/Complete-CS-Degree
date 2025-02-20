@@ -1,4 +1,4 @@
-**Supervised Learning** is a type of [[Machine Learning]] where the algorithm learns from labeled training data to make predictions or decisions without explicit programming.
+**Supervised Learning** is a type of Machine Learning where the algorithm learns from labeled training data to make predictions or decisions without explicit programming.
 
 ### Key Characteristics:
 - Training data includes input features (X) and target variables (Y)
@@ -15,7 +15,7 @@
    - Examples: spam detection, image classification
 
 ### Common Algorithms:
-- [[Linear Regression]]
+- [[Simple Linear Regression]]
 - [[Logistic Regression]]
 - [[Support Vector Machines]]
 - [[Random Forests]]
@@ -27,5 +27,3 @@
 
 Tags:
 [[Unsupervised Learning]]
-[[Statistical Learning]]
-[[Machine Learning]]

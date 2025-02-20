@@ -107,8 +107,5 @@ $\mathbf{w}_1 = \arg\max_{\|\mathbf{w}\|=1} \{\mathbf{w}^T\mathbf{X}^T\mathbf{X}
    - Separates low-rank and sparse components
 
 Tags:
-[[Statistical Learning]]
 [[Dimensionality Reduction]]
-[[Linear Algebra]]
 [[Unsupervised Learning]]
-[[Feature Engineering]]

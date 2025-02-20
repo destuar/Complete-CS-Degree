@@ -1,4 +1,4 @@
-**Unsupervised Learning** is a type of [[Machine Learning]] where algorithms identify patterns in unlabeled data without predefined target variables.
+**Unsupervised Learning** is a type of Machine Learning where algorithms identify patterns in unlabeled data without predefined target variables.
 
 ### Key Characteristics:
 - No labeled responses or target variables
@@ -35,6 +35,4 @@
 
 Tags:
 [[Supervised Learning]]
-[[Statistical Learning]]
-[[Machine Learning]]
 [[Clustering]]

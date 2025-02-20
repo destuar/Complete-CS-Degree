@@ -78,7 +78,5 @@ where:
 - Requires careful interpretation
 
 Tags:
-[[Statistical Learning]]
 [[Multiple Testing]]
 [[False Discovery Rate]]
-[[Inference]]

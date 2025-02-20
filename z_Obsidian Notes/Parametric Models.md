@@ -45,6 +45,3 @@ $f(X) = g(X; \theta)$ where $\theta \in \mathbb{R}^p$
 
 Tags:
 [[Non-Parametric Models]]
-[[Statistical Learning]]
-[[Machine Learning]]
-[[Model Selection]]

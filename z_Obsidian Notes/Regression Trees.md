@@ -108,8 +108,5 @@ where:
 - Tree visualization
 
 Tags:
-[[Statistical Learning]]
 [[Non-Parametric Models]]
 [[Regression Model]]
-[[Tree-Based Methods]]
-[[Model Selection]]

@@ -25,6 +25,4 @@ For a parameter θ and data X:
 - Policy analysis
 
 Tags:
-[[Prediction]]
-[[Statistical Learning]]
 [[Hypothesis Testing]]

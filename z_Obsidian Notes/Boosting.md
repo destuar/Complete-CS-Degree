@@ -97,9 +97,5 @@ where:
 - Residual analysis
 
 Tags:
-[[Statistical Learning]]
 [[Ensemble Methods]]
-[[Tree-Based Methods]]
-[[Classification]]
-[[Regression Model]]
 [[Gradient Descent]]

@@ -56,7 +56,7 @@ where:
 ### Implementation Considerations
 
 1. **Data Structures**
-   - [[KD-Trees]]
+   - KD Trees
    - Ball Trees
    - LSH (Locality-Sensitive Hashing)
 
@@ -72,9 +72,5 @@ where:
 - Image classification
 
 Tags:
-[[Statistical Learning]]
-[[Machine Learning]]
 [[Classification]]
 [[Regression Model]]
-[[Distance Metrics]]
-[[Bias-Variance Trade-Off]]

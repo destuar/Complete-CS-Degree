@@ -104,8 +104,4 @@ For response Y and predictors X:
 - Quality control
 
 Tags:
-[[Statistical Learning]]
 [[Dimensionality Reduction]]
-[[Regression Model]]
-[[Supervised Learning]]
-[[Model Selection]]

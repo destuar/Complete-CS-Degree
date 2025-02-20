@@ -78,8 +78,4 @@ $\hat{\beta}_0 = \bar{y} - \hat{\beta}_1\bar{x}$
 - [[Lasso Regression]]
 
 Tags:
-[[Statistical Learning]]
-[[Linear Models]]
 [[Regression Model]]
-[[Least Squares]]
-[[Model Diagnostics]]

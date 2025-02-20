@@ -1,4 +1,4 @@
-**The Bias-Variance Trade-Off** is a fundamental concept in [[Statistical Learning]] that describes the relationship between model complexity and prediction error, helping to understand the optimal balance between underfitting and overfitting.
+**The Bias-Variance Trade-Off** is a fundamental concept in Statistical Learning that describes the relationship between model complexity and prediction error, helping to understand the optimal balance between underfitting and overfitting.
 
 ### Mathematical Decomposition
 For a given point $x_0$, the expected prediction error can be decomposed as:
@@ -31,7 +31,7 @@ where:
 ### Model Flexibility Effects
 - **Low Flexibility**
   - High bias, low variance
-  - Example: [[Linear Regression]]
+  - Example: [[Simple Linear Regression]]
   - Underfits the data
 
 - **High Flexibility**
@@ -51,8 +51,8 @@ where:
    - Early stopping in [[Neural Networks]]
 
 3. **Model Selection**
-   - [[AIC]] (Akaike Information Criterion)
-   - [[BIC]] (Bayesian Information Criterion)
+   - [[Akaike Information Criterion (AIC)]]
+   - [[Bayesian Information Criterion (BIC)]]
    - One-standard-error rule
 
 ### Applications
@@ -60,11 +60,3 @@ where:
 - Model complexity selection
 - Ensemble method design
 - Feature selection
-
-Tags:
-[[Statistical Learning]]
-[[Machine Learning]]
-[[Model Selection]]
-[[Cross-Validation]]
-[[Overfitting]]
-[[Underfitting]]

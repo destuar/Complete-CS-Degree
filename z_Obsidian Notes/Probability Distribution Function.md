@@ -1,4 +1,4 @@
-**Probability Distribution Function** (PDF) describes the likelihood of a [[Random Variables|random variable]] taking on different values. It is fundamental to statistical modeling and inference.
+**Probability Distribution Function** (PDF) describes the likelihood of a [[random variable]] taking on different values. It is fundamental to statistical modeling and inference.
 
 ### Types of Distributions
 
@@ -44,27 +44,3 @@
 3. **Shape Parameters**
    - Skewness: $\mathbb{E}[(\frac{X-\mu}{\sigma})^3]$
    - Kurtosis: $\mathbb{E}[(\frac{X-\mu}{\sigma})^4]$
-
-### Applications in Statistical Learning
-
-1. **Model Assumptions**
-   - Error distributions in [[Regression Model|regression]]
-   - Class probabilities in [[Classification]]
-   - Prior distributions in [[Bayesian]] methods
-
-2. **Likelihood Functions**
-   - Maximum Likelihood Estimation
-   - [[Logistic Regression]]
-   - [[Linear Discriminant Analysis]]
-
-3. **Sampling Distributions**
-   - [[Bootstrap]] resampling
-   - [[Cross-Validation]]
-   - Hypothesis testing
-
-Tags:
-[[Statistical Learning]]
-[[Probability Theory]]
-[[Random Variables]]
-[[Statistics]]
-[[Distribution]]

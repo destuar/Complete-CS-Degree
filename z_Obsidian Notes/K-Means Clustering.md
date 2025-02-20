@@ -90,7 +90,5 @@ where:
 - Local optima issues
 
 Tags:
-[[Statistical Learning]]
 [[Unsupervised Learning]]
 [[Clustering]]
-[[Non-Parametric Models]]

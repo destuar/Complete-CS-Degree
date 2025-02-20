@@ -43,9 +43,3 @@ where:
 - Text categorization
 - Image classification
 - Bioinformatics
-
-Tags:
-[[Statistical Learning]]
-[[Classification]]
-[[Supervised Learning]]
-[[Non-Parametric Models]]

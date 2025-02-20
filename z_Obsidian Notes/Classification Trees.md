@@ -113,8 +113,5 @@ where:
 - Cross-validation error
 
 Tags:
-[[Statistical Learning]]
 [[Non-Parametric Models]]
 [[Classification]]
-[[Tree-Based Methods]]
-[[Model Selection]]

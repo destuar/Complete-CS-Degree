@@ -55,5 +55,3 @@ where:
 
 Tags:
 [[Non-Parametric Models]]
-[[Statistical Learning]]
-[[Regression Model]]

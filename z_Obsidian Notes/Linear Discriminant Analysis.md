@@ -75,8 +75,6 @@ Assign x to class k if $\delta_k(x) > \delta_l(x)$ for all $l \neq k$
 - Confusion matrices
 
 Tags:
-[[Statistical Learning]]
 [[Classification]]
 [[Parametric Models]]
-[[Multivariate Normal Distribution]]
 [[Bayes Theorem]]

@@ -63,7 +63,4 @@ where:
 - Memory requirements
 
 Tags:
-[[Statistical Learning]]
 [[Non-Parametric Models]]
-[[Regression Model]]
-[[Bias-Variance Trade-Off]]

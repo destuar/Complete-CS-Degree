@@ -86,7 +86,4 @@ where:
 - Parameter selection complexity
 
 Tags:
-[[Statistical Learning]]
-[[Non-Parametric Models]]
-[[Regression Model]]
 [[Smoothing Splines]]

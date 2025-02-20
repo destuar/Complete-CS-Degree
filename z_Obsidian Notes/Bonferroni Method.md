@@ -77,7 +77,5 @@ where:
    - Custom implementations
 
 Tags:
-[[Statistical Learning]]
 [[Multiple Testing]]
 [[Family-Wise Error Rate]]
-[[Inference]]

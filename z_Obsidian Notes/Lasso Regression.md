@@ -105,9 +105,5 @@ Before fitting:
 - High-dimensional modeling
 
 Tags:
-[[Statistical Learning]]
 [[Regularization]]
 [[Multiple Linear Regression]]
-[[Model Selection]]
-[[Shrinkage Methods]]
-[[Variable Selection]]

@@ -74,7 +74,4 @@ where:
    - Tree-based methods
 
 Tags:
-[[Statistical Learning]]
-[[Classification]]
 [[Logistic Regression]]
-[[Supervised Learning]]

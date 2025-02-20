@@ -112,6 +112,4 @@
 - Weight distributions
 
 Tags:
-[[Statistical Learning]]
 [[Deep Learning]]
-[[Non-Parametric Models]]

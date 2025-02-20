@@ -69,7 +69,4 @@ where:
 - Assumes independence
 
 Tags:
-[[Statistical Learning]]
 [[Multiple Testing]]
-[[Inference]]
-[[Probability Theory]]

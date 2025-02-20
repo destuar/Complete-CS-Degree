@@ -20,5 +20,3 @@
 
 Tags:
 [[Inference]]
-[[Machine Learning]]
-[[Statistical Learning]]

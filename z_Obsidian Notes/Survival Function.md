@@ -44,4 +44,3 @@ where:
 Tags:
 [[Survival Analysis]]
 [[Probability Distribution Function]]
-[[Statistical Learning]]

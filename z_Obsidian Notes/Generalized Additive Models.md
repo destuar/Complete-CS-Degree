@@ -87,7 +87,4 @@ where:
 - Interaction modeling
 
 Tags:
-[[Statistical Learning]]
-[[Non-Parametric Models]]
-[[Regression Model]]
 [[Smoothing Splines]]

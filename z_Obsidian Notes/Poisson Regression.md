@@ -72,7 +72,5 @@ where:
    - [[Time Series Analysis]]
 
 Tags:
-[[Statistical Learning]]
-[[Regression Model]]
 [[Generalized Additive Models]]
 [[Multiple Testing]]

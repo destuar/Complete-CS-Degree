@@ -74,7 +74,4 @@ where:
    - Inverse Gaussian models
 
 Tags:
-[[Statistical Learning]]
-[[Regression Model]]
 [[Generalized Additive Models]]
-[[Non-Parametric Models]]

@@ -43,7 +43,7 @@ where:
    - [[Recurrent Neural Networks]]
 
 2. **Other Models**
-   - [[Linear Regression]]
+   - [[Simple Linear Regression]]
    - [[Logistic Regression]]
    - [[Support Vector Machines]]
 
@@ -55,7 +55,4 @@ where:
 - Regularization
 
 Tags:
-[[Statistical Learning]]
-[[Optimization]]
-[[Machine Learning]]
 [[Neural Networks]]
