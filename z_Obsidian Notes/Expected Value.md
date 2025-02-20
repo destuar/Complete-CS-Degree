@@ -1,12 +1,63 @@
-The **expected value** (also called the **average**) of a [[random variable]] $R$ over a [[probability space]] $S$ is the long-run average value that $R$ would take if the experiment were repeated infinitely many times. It represents the weighted average of all possible values of $R$, weighted by their probabilities.
+**Expected Value** (or expectation, mean) is a fundamental concept in probability theory that describes the long-run average value of a random variable or function under repeated sampling.
 
-The expected value of $R$, denoted as $E[R]$ or $\mathbb{E}[R]$, is defined as:
+### Mathematical Definition
 
-If $R$ is a **discrete random variable** taking values $r_1, r_2, \dots, r_n$​ with probabilities $P(R = r_i)$, then the expected value is:
+1. **Discrete Case**
+For a discrete random variable X:
+$\mathbb{E}[X] = \sum_{x} x \cdot P(X = x)$
 
-$$E[R] = \sum_{i} r_i P(R = r_i)$$
+2. **Continuous Case**
+For a continuous random variable X with probability density function f(x):
+$\mathbb{E}[X] = \int_{-\infty}^{\infty} x f(x) dx$
 
+### Properties
 
-If $R$ is **continuous** with [[probability distribution function]] (density / PDF) $f(r)$, then the expected value is:
+1. **Linearity**
+   - $\mathbb{E}[aX + b] = a\mathbb{E}[X] + b$
+   - $\mathbb{E}[X + Y] = \mathbb{E}[X] + \mathbb{E}[Y]$
 
-$$E[R] = \int_{-\infty}^{\infty} r f(r) dr$$
+2. **Independence**
+   If X and Y are independent:
+   - $\mathbb{E}[XY] = \mathbb{E}[X]\mathbb{E}[Y]$
+
+3. **Conditional Expectation**
+   - $\mathbb{E}[X] = \mathbb{E}[\mathbb{E}[X|Y]]$ (Law of Total Expectation)
+   - $\mathbb{E}[X|Y]$ is itself a random variable
+
+### Applications in Statistical Learning
+
+1. **Model Evaluation**
+   - Mean Squared Error: $\mathbb{E}[(Y - \hat{f}(X))^2]$
+   - [[Bias-Variance Trade-Off]]: $\mathbb{E}[(Y - \hat{f}(x_0))^2]$
+
+2. **Parameter Estimation**
+   - Maximum Likelihood: $\mathbb{E}[\log L(\theta; X)]$
+   - Method of Moments: $\mathbb{E}[X^k]$ (kth moment)
+
+3. **Risk Assessment**
+   - Expected Loss: $\mathbb{E}[L(Y, \hat{Y})]$
+   - Expected Prediction Error
+
+### Common Expected Values
+
+1. **Common Distributions**
+   - [[Normal Distribution]]: $\mathbb{E}[X] = \mu$
+   - [[Poisson Distribution]]: $\mathbb{E}[X] = \lambda$
+   - [[Exponential Distribution]]: $\mathbb{E}[X] = \frac{1}{\lambda}$
+   - [[Bernoulli Distribution]]: $\mathbb{E}[X] = p$
+
+2. **Sample Statistics**
+   - Sample Mean: $\mathbb{E}[\bar{X}] = \mu$
+   - Sample Variance: $\mathbb{E}[S^2] = \sigma^2$
+
+### Relationship to Other Concepts
+- [[Variance]]: $\text{Var}(X) = \mathbb{E}[(X - \mathbb{E}[X])^2]$
+- [[Covariance]]: $\text{Cov}(X,Y) = \mathbb{E}[(X - \mathbb{E}[X])(Y - \mathbb{E}[Y])]$
+- [[Probability Distribution Function]]
+- [[Moment Generating Function]]
+
+Tags:
+[[Statistical Learning]]
+[[Probability Theory]]
+[[Random Variables]]
+[[Statistics]]

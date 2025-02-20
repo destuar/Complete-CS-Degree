@@ -38,3 +38,7 @@
 **{Lecture 11/54}**
 [[Standard Deviation]]
 [[Chebyshev's Inequality]]
+
+**{Lecture 12/54}**
+[[Angle]]
+[[Correlation Coefficient]]

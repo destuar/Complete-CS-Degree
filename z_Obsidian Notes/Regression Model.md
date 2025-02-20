@@ -1,3 +1,60 @@
+**Regression Models** are a class of [[Supervised Learning]] methods that predict continuous, quantitative responses. They model the relationship between one or more predictor variables and a continuous outcome variable.
+
+### Mathematical Framework
+For response Y and predictors X:
+$Y = f(X) + \epsilon$
+
+where:
+- $f(X)$ is the systematic component (signal)
+- $\epsilon$ is the random error component (noise)
+- $\epsilon \sim N(0, \sigma^2)$ typically assumed
+
+### Types of Regression Models
+
+1. **Linear Models**
+   - [[Simple Linear Regression]]: $Y = \beta_0 + \beta_1X + \epsilon$
+   - [[Multiple Linear Regression]]: $Y = \beta_0 + \beta_1X_1 + \beta_2X_2 + ... + \beta_pX_p + \epsilon$
+   - [[Ridge Regression]]: Adds L2 penalty $\lambda\sum_{j=1}^p \beta_j^2$
+   - [[Lasso Regression]]: Adds L1 penalty $\lambda\sum_{j=1}^p |\beta_j|$
+
+2. **Non-Linear Models**
+   - [[Polynomial Regression]]
+   - [[Regression Splines]]
+   - [[Smoothing Splines]]
+   - [[Local Regression]]
+   - [[Generalized Additive Models]]
+
+3. **Tree-Based Methods**
+   - [[Regression Trees]]
+   - [[Random Forests]]
+   - [[Boosting]]
+   - [[Bayesian Additive Regression Trees]]
+
+### Model Evaluation
+1. **Error Metrics**
+   - Mean Squared Error (MSE): $\frac{1}{n}\sum_{i=1}^n(y_i - \hat{y}_i)^2$
+   - Root MSE: $\sqrt{\text{MSE}}$
+   - R-squared: $1 - \frac{\sum(y_i - \hat{y}_i)^2}{\sum(y_i - \bar{y})^2}$
+
+2. **Validation Methods**
+   - [[Cross-Validation]]
+   - [[Bootstrap]]
+   - Train-Test Split
+
+### Key Considerations
+- Model assumptions and diagnostics
+- [[Bias-Variance Trade-Off]]
+- Feature selection and engineering
+- Handling multicollinearity
+- Dealing with outliers and influential points
+- Scaling and transformations
+
+Tags:
+[[Classification]]
+[[Statistical Learning]]
+[[Machine Learning]]
+[[Prediction]]
+
 A **regression model** seeks to describe how a response (dependent) variable changes based on one or more explanatory (independent) variables.
 
 	Prediction: Estimate the value of the dependent variable given new or 
