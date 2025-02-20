@@ -1,7 +1,6 @@
 Gradient Descent is an iterative optimization algorithm for finding the minimum of a differentiable function. It's fundamental to many machine learning algorithms, particularly in training [[Neural Networks]] and optimizing loss functions.
 
 ### Mathematical Foundation
-
 The update rule for parameters θ:
 
 $$\theta_{t+1} = \theta_t - \alpha \nabla J(\theta_t)$$
@@ -13,7 +12,6 @@ where:
 - $J(\theta)$ is the objective function to minimize
 
 ### Variants
-
 1. **Batch Gradient Descent**
    - Uses entire dataset
    - Update rule: $\theta = \theta - \alpha \nabla_\theta J(\theta)$
@@ -33,7 +31,6 @@ where:
    - Vectorization benefits
 
 ### Advanced Techniques
-
 1. **Momentum**
    - Adds velocity term
    - $v_t = \beta v_{t-1} + \nabla J(\theta_t)$
@@ -53,7 +50,6 @@ where:
    - Cyclical learning rates
 
 ### Practical Considerations
-
 1. **Hyperparameter Tuning**
    - Learning rate selection
    - Batch size choice

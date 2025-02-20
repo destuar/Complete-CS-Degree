@@ -25,19 +25,6 @@
    - q-value approach
    - Local FDR
 
-### Applications
-1. **Genomics**
-   - Gene expression analysis
-   - GWAS studies
-   - Proteomics
-   - Metabolomics
-
-2. **Neuroimaging**
-   - fMRI analysis
-   - Brain mapping
-   - Connectivity studies
-   - Voxel-based morphometry
-
 ### Implementation
 1. **Test Statistics**
    - t-tests
@@ -76,7 +63,3 @@
    - Effect sizes
    - Confidence intervals
    - Discovery proportions
-
-Tags:
-[[Family-Wise Error Rate]]
-[[False Discovery Rate]]

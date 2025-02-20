@@ -67,11 +67,5 @@ where:
    - Longitudinal data
    - Spatial models
 
-2. **Related Models**
-   - [[Poisson Regression]]
-   - [[Negative Binomial Regression]]
-   - [[Generalized Additive Models]]
-   - Inverse Gaussian models
-
 Tags:
-[[Generalized Additive Models]]
+[[Generalized Linear Models]]

@@ -55,20 +55,6 @@ $\log P(Y=k|X=x) = \log P(Y=k) + \sum_{j=1}^p \log P(X_j=x_j|Y=k)$
 - Zero frequency problem
 - Sensitive to feature redundancy
 
-### Applications
-1. **Text Classification**
-   - Spam detection
-   - Document categorization
-   - Sentiment analysis
-
-2. **Medical Diagnosis**
-   - Disease prediction
-   - Risk assessment
-
-3. **Real-time Prediction**
-   - Recommendation systems
-   - Real-time classification
-
 ### Feature Engineering
 1. **Discretization**
    - Binning continuous variables
@@ -86,8 +72,3 @@ $\log P(Y=k|X=x) = \log P(Y=k) + \sum_{j=1}^p \log P(X_j=x_j|Y=k)$
 - Cross-validation
 - Confusion matrices
 - ROC curves
-
-Tags:
-[[Classification]]
-[[Parametric Models]]
-[[Bayes Theorem]]

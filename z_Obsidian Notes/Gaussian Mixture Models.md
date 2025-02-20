@@ -1,7 +1,6 @@
 Gaussian Mixture Models (GMMs) are probabilistic models that represent data as a mixture of multiple [[Normal Distribution|Gaussian distributions]]. They are powerful tools for density estimation and clustering.
 
 ### Mathematical Definition
-
 The probability density function of a GMM with K components:
 
 $$p(x) = \sum_{k=1}^K \pi_k \mathcal{N}(x|\mu_k,\Sigma_k)$$
@@ -13,7 +12,6 @@ where:
 - $\mathcal{N}(x|\mu_k,\Sigma_k)$ is the Gaussian PDF
 
 ### Parameter Estimation
-
 1. **Expectation-Maximization (EM) Algorithm**
    - E-step: Compute responsibilities
    - M-step: Update parameters
@@ -27,7 +25,6 @@ where:
    - Mixing coefficients: $\pi_k = \frac{\sum_n \gamma_{nk}}{N}$
 
 ### Model Selection
-
 1. **Number of Components**
    - [[Akaike Information Criterion (AIC)]]
    - [[Bayesian Information Criterion (BIC)]]

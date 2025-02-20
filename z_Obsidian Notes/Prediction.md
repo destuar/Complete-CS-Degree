@@ -12,11 +12,5 @@
 - Classification Accuracy
 - Area Under ROC Curve (AUC)
 
-### Examples:
-- Weather forecasting
-- Stock price prediction
-- Customer churn prediction
-- Image recognition
-
 Tags:
 [[Inference]]

@@ -1,7 +1,6 @@
-**Bagging (Bootstrap Aggregating)** is an ensemble learning method that combines multiple models trained on [[Bootstrap]] samples to reduce variance and prevent overfitting. It's a key component of [[Random Forests]] and other ensemble methods.
+**Bagging (Bootstrap Aggregating)** is an ensemble learning method that combines multiple models trained on [[Bootstrap]] samples to reduce variance and prevent overfitting. It's a key component of [[Random Forests]] and other [[ensemble methods]].
 
 ### Mathematical Framework
-
 For training set D = {(xi, yi)}:
 1. Create B bootstrap samples D1, ..., DB
 2. Train model fb on each sample
@@ -10,7 +9,6 @@ For training set D = {(xi, yi)}:
    - Classification: $\hat{C}_{bag}(x) = \text{mode}\{\hat{C}_b(x)\}_{b=1}^B$
 
 ### Properties
-
 1. **Variance Reduction**
    - Independent bootstrapped models
    - Averaging reduces variance
@@ -22,7 +20,6 @@ For training set D = {(xi, yi)}:
    - Unbiased error estimate
 
 ### Implementation
-
 1. **Bootstrap Sampling**
    - Sample with replacement
    - Same size as original
@@ -48,7 +45,6 @@ For training set D = {(xi, yi)}:
 - May lose interpretability
 
 ### Variants
-
 1. **Random Subspace Method**
    - Sample features instead of observations
    - Useful for high dimensions
@@ -59,20 +55,7 @@ For training set D = {(xi, yi)}:
    - More diversity
    - Better for large datasets
 
-### Applications
-
-1. **Decision Trees**
-   - [[Random Forests]]
-   - Reduces tree variance
-   - Improves stability
-
-2. **Neural Networks**
-   - Ensemble of networks
-   - Different initializations
-   - Different architectures
-
 ### Tuning Parameters
-
 1. **Number of Models (B)**
    - Usually 50-500
    - Until error stabilizes
@@ -89,7 +72,3 @@ For training set D = {(xi, yi)}:
 - Individual model performance
 - Aggregation effectiveness
 - Computational efficiency
-
-Tags:
-[[Ensemble Methods]]
-[[Bootstrap]]

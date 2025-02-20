@@ -1,7 +1,6 @@
 Ensemble Methods combine multiple machine learning models to create a more robust and accurate predictor. These methods leverage the wisdom of crowds principle to improve prediction performance and reduce overfitting.
 
 ### Main Types
-
 1. **[[Bagging]] (Bootstrap Aggregating)**
    - Random sampling with replacement
    - Parallel model training
@@ -21,7 +20,6 @@ Ensemble Methods combine multiple machine learning models to create a more robus
    - Cross-validated predictions
 
 ### Key Concepts
-
 1. **Model Diversity**
    - Different algorithms
    - Different hyperparameters
@@ -41,7 +39,6 @@ Ensemble Methods combine multiple machine learning models to create a more robus
    - Overfitting mitigation
 
 ### Popular Algorithms
-
 1. **[[Random Forests]]**
    - Bagging of decision trees
    - Random feature selection

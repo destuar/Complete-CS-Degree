@@ -1,4 +1,4 @@
-**Negative Binomial Regression** extends [[Poisson Regression]] to handle overdispersed count data by introducing an additional parameter that allows the variance to exceed the mean. It's particularly useful when the Poisson assumption of equal mean and variance is violated.
+**Negative Binomial Regression** extends [[Poisson Regression]] to handle over dispersed count data by introducing an additional parameter that allows the variance to exceed the mean. It's particularly useful when the Poisson assumption of equal mean and variance is violated.
 
 ### Mathematical Framework
 The model assumes:
@@ -46,19 +46,6 @@ where:
    - Stepwise procedures
    - Regularization
 
-### Applications
-1. **Biological Data**
-   - Species counts
-   - Gene expression
-   - Disease outbreaks
-   - Population dynamics
-
-2. **Social Sciences**
-   - Accident counts
-   - Crime statistics
-   - Citation counts
-   - Event frequencies
-
 ### Diagnostics
 1. **Residual Analysis**
    - Deviance residuals
@@ -73,5 +60,4 @@ where:
    - Influence analysis
 
 Tags:
-[[Poisson Regression]]
 [[Generalized Additive Models]]

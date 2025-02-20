@@ -35,18 +35,6 @@ where:
 - Learning rate tuning
 - Non-deterministic behavior
 - Requires careful monitoring
-
-### Applications
-1. **Deep Learning**
-   - [[Neural Networks]] training
-   - [[Convolutional Neural Networks]]
-   - [[Recurrent Neural Networks]]
-
-2. **Other Models**
-   - [[Simple Linear Regression]]
-   - [[Logistic Regression]]
-   - [[Support Vector Machines]]
-
 ### Implementation Considerations
 - Shuffling data
 - Batch size selection

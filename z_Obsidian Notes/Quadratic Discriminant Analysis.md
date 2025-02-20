@@ -1,7 +1,6 @@
 **Quadratic Discriminant Analysis (QDA)** extends [[Linear Discriminant Analysis]] by allowing each class to have its own covariance matrix, resulting in quadratic decision boundaries.
 
 ### Mathematical Framework
-
 For class k, assume:
 $X|Y=k \sim N(\mu_k, \Sigma_k)$ 
 
@@ -15,7 +14,6 @@ where $f_k(x)$ is the class-specific multivariate normal density:
 $f_k(x) = \frac{1}{(2\pi)^{p/2}|\Sigma_k|^{1/2}}e^{-\frac{1}{2}(x-\mu_k)^T\Sigma_k^{-1}(x-\mu_k)}$
 
 ### Discriminant Functions
-
 Quadratic discriminant function for class k:
 $\delta_k(x) = -\frac{1}{2}\log|\Sigma_k| - \frac{1}{2}(x-\mu_k)^T\Sigma_k^{-1}(x-\mu_k) + \log(\pi_k)$
 
@@ -23,7 +21,6 @@ Decision rule:
 Assign x to class k if $\delta_k(x) > \delta_l(x)$ for all $l \neq k$
 
 ### Parameter Estimation
-
 1. **Class Means**
    $\hat{\mu}_k = \frac{1}{n_k}\sum_{i:y_i=k} x_i$
 
@@ -34,13 +31,11 @@ Assign x to class k if $\delta_k(x) > \delta_l(x)$ for all $l \neq k$
    $\hat{\pi}_k = \frac{n_k}{n}$
 
 ### Decision Boundaries
-
 - Quadratic boundaries between classes
 - Equation: $\{x: \delta_k(x) = \delta_l(x)\}$
 - Can form ellipses, parabolas, or hyperbolas
 
 ### Comparison with LDA
-
 1. **Flexibility**
    - QDA: More flexible due to class-specific covariances
    - LDA: More rigid with shared covariance
@@ -54,7 +49,6 @@ Assign x to class k if $\delta_k(x) > \delta_l(x)$ for all $l \neq k$
    - LDA: Works well with smaller samples
 
 ### When to Use QDA
-
 1. **Large Sample Size**
    - Sufficient data to estimate separate covariance matrices
 
@@ -81,8 +75,3 @@ Assign x to class k if $\delta_k(x) > \delta_l(x)$ for all $l \neq k$
 - Covariance matrix condition numbers
 - Cross-validation error rates
 - Confusion matrices
-
-Tags:
-[[Parametric Models]]
-[[Linear Discriminant Analysis]]
-[[Bayes Theorem]]

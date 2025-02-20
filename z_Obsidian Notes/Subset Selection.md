@@ -1,7 +1,6 @@
 **Subset Selection** refers to methods for selecting a subset of predictors in [[Multiple Linear Regression]] and other statistical models to improve prediction accuracy and interpretability.
 
 ### Best Subset Selection
-
 1. **Algorithm**
    - Fit all possible $2^p$ models
    - For each size k = 1,...,p:
@@ -15,7 +14,6 @@
    - NP-hard optimization problem
 
 ### Forward Stepwise Selection
-
 1. **Algorithm**
    - Start with null model (intercept only)
    - Iteratively add most significant predictor
@@ -27,7 +25,6 @@
    or F-statistic for new variable
 
 ### Backward Stepwise Selection
-
 1. **Algorithm**
    - Start with full model (all predictors)
    - Iteratively remove least significant predictor
@@ -39,7 +36,6 @@
    - AIC, BIC, or other information criteria
 
 ### Model Selection Criteria
-
 1. **Cp (Mallows' Cp)**
    $C_p = \frac{1}{n}(\text{RSS} + 2d\hat{\sigma}^2)$
 
@@ -55,7 +51,6 @@ where:
 - n = sample size
 
 ### Hybrid Methods
-
 1. **Stepwise Selection**
    - Combination of forward and backward
    - Can both add and remove at each step
@@ -67,7 +62,6 @@ where:
    - Still computationally feasible
 
 ### Validation Approaches
-
 1. **[[Cross-Validation]]**
    - k-fold CV for each model size
    - Select size with minimum CV error
@@ -77,7 +71,6 @@ where:
    - Variable importance measures
 
 ### Limitations
-
 1. **Statistical Issues**
    - No guarantee of optimality
    - Instability of selection
@@ -92,7 +85,3 @@ where:
 - [[Ridge Regression]]
 - [[Lasso Regression]]
 - [[Principal Components Regression]]
-
-Tags:
-[[Multiple Linear Regression]]
-[[Regularization]]

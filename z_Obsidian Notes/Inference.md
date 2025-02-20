@@ -18,11 +18,5 @@ For a parameter θ and data X:
 - Confidence Interval: $\hat{\theta} \pm z_{\alpha/2} \cdot SE(\hat{\theta})$
 - Test Statistic: $T = \frac{\hat{\theta} - \theta_0}{SE(\hat{\theta})}$
 
-### Applications:
-- Medical research
-- Social science studies
-- A/B testing
-- Policy analysis
-
 Tags:
-[[Hypothesis Testing]]
+[[Prediction]]

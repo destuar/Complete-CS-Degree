@@ -1,7 +1,6 @@
 **Principal Components Regression (PCR)** combines [[Principal Components Analysis]] with [[Multiple Linear Regression]] by first performing dimensionality reduction and then using the principal components as predictors.
 
 ### Mathematical Framework
-
 1. **PCA Step**
    - Center and scale X
    - Compute principal components: $\mathbf{Z} = \mathbf{X}\mathbf{W}$
@@ -14,7 +13,6 @@
    $\hat{\boldsymbol{\beta}} = \mathbf{W}\hat{\boldsymbol{\theta}}$
 
 ### Algorithm
-
 1. **Preprocessing**
    - Center response: $y_i - \bar{y}$
    - Standardize predictors: $\frac{x_{ij} - \bar{x}_j}{s_j}$
@@ -31,7 +29,6 @@
    - Transform coefficients back
 
 ### Properties
-
 1. **Bias-Variance Trade-off**
    - Small M: High bias, low variance
    - Large M: Low bias, high variance
@@ -43,7 +40,6 @@
    - Can handle p > n case
 
 ### Advantages
-
 1. **Dimension Reduction**
    - Handles multicollinearity
    - Works when p > n
@@ -60,7 +56,6 @@
    - Easy to update
 
 ### Limitations
-
 1. **Component Selection**
    - Choice of M critical
    - May miss important predictors
@@ -77,7 +72,6 @@
    - Scale sensitivity
 
 ### Comparison with Other Methods
-
 1. **vs [[Ridge Regression]]**
    - PCR: Discrete shrinkage
    - Ridge: Continuous shrinkage
@@ -94,7 +88,6 @@
    - Different use cases
 
 ### Implementation
-
 1. **Cross-Validation**
    - Choose M components
    - Grid search over M
@@ -105,13 +98,3 @@
    - Variance explained
    - Residual analysis
    - Component plots
-
-### Applications
-- Spectroscopy
-- Chemometrics
-- Gene expression analysis
-- Economic forecasting
-
-Tags:
-[[Dimensionality Reduction]]
-[[Principal Components Analysis]]

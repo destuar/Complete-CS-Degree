@@ -28,8 +28,3 @@ where:
    - When $\mu = 0$ and $\sigma = 1$
    - Z-score transformation: $Z = \frac{X - \mu}{\sigma}$
    - Used for standardization and comparison
-
-### Related Distributions
-- [[Exponential Distribution]]
-- [[Poisson Distribution]]
-- [[Binomial Distribution]]

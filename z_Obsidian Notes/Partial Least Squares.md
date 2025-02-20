@@ -1,7 +1,6 @@
 **Partial Least Squares (PLS)** is a supervised dimension reduction method that finds components that explain both response and predictor variation. Unlike [[Principal Components Regression]], it considers the response when constructing components.
 
 ### Mathematical Framework
-
 For response Y and predictors X:
 
 1. **First Direction**
@@ -15,7 +14,6 @@ For response Y and predictors X:
    - Repeat process on residuals
 
 ### Algorithm (NIPALS)
-
 1. **Initialization**
    - Center X and y
    - Set $\mathbf{X}_1 = \mathbf{X}$
@@ -28,7 +26,6 @@ For response Y and predictors X:
    - $\mathbf{X}_{m+1} = \mathbf{X}_m - \mathbf{z}_m\mathbf{p}_m^T$
 
 ### Properties
-
 1. **Supervised Nature**
    - Components maximize covariance with response
    - More directly related to prediction
@@ -39,7 +36,6 @@ For response Y and predictors X:
    - Loading vectors $\mathbf{p}_m$ not necessarily orthogonal
 
 ### Advantages
-
 1. **Prediction Performance**
    - Often better than PCR
    - Especially good when X-Y relationship strong
@@ -56,7 +52,6 @@ For response Y and predictors X:
    - Natural variable selection
 
 ### Limitations
-
 1. **Overfitting Risk**
    - Can overfit if too many components
    - Requires careful cross-validation
@@ -68,7 +63,6 @@ For response Y and predictors X:
    - No clear population analog
 
 ### Implementation
-
 1. **Component Selection**
    - Cross-validation crucial
    - PRESS statistic
@@ -80,7 +74,6 @@ For response Y and predictors X:
    - Sparse PLS
 
 ### Comparison with Other Methods
-
 1. **vs [[Principal Components Regression]]**
    - PLS: Supervised components
    - PCR: Unsupervised components
@@ -95,13 +88,3 @@ For response Y and predictors X:
    - PLS: Soft variable selection
    - Lasso: Hard variable selection
    - Different sparsity approaches
-
-### Applications
-- Chemometrics
-- Spectroscopy
-- Metabolomics
-- Process monitoring
-- Quality control
-
-Tags:
-[[Dimensionality Reduction]]

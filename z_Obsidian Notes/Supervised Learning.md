@@ -14,13 +14,6 @@
    - Discrete output variables
    - Examples: spam detection, image classification
 
-### Common Algorithms:
-- [[Simple Linear Regression]]
-- [[Logistic Regression]]
-- [[Support Vector Machines]]
-- [[Random Forests]]
-- [[Neural Networks]]
-
 ### Evaluation Metrics:
 - Regression: MSE, RMSE, MAE, R²
 - Classification: Accuracy, Precision, Recall, F1-Score

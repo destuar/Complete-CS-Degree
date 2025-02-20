@@ -22,24 +22,6 @@ where:
    $\int_a^b s(x)dx = \sum_{i=1}^n c_i(b_i - a_i)$
    where intervals are within $[a,b]$
 
-### Applications
-1. **Statistics**
-   - Empirical distribution functions
-   - [[Survival Function]] estimation
-   - [[Kaplan-Meier Curve]]
-   - Histogram construction
-
-2. **Signal Processing**
-   - Quantization
-   - Digital signals
-   - Threshold detection
-
-### Relationship to Other Functions
-- Basis for [[Regression Splines]]
-- Component of [[Generalized Additive Models]]
-- Used in [[Survival Analysis]]
-- Foundation for [[Local Regression]]
-
 ### Advantages and Limitations
 **Advantages:**
 - Simple to interpret
@@ -52,6 +34,3 @@ where:
 - Limited smoothness
 - May overfit with too many steps
 - Sensitive to interval choice
-
-Tags:
-[[Non-Parametric Models]]

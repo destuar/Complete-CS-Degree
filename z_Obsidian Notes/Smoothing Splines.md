@@ -1,4 +1,4 @@
-**Smoothing Splines** are flexible curve-fitting tools that balance the trade-off between data fit and curve smoothness. They are a type of [[Non-Parametric Models]] that minimize a penalized sum of squares criterion.
+**Smoothing Splines** are flexible curve-fitting tools that balance the trade-off between data fit and curve smoothness. They are a type of [[Non-Parametric Models]] that minimize a penalized sum of squares criterion and generalizes [[Regression Splines]].
 
 ### Mathematical Framework
 The smoothing spline $g(x)$ minimizes:
@@ -37,18 +37,6 @@ where:
    - Tensor product splines
    - Adaptive smoothing
 
-### Applications
-- Nonlinear trend estimation
-- Signal smoothing
-- Growth curve analysis
-- Environmental data modeling
-
-### Relationship to Other Methods
-- Generalizes [[Regression Splines]]
-- Related to [[Polynomial Regression]]
-- Connection to [[Ridge Regression]]
-- Similar to [[Local Regression]]
-
 ### Advantages and Limitations
 **Advantages:**
 - Automatic knot selection
@@ -61,6 +49,3 @@ where:
 - Sensitive to outliers
 - Curse of dimensionality
 - Memory requirements
-
-Tags:
-[[Non-Parametric Models]]

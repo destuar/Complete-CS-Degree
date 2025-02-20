@@ -50,19 +50,6 @@ where:
    - Convergence criteria
    - Multiple restarts
 
-### Applications
-1. **Data Analysis**
-   - Customer segmentation
-   - Image compression
-   - Document clustering
-   - Pattern recognition
-
-2. **Feature Learning**
-   - Vector quantization
-   - Feature extraction
-   - Dimensionality reduction
-   - Prototype learning
-
 ### Extensions
 1. **Variants**
    - K-medoids
@@ -88,7 +75,3 @@ where:
 - Sensitive to outliers
 - Assumes spherical clusters
 - Local optima issues
-
-Tags:
-[[Unsupervised Learning]]
-[[Clustering]]

@@ -37,19 +37,6 @@ where:
    - Arbitrary dependence
    - BY modification
 
-### Applications
-1. **Genomics**
-   - Microarray analysis
-   - RNA sequencing
-   - GWAS studies
-   - Proteomics
-
-2. **Neuroimaging**
-   - fMRI analysis
-   - Brain mapping
-   - Network analysis
-   - Connectivity studies
-
 ### Implementation
 1. **Practical Considerations**
    - Choice of α level
@@ -62,12 +49,6 @@ where:
    - Bioconductor
    - Python libraries
    - Custom implementations
-
-### Relationship to Other Methods
-- Alternative to [[Family-Wise Error Rate]]
-- Component of [[Multiple Testing]]
-- Used with [[Benjamini-Hochberg Procedure]]
-- More powerful than [[Bonferroni Method]]
 
 ### Advantages and Limitations
 **Advantages:**
@@ -82,5 +63,3 @@ where:
 - Complex dependencies
 - Choice of threshold
 
-Tags:
-[[Multiple Testing]]

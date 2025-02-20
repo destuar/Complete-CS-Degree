@@ -72,6 +72,3 @@ where:
    - Bayesian approaches
    - Neural networks
    - Tree-based methods
-
-Tags:
-[[Logistic Regression]]

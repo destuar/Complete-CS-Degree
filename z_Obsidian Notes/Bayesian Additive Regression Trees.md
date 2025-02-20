@@ -1,7 +1,6 @@
 **Bayesian Additive Regression Trees (BART)** is a Bayesian ensemble method that combines multiple regression trees with regularization priors to create a flexible [[Non-Parametric Models|non-parametric]] model for regression and [[Classification]].
 
 ### Mathematical Framework
-
 For response Y and predictors X:
 $Y = \sum_{j=1}^m g(X; T_j, M_j) + \epsilon$
 
@@ -12,7 +11,6 @@ where:
 - $\epsilon \sim N(0, \sigma^2)$
 
 ### Prior Specification
-
 1. **Tree Structure**
    - Prior on depth
    - Prior on splitting rules
@@ -29,7 +27,6 @@ where:
    - Robust to misspecification
 
 ### Inference
-
 1. **MCMC Algorithm**
    - Gibbs sampling steps
    - Metropolis-Hastings updates
@@ -41,7 +38,6 @@ where:
    - Variable importance
 
 ### Properties
-
 1. **Model Characteristics**
    - Non-parametric flexibility
    - Automatic variable selection
@@ -66,21 +62,9 @@ where:
 - Limited to moderate dimensions
 - MCMC convergence issues
 - Complex implementation
-
-### Applications
-- Response surface modeling
-- Causal inference
-- Treatment effects
-- Risk assessment
-- Prediction with uncertainty
-
 ### Diagnostics
 - MCMC convergence
 - Residual analysis
 - Posterior predictive checks
 - Variable importance plots
 - Partial dependence plots
-
-Tags:
-[[Non-Parametric Models]]
-[[Classification]]

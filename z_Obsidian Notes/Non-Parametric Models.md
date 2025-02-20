@@ -59,7 +59,3 @@ $f(x) = \mathbb{E}[Y|X=x]$ directly from the data
 3. **Signal-to-Noise Ratio**
    - High noise: Simpler models better
    - Clear signal: Can use flexible methods
-
-Tags:
-[[Parametric Models]]
-[[Bias-Variance Trade-Off]]

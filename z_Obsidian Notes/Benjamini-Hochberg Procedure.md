@@ -38,19 +38,6 @@ where:
    - Discrete p-values
    - Multiple endpoints
 
-### Applications
-1. **Genomics**
-   - Gene expression
-   - GWAS studies
-   - RNA sequencing
-   - Proteomics
-
-2. **Other Fields**
-   - Neuroimaging
-   - Signal detection
-   - Quality control
-   - Feature selection
-
 ### Extensions
 1. **Variants**
    - Adaptive procedures
@@ -76,7 +63,3 @@ where:
 - Assumes independence/PRDS
 - May include false positives
 - Requires careful interpretation
-
-Tags:
-[[Multiple Testing]]
-[[False Discovery Rate]]

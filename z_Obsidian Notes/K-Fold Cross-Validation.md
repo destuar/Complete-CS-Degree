@@ -1,7 +1,6 @@
-K-Fold Cross-Validation is a resampling method used to assess model performance and tune hyperparameters. It provides a more robust evaluation of model performance than a single train-test split.
+K-Fold [[Cross-Validation]] is a resampling method used to assess model performance and tune hyperparameters. It provides a more robust evaluation of model performance than a single train-test split.
 
 ### Basic Procedure
-
 1. **Data Partitioning**
    - Split data into k equal-sized folds
    - Typically k = 5 or 10
@@ -22,7 +21,6 @@ K-Fold Cross-Validation is a resampling method used to assess model performance 
    - Compare models
 
 ### Variants
-
 1. **Stratified K-Fold**
    - Maintains class distribution
    - Better for imbalanced data
@@ -42,7 +40,6 @@ K-Fold Cross-Validation is a resampling method used to assess model performance 
    - Higher computational cost
 
 ### Best Practices
-
 1. **Choosing k**
    - k = 5 or 10 typical
    - Trade-off: bias vs variance
@@ -54,3 +51,4 @@ K-Fold Cross-Validation is a resampling method used to assess model performance 
    - Stratify if needed
    - Handle dependencies
    - Preserve time order if relevant
+

@@ -42,6 +42,3 @@ $f(X) = g(X; \theta)$ where $\theta \in \mathbb{R}^p$
 - May not capture complex patterns
 - Assumptions may be unrealistic
 - Limited flexibility
-
-Tags:
-[[Non-Parametric Models]]

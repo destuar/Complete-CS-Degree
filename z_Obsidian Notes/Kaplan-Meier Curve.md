@@ -23,20 +23,7 @@ where:
    $\text{Var}(\hat{S}(t)) = \hat{S}(t)^2 \sum_{t_i \leq t} \frac{d_i}{n_i(n_i-d_i)}$
    - Confidence intervals
    - Standard errors
-
-### Applications
-1. **Medical Research**
-   - Patient survival analysis
-   - Treatment comparison
-   - Clinical trials
-   - Disease progression
-
-2. **Other Fields**
-   - Equipment reliability
-   - Customer churn
-   - Time to event analysis
-   - Failure time studies
-
+   - 
 ### Extensions
 1. **Comparisons**
    - Log-rank test
@@ -49,12 +36,6 @@ where:
    - Competing risks
    - Time-dependent covariates
    - Multiple events
-
-### Relationship to Other Methods
-- Foundation for [[Cox Proportional Hazards]]
-- Alternative to [[Survival Function]]
-- Handles [[Censored Data]]
-- Input for [[Survival Analysis]]
 
 ### Implementation
 1. **Data Requirements**
@@ -81,7 +62,3 @@ where:
 - Requires large samples
 - Limited by censoring
 - No covariate adjustment
-
-Tags:
-[[Survival Analysis]]
-[[Censored Data]]

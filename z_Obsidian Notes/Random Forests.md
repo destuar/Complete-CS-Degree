@@ -1,4 +1,4 @@
-**Random Forests** is an ensemble learning method that combines multiple decision trees through [[Bootstrap]] aggregation (bagging) and random feature selection to improve prediction accuracy and reduce overfitting.
+**Random Forests** is an [[Ensemble Methods|ensemble learning method]] that combines multiple decision trees through [[Bootstrap]] aggregation ([[Bagging]]) and random feature selection to improve prediction accuracy and reduce overfitting.
 
 ### Mathematical Framework
 
@@ -25,7 +25,6 @@ For B trees and training set D:
    - Classification: mtry ≈ $\sqrt{p}$
 
 ### Properties
-
 1. **Variance Reduction**
    - Trees are decorrelated
    - Averaging reduces variance
@@ -52,7 +51,6 @@ For B trees and training set D:
 - May struggle with linear relationships
 
 ### Implementation
-
 1. **Key Parameters**
    - Number of trees (B)
    - mtry (features per split)
@@ -65,7 +63,6 @@ For B trees and training set D:
    - Balance computation vs accuracy
 
 ### Error Estimation
-
 1. **Out-of-Bag Error**
    $\text{OOB Error} = \frac{1}{n}\sum_{i=1}^n L(y_i, \hat{f}_{oob}(x_i))$
    where $\hat{f}_{oob}$ uses only trees where i was OOB
@@ -76,7 +73,6 @@ For B trees and training set D:
    - Averaged across trees
 
 ### Extensions
-
 1. **Proximity Measures**
    - Count co-occurrence in leaves
    - Used for clustering
@@ -86,21 +82,9 @@ For B trees and training set D:
    - Proximity-based
    - Iterative process
    - Handles mixed types
-
-### Applications
-- Genomics
-- Computer vision
-- Remote sensing
-- Financial prediction
-- Ecology
-
 ### Diagnostics
 - OOB error curves
 - Variable importance plots
 - Partial dependence plots
 - Proximity matrices
 - Prediction intervals
-
-Tags:
-[[Ensemble Methods]]
-[[Bootstrap]]

@@ -76,6 +76,3 @@ $\hat{\beta}_0 = \bar{y} - \hat{\beta}_1\bar{x}$
 - [[Polynomial Regression]]
 - [[Ridge Regression]]
 - [[Lasso Regression]]
-
-Tags:
-[[Regression Model]]

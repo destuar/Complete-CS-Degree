@@ -25,11 +25,6 @@ where:
    - Limit of [[Binomial Distribution]] as n→∞, p→0
    - Memoryless property for inter-arrival times
 
-3. **Related Distributions**
-   - [[Exponential Distribution]] (inter-arrival times)
-   - [[Gamma Distribution]] (waiting time for k events)
-   - [[Normal Distribution]] (approximation for large λ)
-
 ### Parameter Estimation
 
 1. **Maximum Likelihood**

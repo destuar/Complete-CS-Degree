@@ -1,7 +1,6 @@
 The Akaike Information Criterion (AIC) is a mathematical method for evaluating how well a model fits the data while penalizing complexity. It helps in model selection by balancing goodness of fit against model simplicity.
 
 ### Mathematical Definition
-
 For a statistical model with k parameters:
 
 $$AIC = 2k - 2\ln(\hat{L})$$
@@ -19,7 +18,6 @@ where:
 - $RSS$ is residual sum of squares
 
 ### Properties
-
 1. **Interpretation**
    - Lower AIC values indicate better models
    - Relative measure (only meaningful when comparing models)
@@ -33,7 +31,6 @@ where:
    - Assumes large sample size
    - May not work well with small samples
    - Only valid for comparing models with same response variable
-
 
 ### Comparison with Other Criteria
 - [[Bayesian Information Criterion (BIC)]]

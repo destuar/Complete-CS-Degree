@@ -53,25 +53,6 @@ where:
    - Surface smoothing
    - Projection pursuit
 
-### Applications
-1. **Data Analysis**
-   - Trend estimation
-   - Seasonal adjustment
-   - Residual analysis
-   - Exploratory analysis
-
-2. **Specific Fields**
-   - Environmental monitoring
-   - Economic forecasting
-   - Signal processing
-   - Quality control
-
-### Relationship to Other Methods
-- Similar to [[Kernel Regression]]
-- Related to [[Smoothing Splines]]
-- Component of [[Generalized Additive Models]]
-- Alternative to [[Polynomial Regression]]
-
 ### Advantages and Limitations
 **Advantages:**
 - No functional form assumption
@@ -84,6 +65,3 @@ where:
 - Curse of dimensionality
 - Boundary effects
 - Parameter selection complexity
-
-Tags:
-[[Smoothing Splines]]

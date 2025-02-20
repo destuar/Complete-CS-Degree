@@ -1,7 +1,6 @@
 The Bayesian Information Criterion (BIC) is a criterion for model selection that penalizes model complexity more strongly than [[Akaike Information Criterion (AIC)]]. It's derived from Bayesian probability theory and approximates the Bayes factor.
 
 ### Mathematical Definition
-
 For a model with k parameters and n observations:
 
 $$BIC = \ln(n)k - 2\ln(\hat{L})$$
@@ -19,7 +18,6 @@ where:
 - $RSS$ is residual sum of squares
 
 ### Properties
-
 1. **Interpretation**
    - Lower BIC values indicate better models
    - Stronger penalty for complexity than AIC
@@ -39,7 +37,6 @@ where:
    - Sensitive to model parameterization
 
 ### Implementation
-
 1. **Steps**
    - Fit candidate models
    - Calculate BIC for each

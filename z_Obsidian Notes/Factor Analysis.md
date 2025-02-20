@@ -1,7 +1,6 @@
 Factor Analysis is a statistical method used to describe variability among observed, correlated variables in terms of a potentially lower number of unobserved variables called factors. It's a key technique in [[Dimensionality Reduction]].
 
 ### Mathematical Model
-
 The basic factor analysis model:
 
 $$X = \Lambda F + \epsilon$$
@@ -13,7 +12,6 @@ where:
 - $\epsilon$ is the error term
 
 ### Types
-
 1. **Exploratory Factor Analysis (EFA)**
    - No prior assumptions about structure
    - Discovers underlying factors
@@ -29,7 +27,6 @@ where:
    - Part of structural equation modeling
 
 ### Key Concepts
-
 1. **Factor Loadings**
    - Correlations between variables and factors
    - Usually consider loadings > 0.3 significant
@@ -47,7 +44,6 @@ where:
    - Preserve explained variance
 
 ### Model Selection
-
 1. **Number of Factors**
    - Scree plot analysis
    - Kaiser criterion (eigenvalues > 1)

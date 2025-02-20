@@ -24,19 +24,6 @@ where:
    - Trade-off with Type I error
    - Sample size implications
 
-### Applications
-1. **Clinical Trials**
-   - Multiple endpoints
-   - Subgroup analyses
-   - Interim analyses
-   - Safety monitoring
-
-2. **General Research**
-   - Post-hoc comparisons
-   - Multiple comparisons
-   - Exploratory analyses
-   - Quality control
-
 ### Extensions
 1. **Modified Procedures**
    - Holm's step-down
@@ -75,7 +62,3 @@ where:
    - R functions
    - Python libraries
    - Custom implementations
-
-Tags:
-[[Multiple Testing]]
-[[Family-Wise Error Rate]]

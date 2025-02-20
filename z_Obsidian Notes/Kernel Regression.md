@@ -1,7 +1,6 @@
 Kernel Regression is a non-parametric technique that uses kernel functions to estimate the conditional expectation of a random variable. It's a flexible approach that can capture non-linear relationships in data.
 
 ### Mathematical Foundation
-
 The Nadaraya-Watson estimator:
 
 $$\hat{m}(x) = \frac{\sum_{i=1}^n K_h(x - x_i)y_i}{\sum_{i=1}^n K_h(x - x_i)}$$
@@ -13,7 +12,6 @@ where:
 - $K(·)$ is the kernel function
 
 ### Common Kernel Functions
-
 1. **Gaussian Kernel**
    $$K(u) = \frac{1}{\sqrt{2\pi}}e^{-\frac{u^2}{2}}$$
    - Smooth estimates
@@ -33,7 +31,6 @@ where:
    - Box smoothing
 
 ### Bandwidth Selection
-
 1. **Cross-Validation**
    - Leave-one-out CV
    - K-fold CV
@@ -47,7 +44,6 @@ where:
    - Quick approximations
 
 ### Properties
-
 1. **Advantages**
    - Non-parametric flexibility
    - No functional form assumptions

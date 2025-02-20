@@ -40,8 +40,3 @@ where:
    - Beta prior for p
    - Beta posterior
    - Conjugate prior family
-
-### Related Distributions
-- [[Bernoulli Distribution]] (n=1)
-- [[Poisson Distribution]] (limit as n→∞, p→0)
-- [[Normal Distribution]] (large n approximation)

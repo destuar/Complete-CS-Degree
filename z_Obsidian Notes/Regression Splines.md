@@ -50,12 +50,6 @@ where:
    - Cubic splines
    - Higher-order splines
 
-### Relationship to Other Methods
-- Generalizes [[Polynomial Regression]]
-- Basis for [[Smoothing Splines]]
-- Related to [[Local Regression]]
-- Component of [[Generalized Additive Models]]
-
 ### Applications
 - Nonlinear trend modeling
 - Growth curve analysis
@@ -75,6 +69,3 @@ where:
 - Potential for overfitting
 - Boundary effects
 - Curse of dimensionality
-
-Tags:
-[[Smoothing Splines]]

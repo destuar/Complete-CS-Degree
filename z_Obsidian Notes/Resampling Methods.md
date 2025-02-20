@@ -1,14 +1,13 @@
 Resampling Methods are computational techniques that involve repeatedly drawing samples from a dataset to estimate statistical quantities and assess model performance. These methods are fundamental to modern statistical inference and machine learning.
 
 ### Common Methods
-
 1. **[[Cross-Validation]]**
    - K-fold partitioning
    - Leave-one-out
    - Stratified sampling
    - Used for model assessment and selection
 
-2. **Bootstrap**
+2. **[[Bootstrap]]**
    - Sampling with replacement
    - Estimates sampling distributions
    - Confidence intervals
@@ -21,7 +20,6 @@ Resampling Methods are computational techniques that involve repeatedly drawing 
    - Influence analysis
 
 ### Applications
-
 1. **Model Evaluation**
    - Performance estimation
    - Model selection
@@ -41,7 +39,6 @@ Resampling Methods are computational techniques that involve repeatedly drawing 
    - Model averaging
 
 ### Implementation
-
 1. **Cross-Validation Steps**
    - Split data into k folds
    - Train on k-1 folds
@@ -55,7 +52,6 @@ Resampling Methods are computational techniques that involve repeatedly drawing 
    - Analyze distribution
 
 ### Advantages and Limitations
-
 1. **Advantages**
    - Distribution-free methods
    - Robust error estimation

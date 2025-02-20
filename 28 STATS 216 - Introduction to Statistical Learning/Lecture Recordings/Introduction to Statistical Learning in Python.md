@@ -34,7 +34,6 @@
 - [[Poisson Regression]]
 - [[Gamma Regression]]
 - [[Negative Binomial Regression]]
-- [[Natural Log]] 
 - [[Exponential Family]]
 - [[Generalized Linear Models]]
 
@@ -67,7 +66,6 @@
 
 ### Non-Linear Methods
 - [[Polynomial Regression]]
-- [[Power Rule]] 
 - [[Step Functions]]
 - [[Regression Splines]]
 - [[Smoothing Splines]]
@@ -88,7 +86,6 @@
 - [[Maximal Margin Classifier]]
 - [[Support Vector Classifier]]
 - [[Support Vector Machines]]
-- [[Hash]] Functions 
 - [[Kernel Regression]]
 - [[Curse of Dimensionality]]
 
@@ -99,13 +96,13 @@
 - [[Backpropagation]]
 - [[Gradient Descent]]
 - [[Stochastic Gradient Descent]]
-- [[Deep Learning]]
 
 ### Survival Analysis
 - [[Survival Function]]
 - [[Kaplan-Meier Curve]]
 - [[Cox Proportional Hazards]]
 - [[Censored Data]]
+- [[Survival Analysis]]
 
 ### Unsupervised Learning
 - [[Principal Components Analysis]]
@@ -118,7 +115,6 @@
 - [[False Discovery Rate]]
 - [[Bonferroni Method]]
 - [[Benjamini-Hochberg Procedure]]
-- [[Conjecture]]
 
 
 

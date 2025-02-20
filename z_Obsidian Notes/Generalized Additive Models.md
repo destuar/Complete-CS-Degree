@@ -47,19 +47,6 @@ where:
    - Knot placement
    - [[Bias-Variance Trade-Off]]
 
-### Applications
-1. **Environmental Science**
-   - Air pollution modeling
-   - Species distribution
-   - Climate analysis
-   - Spatial patterns
-
-2. **Biostatistics**
-   - Growth curves
-   - Dose-response
-   - Survival analysis
-   - Epidemiology
-
 ### Extensions
 1. **Advanced Methods**
    - Mixed effects
@@ -85,6 +72,3 @@ where:
 - Curse of dimensionality
 - Model selection challenges
 - Interaction modeling
-
-Tags:
-[[Smoothing Splines]]

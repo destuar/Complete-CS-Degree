@@ -1,7 +1,6 @@
 **Regression Trees** are a [[Non-Parametric Models|non-parametric]] method for [[Regression Model|regression]] that recursively partitions the feature space into rectangular regions and fits a simple model (usually a constant) in each region.
 
 ### Mathematical Framework
-
 For a partition of feature space into M regions $R_1, ..., R_M$:
 
 $\hat{f}(x) = \sum_{m=1}^M c_m I(x \in R_m)$
@@ -11,7 +10,6 @@ where:
 - $I(x \in R_m)$ is the indicator function
 
 ### Growing Algorithm
-
 1. **Split Selection**
    Minimize RSS at each step:
    $\sum_{i: x_i \in R_1(j,s)} (y_i - \hat{c}_1)^2 + \sum_{i: x_i \in R_2(j,s)} (y_i - \hat{c}_2)^2$
@@ -29,7 +27,6 @@ where:
    - Continue until stopping criterion met
 
 ### Tree Pruning
-
 1. **Cost-Complexity Pruning**
    Minimize:
    $\sum_{m=1}^{|T|} \sum_{i: x_i \in R_m} (y_i - \hat{c}_m)^2 + \alpha|T|$
@@ -44,7 +41,6 @@ where:
    - Create sequence of nested trees
 
 ### Properties
-
 1. **Interpretability**
    - Natural decision rules
    - Visual representation
@@ -70,7 +66,6 @@ where:
 - Poor additive structure handling
 
 ### Implementation
-
 1. **Stopping Criteria**
    - Minimum node size
    - Maximum depth
@@ -84,7 +79,6 @@ where:
    - Maximum features per split
 
 ### Extensions
-
 1. **[[Random Forests]]**
    - Ensemble of trees
    - Reduces variance
@@ -95,18 +89,8 @@ where:
    - Focuses on hard cases
    - Gradient boosting machines
 
-### Applications
-- Real estate price prediction
-- Environmental modeling
-- Financial forecasting
-- Risk assessment
-
 ### Diagnostics
 - Cross-validation error
 - Variable importance plots
 - Residual analysis
 - Tree visualization
-
-Tags:
-[[Non-Parametric Models]]
-[[Regression Model]]

@@ -1,7 +1,6 @@
 **Time Series Analysis** involves studying data points collected over time to understand underlying patterns, make predictions, and analyze temporal dependencies. It combines statistical methods with domain-specific considerations of time-ordered data.
 
 ### Components
-
 1. **Trend**
    - Long-term direction
    - Can be linear or non-linear
@@ -23,7 +22,6 @@
    - Stochastic process
 
 ### Basic Models
-
 1. **Autoregressive (AR)**
    $X_t = c + \sum_{i=1}^p \phi_i X_{t-i} + \epsilon_t$
    - p is order of AR process
@@ -43,7 +41,6 @@
    - Combines AR and MA with differencing
 
 ### Stationarity
-
 1. **Requirements**
    - Constant mean
    - Constant variance
@@ -55,7 +52,6 @@
    - Phillips-Perron test
 
 ### Model Selection
-
 1. **Identification**
    - ACF plots
    - PACF plots
@@ -69,7 +65,6 @@
    - Heteroscedasticity tests
 
 ### Forecasting
-
 1. **Point Forecasts**
    - Conditional expectation
    - Maximum likelihood
@@ -81,7 +76,6 @@
    - Fan charts
 
 ### Advanced Methods
-
 1. **State Space Models**
    - Kalman filtering
    - Hidden Markov Models
@@ -93,7 +87,6 @@
    - Attention mechanisms
 
 ### Preprocessing
-
 1. **Transformations**
    - Log transform
    - Box-Cox
@@ -104,17 +97,3 @@
    - Interpolation
    - Forward/backward fill
    - Model-based imputation
-
-### Applications
-- Financial forecasting
-- Demand prediction
-- Weather forecasting
-- Economic indicators
-- Sensor data analysis
-
-### Diagnostics
-- Residual plots
-- Forecast accuracy metrics
-- Model stability tests
-- Parameter significance
-- Cross-validation errors

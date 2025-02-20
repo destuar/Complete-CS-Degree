@@ -54,9 +54,3 @@ where:
    - [[Akaike Information Criterion (AIC)]]
    - [[Bayesian Information Criterion (BIC)]]
    - One-standard-error rule
-
-### Applications
-- Hyperparameter tuning
-- Model complexity selection
-- Ensemble method design
-- Feature selection

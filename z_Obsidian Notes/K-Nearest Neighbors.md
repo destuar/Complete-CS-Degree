@@ -70,7 +70,3 @@ where:
 - Missing value imputation
 - Anomaly detection
 - Image classification
-
-Tags:
-[[Classification]]
-[[Regression Model]]

@@ -21,18 +21,8 @@
    - Market basket analysis
    - Pattern mining
 
-### Applications:
-- Customer segmentation
-- Anomaly detection
-- Feature learning
-- Topic modeling
-
 ### Evaluation Approaches:
 - Silhouette score
 - Inertia
 - Explained variance
 - Domain expert validation
-
-Tags:
-[[Supervised Learning]]
-[[Clustering]]

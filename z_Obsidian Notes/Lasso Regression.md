@@ -11,7 +11,6 @@ where:
 - $\beta_0$ is not penalized
 
 ### Solution Properties
-
 Unlike [[Ridge Regression]], no closed form solution exists.
 Solved via:
 - Coordinate descent
@@ -19,7 +18,6 @@ Solved via:
 - Proximal gradient methods
 
 ### Variable Selection
-
 1. **Sparsity**
    - Some coefficients exactly zero
    - Automatic feature selection
@@ -31,14 +29,12 @@ Solved via:
    - Path is piecewise linear
 
 ### Standardization
-
 Before fitting:
 1. Center response: $y_i - \bar{y}$
 2. Standardize predictors: $\frac{x_{ij} - \bar{x}_j}{s_j}$
    where $s_j^2 = \frac{1}{n}\sum_{i=1}^n(x_{ij} - \bar{x}_j)^2$
 
 ### Effect of λ
-
 1. **λ = 0**
    - Ordinary least squares
    - No shrinkage/selection
@@ -52,7 +48,6 @@ Before fitting:
    - Balance between sparsity and fit
 
 ### Geometric Interpretation
-
 1. **Constraint Region**
    - L1 ball: $\sum_{j=1}^p|\beta_j| \leq t$
    - Diamond-shaped constraint
@@ -62,7 +57,6 @@ Before fitting:
    - Often occurs at corners (sparsity)
 
 ### Comparison with Other Methods
-
 1. **vs [[Ridge Regression]]**
    - Lasso: L1 penalty (variable selection)
    - Ridge: L2 penalty (shrinkage only)
@@ -87,7 +81,6 @@ Before fitting:
 - Can be sensitive to scaling
 
 ### Extensions
-
 1. **Elastic Net**
    - Combines L1 and L2 penalties
    - $\lambda(\alpha\sum_{j=1}^p|\beta_j| + (1-\alpha)\sum_{j=1}^p\beta_j^2)$
@@ -97,13 +90,3 @@ Before fitting:
    - Selects groups of variables
    - Useful for categorical variables
    - Maintains hierarchical structure
-
-### Applications
-- Gene selection
-- Signal processing
-- Compressed sensing
-- High-dimensional modeling
-
-Tags:
-[[Regularization]]
-[[Multiple Linear Regression]]

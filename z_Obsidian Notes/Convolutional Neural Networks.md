@@ -50,19 +50,6 @@ where:
    - Early stopping
    - Dropout
 
-### Applications
-1. **Computer Vision**
-   - Image classification
-   - Object detection
-   - Segmentation
-   - Face recognition
-
-2. **Beyond Images**
-   - Speech recognition
-   - Natural language
-   - Time series
-   - Graph data
-
 ### Advanced Concepts
 1. **Architecture Variants**
    - ResNet
@@ -88,7 +75,3 @@ where:
 - Computationally intensive
 - Black box nature
 - Limited interpretability
-
-Tags:
-[[Neural Networks]]
-[[Deep Learning]]

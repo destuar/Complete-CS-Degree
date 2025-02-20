@@ -1,7 +1,6 @@
-**Survival Analysis** is a statistical method for analyzing time-to-event data, where the outcome is the time until an event occurs. It handles censored observations and time-varying covariates.
+**Survival Analysis** is a statistical method for analyzing time-to-event data, where the outcome is the time until an event occurs. It handles [[Censored Data|censored observations]] and time-varying covariates.
 
 ### Key Concepts
-
 1. **Survival Function**
    $S(t) = P(T > t) = 1 - F(t)$
    - Probability of surviving past time t
@@ -15,7 +14,6 @@
    - Also called hazard rate
 
 ### Censoring Types
-
 1. **Right Censoring**
    - Event occurs after observation period
    - Most common type
@@ -32,7 +30,6 @@
    - Example: monthly check-ups
 
 ### Non-Parametric Methods
-
 1. **Kaplan-Meier Estimator**
    $\hat{S}(t) = \prod_{t_i \leq t} (1 - \frac{d_i}{n_i})$
    - $d_i$ = events at time i
@@ -46,7 +43,6 @@
    - Better for small samples
 
 ### Semi-Parametric Models
-
 1. **Cox Proportional Hazards**
    $h(t|X) = h_0(t)\exp(\beta^TX)$
    - $h_0(t)$ = baseline hazard
@@ -60,7 +56,6 @@
    - More complex estimation
 
 ### Parametric Models
-
 1. **Exponential**
    - Constant hazard rate
    - $h(t) = \lambda$
@@ -77,7 +72,6 @@
    - Better for some applications
 
 ### Model Diagnostics
-
 1. **Proportional Hazards**
    - Schoenfeld residuals
    - Log-log plots
@@ -88,15 +82,7 @@
    - Martingale residuals
    - Deviance residuals
 
-### Applications
-- Medical survival studies
-- Reliability engineering
-- Customer churn analysis
-- Credit risk modeling
-- Equipment failure analysis
-
 ### Extensions
-
 1. **Competing Risks**
    - Multiple event types
    - Cause-specific hazards
@@ -106,6 +92,3 @@
    - Unobserved heterogeneity
    - Random effects
    - Clustered data
-
-Tags:
-[[Censored Data]] 

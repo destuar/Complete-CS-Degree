@@ -72,5 +72,4 @@ where:
    - [[Time Series Analysis]]
 
 Tags:
-[[Generalized Additive Models]]
-[[Multiple Testing]]
+[[Generalized Linear Models]]

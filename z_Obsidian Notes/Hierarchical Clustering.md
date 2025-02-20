@@ -1,4 +1,4 @@
-**Hierarchical Clustering** is a method that builds a hierarchy of clusters by either successively merging smaller clusters (agglomerative) or dividing larger clusters (divisive). It provides a tree-like structure of nested clusters called a dendrogram.
+**Hierarchical [[Clustering]]** is an [[Unsupervised Learning]] method that builds a hierarchy of clusters by either successively merging smaller clusters (agglomerative) or dividing larger clusters (divisive). It provides a tree-like structure of nested clusters called a dendrogram.
 
 ### Mathematical Framework
 For agglomerative clustering, distance between clusters A and B:
@@ -50,25 +50,6 @@ Common linkage functions:
    - Memory requirements
    - Optimization methods
 
-### Applications
-1. **Biology**
-   - Phylogenetic trees
-   - Gene expression
-   - Protein structure
-   - Taxonomies
-
-2. **General Use**
-   - Document organization
-   - Customer segmentation
-   - Image segmentation
-   - Social network analysis
-
-### Relationship to Other Methods
-- Alternative to [[K-Means Clustering]]
-- Component of [[Clustering]]
-- Used in [[Unsupervised Learning]]
-- Related to minimum spanning trees
-
 ### Advantages and Limitations
 **Advantages:**
 - No need to specify clusters
@@ -81,7 +62,3 @@ Common linkage functions:
 - Sensitive to noise
 - Cannot undo merges/splits
 - Memory constraints
-
-Tags:
-[[Unsupervised Learning]]
-[[Clustering]]

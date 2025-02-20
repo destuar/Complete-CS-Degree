@@ -34,7 +34,6 @@ where:
 1. **Model Selection**
    - Choose between different model types
    - Select optimal hyperparameters
-   - Example: choosing K in [[K-Nearest Neighbors]]
 
 2. **Feature Selection**
    - Evaluate different feature subsets
@@ -88,7 +87,3 @@ where:
 - May not preserve data dependencies
 - Results can still be noisy
 - May not work well for very small datasets
-
-Tags:
-[[Resampling Methods]]
-[[Bootstrap]]

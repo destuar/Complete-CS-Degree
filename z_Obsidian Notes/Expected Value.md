@@ -55,6 +55,3 @@ $\mathbb{E}[X] = \int_{-\infty}^{\infty} x f(x) dx$
 - [[Covariance]]: $\text{Cov}(X,Y) = \mathbb{E}[(X - \mathbb{E}[X])(Y - \mathbb{E}[Y])]$
 - [[Probability Distribution Function]]
 - Moment Generating Function
-
-Tags:
-[[Random Variable]]

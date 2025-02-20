@@ -1,7 +1,6 @@
 **Support Vector Machines (SVM)** is a supervised learning method that finds an optimal hyperplane to separate classes in a high-dimensional space. It extends from the [[Maximal Margin Classifier]] through the use of kernels for non-linear classification.
 
 ### Mathematical Framework
-
 For binary classification with labels yi ∈ {-1,1}:
 
 1. **Linear SVM**
@@ -27,7 +26,6 @@ For binary classification with labels yi ∈ {-1,1}:
    $\sum_{i=1}^n \alpha_i y_i = 0$
 
 ### Kernel Methods
-
 1. **Kernel Function**
    $K(\mathbf{x}_i, \mathbf{x}_j) = \langle\phi(\mathbf{x}_i), \phi(\mathbf{x}_j)\rangle$
 
@@ -38,7 +36,6 @@ For binary classification with labels yi ∈ {-1,1}:
    - Sigmoid: $K(\mathbf{x}, \mathbf{z}) = \tanh(\kappa\mathbf{x}^T\mathbf{z} + c)$
 
 ### Decision Function
-
 $f(\mathbf{x}) = \text{sign}\left(\sum_{i=1}^n \alpha_i y_i K(\mathbf{x}_i, \mathbf{x}) + b\right)$
 
 ### Properties
@@ -68,7 +65,6 @@ $f(\mathbf{x}) = \text{sign}\left(\sum_{i=1}^n \alpha_i y_i K(\mathbf{x}_i, \mat
 - Parameter tuning needed
 
 ### Implementation
-
 1. **Preprocessing**
    - Feature scaling essential
    - Missing value handling
@@ -81,7 +77,6 @@ $f(\mathbf{x}) = \text{sign}\left(\sum_{i=1}^n \alpha_i y_i K(\mathbf{x}_i, \mat
    - Cache size
 
 ### Multi-class Extension
-
 1. **One-vs-Rest**
    - K binary classifiers
    - Each class vs all others
@@ -91,13 +86,6 @@ $f(\mathbf{x}) = \text{sign}\left(\sum_{i=1}^n \alpha_i y_i K(\mathbf{x}_i, \mat
    - $\binom{K}{2}$ classifiers
    - Vote for final prediction
    - More robust, more expensive
-
-### Applications
-- Text classification
-- Image recognition
-- Bioinformatics
-- Face detection
-- Financial prediction
 
 ### Diagnostics
 - Cross-validation error

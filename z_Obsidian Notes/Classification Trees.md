@@ -1,7 +1,6 @@
 **Classification Trees** are a [[Non-Parametric Models|non-parametric]] method for [[Classification]] that recursively partitions the feature space into regions and assigns a class label to each region based on majority vote.
 
 ### Mathematical Framework
-
 For K classes and M regions, predict class k in region $R_m$ if:
 
 $\hat{p}_{mk} = \frac{1}{N_m}\sum_{i: x_i \in R_m} I(y_i = k)$ is maximum
@@ -11,7 +10,6 @@ where:
 - $\hat{p}_{mk}$ is proportion of class k in region m
 
 ### Growing Algorithm
-
 1. **Split Selection**
    Minimize node impurity using one of:
 
@@ -31,7 +29,6 @@ where:
    - Stop when criterion met
 
 ### Tree Pruning
-
 1. **Cost-Complexity Pruning**
    Minimize:
    $\sum_{m=1}^{|T|} \sum_{i: x_i \in R_m} I(y_i \neq \hat{y}_{R_m}) + \alpha|T|$
@@ -47,7 +44,6 @@ where:
    - Prune back to that size
 
 ### Properties
-
 1. **Decision Boundaries**
    - Rectangular regions
    - Parallel to axes
@@ -73,7 +69,6 @@ where:
 - Discontinuous decision boundaries
 
 ### Implementation
-
 1. **Stopping Rules**
    - Minimum node size
    - Maximum depth
@@ -87,7 +82,6 @@ where:
    - Class weights for imbalance
 
 ### Extensions
-
 1. **[[Random Forests]]**
    - Bagging of trees
    - Random feature selection
@@ -98,20 +92,9 @@ where:
    - Gradient Boosting
    - Focus on misclassified cases
 
-### Applications
-- Medical diagnosis
-- Credit risk assessment
-- Species identification
-- Fault detection
-- Customer segmentation
-
 ### Diagnostics
 - Confusion matrix
 - ROC curves
 - Variable importance
 - Tree visualization
 - Cross-validation error
-
-Tags:
-[[Non-Parametric Models]]
-[[Classification]]

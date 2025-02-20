@@ -45,25 +45,6 @@ where:
    - Overfitting risk
    - Boundary effects
 
-### Related Methods
-- [[Regression Splines]]
-- [[Local Regression]]
-- [[Smoothing Splines]]
-- [[Generalized Additive Models]]
-
-### Applications
-1. **Growth Curves**
-   - Population dynamics
-   - Learning curves
-   - Economic trends
-   - Physical processes
-
-2. **Engineering**
-   - Response surfaces
-   - Process optimization
-   - Material properties
-   - System modeling
-
 ### Implementation
 1. **Feature Engineering**
    - Centering predictors
@@ -76,6 +57,3 @@ where:
    - [[Lasso Regression]]
    - Elastic net
    - Constrained regression
-
-Tags:
-[[Multiple Linear Regression]]

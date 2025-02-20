@@ -1,7 +1,6 @@
 Generalized Linear Models (GLMs) extend linear regression by allowing for response variables that have non-normal error distribution models. They provide a unified framework for various types of regression analysis.
 
 ### Components
-
 1. **Random Component**
    - Response variable Y follows an [[Exponential Family]] distribution
    - Common distributions:
@@ -24,8 +23,7 @@ Generalized Linear Models (GLMs) extend linear regression by allowing for respon
      - Log: $g(\mu) = \log(\mu)$
 
 ### Common GLM Types
-
-1. **Linear Regression**
+1. **[[Simple Linear Regression|Linear Regression]]**
    - Normal distribution
    - Identity link
    - Continuous response
@@ -46,7 +44,6 @@ Generalized Linear Models (GLMs) extend linear regression by allowing for respon
    - Positive continuous data
 
 ### Model Fitting
-
 1. **Maximum Likelihood Estimation**
    - Iteratively Reweighted Least Squares (IRLS)
    - Newton-Raphson method
@@ -58,7 +55,6 @@ Generalized Linear Models (GLMs) extend linear regression by allowing for respon
    - Deviance analysis
 
 ### Diagnostics
-
 1. **Residual Analysis**
    - Deviance residuals
    - Pearson residuals

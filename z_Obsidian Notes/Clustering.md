@@ -1,7 +1,6 @@
 **Clustering** is an [[Unsupervised Learning]] method that groups similar observations together based on their feature values. It discovers natural groupings in data without labeled responses.
 
 ### K-means Clustering
-
 1. **Algorithm**
    - Initialize K centroids randomly
    - Repeat until convergence:
@@ -17,7 +16,6 @@
    - $\boldsymbol{\mu}_k$ is the centroid of cluster k
 
 ### Hierarchical Clustering
-
 1. **Agglomerative (Bottom-up)**
    - Start: each point is a cluster
    - Repeatedly merge closest clusters
@@ -30,7 +28,6 @@
    - Ward's method: minimize variance increase
 
 ### Gaussian Mixture Models
-
 1. **Model**
    $p(\mathbf{x}) = \sum_{k=1}^K \pi_k \mathcal{N}(\mathbf{x}|\boldsymbol{\mu}_k, \boldsymbol{\Sigma}_k)$
 
@@ -40,7 +37,6 @@
    - Iterate until convergence
 
 ### Evaluation Metrics
-
 1. **Internal Metrics**
    - Silhouette coefficient
    - Davies-Bouldin index
@@ -54,7 +50,6 @@
    - V-measure
 
 ### Choosing K
-
 1. **Methods**
    - Elbow method
    - Silhouette analysis
@@ -67,7 +62,6 @@
    - Purpose of clustering
 
 ### Preprocessing
-
 1. **Feature Scaling**
    - Standardization
    - Min-max scaling
@@ -79,7 +73,6 @@
    - UMAP
 
 ### Challenges
-
 1. **Data Issues**
    - High dimensionality
    - Mixed feature types
@@ -92,19 +85,9 @@
    - Non-convex optimization
    - Computational complexity
 
-### Applications
-- Customer segmentation
-- Document clustering
-- Image segmentation
-- Anomaly detection
-- Pattern discovery
-
 ### Diagnostics
 - Cluster visualization
 - Stability analysis
 - Feature importance
 - Cluster profiles
 - Validation indices
-
-Tags:
-[[Unsupervised Learning]] 

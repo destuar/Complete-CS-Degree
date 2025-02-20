@@ -1,7 +1,6 @@
 Dimensionality Reduction refers to techniques for reducing the number of features in a dataset while preserving important information. It's crucial for dealing with high-dimensional data and the [[Curse of Dimensionality]].
 
 ### Linear Methods
-
 1. **Principal Component Analysis (PCA)**
    - [[Principal Components Analysis]]
    - Finds orthogonal directions of maximum variance
@@ -21,7 +20,6 @@ Dimensionality Reduction refers to techniques for reducing the number of feature
    - Common in psychology and social sciences
 
 ### Non-linear Methods
-
 1. **t-SNE (t-Distributed Stochastic Neighbor Embedding)**
    - Preserves local structure
    - Good for visualization
@@ -41,7 +39,6 @@ Dimensionality Reduction refers to techniques for reducing the number of feature
    - Unsupervised learning
 
 ### Evaluation Metrics
-
 1. **Reconstruction Error**
    - Measure information loss
    - Compare original vs. reconstructed data

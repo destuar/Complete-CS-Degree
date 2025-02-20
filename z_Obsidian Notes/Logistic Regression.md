@@ -1,7 +1,6 @@
 **Logistic Regression** is a [[Parametric Models|parametric]] method for [[Classification]] that models the probability of a binary outcome using the logistic function. Despite its name, it's used for classification rather than regression.
 
 ### Mathematical Framework
-
 For binary classification (Y ∈ {0,1}):
 
 $P(Y=1|X=x) = \frac{e^{\beta_0 + \beta_1x_1 + ... + \beta_px_p}}{1 + e^{\beta_0 + \beta_1x_1 + ... + \beta_px_p}} = \frac{1}{1 + e^{-(\beta_0 + \beta_1x_1 + ... + \beta_px_p)}}$
@@ -10,7 +9,6 @@ The logit (log-odds) transformation:
 $\log\left(\frac{P(Y=1|X)}{1-P(Y=1|X)}\right) = \beta_0 + \beta_1x_1 + ... + \beta_px_p$
 
 ### Parameter Estimation
-
 **Maximum Likelihood Estimation**:
 $L(\beta) = \prod_{i=1}^n p(x_i)^{y_i}(1-p(x_i))^{1-y_i}$
 
@@ -23,7 +21,6 @@ Solved using:
 - Iteratively Reweighted Least Squares (IRLS)
 
 ### Statistical Inference
-
 1. **Coefficient Estimates**
    - Standard Errors: $SE(\hat{\beta}_j)$
    - z-statistics: $z_j = \frac{\hat{\beta}_j}{SE(\hat{\beta}_j)}$
@@ -43,7 +40,6 @@ Solved using:
   - Desired sensitivity/specificity
 
 ### Model Evaluation
-
 1. **Performance Metrics**
    - Accuracy
    - Precision
@@ -58,7 +54,6 @@ Solved using:
    - Bootstrap
 
 ### Extensions
-
 1. **Regularization**
    - L1 (Lasso): $\lambda\sum_{j=1}^p |\beta_j|$
    - L2 (Ridge): $\lambda\sum_{j=1}^p \beta_j^2$
@@ -73,8 +68,3 @@ Solved using:
 - Independent observations
 - No perfect multicollinearity
 - Large sample size relative to predictors
-
-Tags:
-[[Classification]]
-[[Parametric Models]]
-[[Generalized Linear Models]]

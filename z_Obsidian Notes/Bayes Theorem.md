@@ -28,23 +28,6 @@ where:
    - Normalizing constant
    - Marginal likelihood
 
-### Applications
-
-1. **Classification**
-   - [[Naive Bayes]]
-   - [[Linear Discriminant Analysis]]
-   - Probabilistic classifiers
-
-2. **Parameter Estimation**
-   - Bayesian inference
-   - Posterior distributions
-   - Credible intervals
-
-3. **Model Selection**
-   - Bayesian model averaging
-   - Model evidence comparison
-   - Prior model probabilities
-
 ### Properties
 
 1. **Chain Rule Extension**

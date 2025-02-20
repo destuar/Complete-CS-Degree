@@ -36,25 +36,6 @@ where:
    - Limited applicability
    - Specific scenarios
 
-### Applications
-1. **Clinical Trials**
-   - Multiple endpoints
-   - Interim analyses
-   - Subgroup analyses
-   - Safety monitoring
-
-2. **Genomics**
-   - Gene expression
-   - SNP analysis
-   - Pathway testing
-   - Biomarker discovery
-
-### Relationship to Other Methods
-- Alternative to [[False Discovery Rate]]
-- Component of [[Multiple Testing]]
-- Used with [[Bonferroni Method]]
-- Stricter than per-comparison error
-
 ### Advantages and Limitations
 **Advantages:**
 - Strong error control
@@ -67,6 +48,3 @@ where:
 - Reduced power
 - May miss discoveries
 - Assumes independence
-
-Tags:
-[[Multiple Testing]]

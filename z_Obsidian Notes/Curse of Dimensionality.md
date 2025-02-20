@@ -1,7 +1,6 @@
 The Curse of Dimensionality refers to various phenomena that arise when analyzing data in high-dimensional spaces that do not occur in low-dimensional settings. This concept is fundamental to understanding challenges in machine learning and data analysis.
 
 ### Key Manifestations
-
 1. **Geometric Effects**
    - Volume grows exponentially with dimensions
    - Most points become equidistant
@@ -21,7 +20,6 @@ The Curse of Dimensionality refers to various phenomena that arise when analyzin
    - Optimization becomes harder
 
 ### Impact on Machine Learning
-
 1. **Distance Metrics**
    - Euclidean distance becomes less meaningful
    - Relative differences diminish
@@ -35,7 +33,6 @@ The Curse of Dimensionality refers to various phenomena that arise when analyzin
    - Feature selection importance grows
 
 ### Mitigation Strategies
-
 1. **[[Dimensionality Reduction]]**
    - [[Principal Components Analysis]]
    - [[Factor Analysis]]
