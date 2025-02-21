@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "28 STATS 216 - Introduction to Statistical Learning/Lecture Recordings/Introduction to Statistical Learning in Python.md",
+                "file": "07 ENGR 108 - Introduction to Applied Linear Algebra/Lecture Recordings/Introduction to Applied Linear Algebra.md.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Introduction to Statistical Learning in Python"
+              "title": "Introduction to Applied Linear Algebra.md"
             }
           }
         ]
@@ -193,8 +193,9 @@
   },
   "active": "d4535471ef31515e",
   "lastOpenFiles": [
-    "z_Obsidian Notes/Conjecture.md",
     "28 STATS 216 - Introduction to Statistical Learning/Lecture Recordings/Introduction to Statistical Learning in Python.md",
+    "07 ENGR 108 - Introduction to Applied Linear Algebra/Lecture Recordings/Introduction to Applied Linear Algebra.md.md",
+    "z_Obsidian Notes/Conjecture.md",
     "z_Obsidian Notes/Benjamini-Hochberg Procedure.md",
     "z_Obsidian Notes/Bonferroni Method.md",
     "z_Obsidian Notes/False Discovery Rate.md",
@@ -218,7 +219,6 @@
     "21 CS 230 - Deep Learning/Lecture Recordings/Deep Learning.md",
     "z_Obsidian Notes/Convolutional Neural Networks.md",
     "z_Obsidian Notes/Curse of Dimensionality.md",
-    "z_Obsidian Notes/Kernel Regression.md",
     "z_Images/Corr Coef Image.png",
     "z_Images/Angle Image.png",
     "z_Images/StDev image.png",

@@ -42,3 +42,6 @@
 **{Lecture 12/54}**
 [[Angle]]
 [[Correlation Coefficient]]
+
+**{Lecture 13/54}**
+[[Clustering]]
