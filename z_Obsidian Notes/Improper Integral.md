@@ -1,8 +1,8 @@
-### **1. Type 1: Infinite Limits of Integration**
+### **Type 1: Infinite Limits of Integration**
 
 When one or both limits of integration are infinite, the integral is called a **Type 1 improper [[integral]]**.
 
-#### **Definition**
+#### Definition
 
 If a function $f(x)$ is defined on the interval $[a, \infty)$, the improper integral is:
 
@@ -14,7 +14,7 @@ $\int_{-\infty}^b f(x) , dx = \lim_{a \to -\infty} \int_a^b f(x) , dx$
 
 ---
 
-#### **Example**
+#### Example
 
 Evaluate $\int_1^\infty \frac{1}{x^2} , dx$:
 
@@ -26,11 +26,11 @@ $\lim_{b \to \infty} \left[ -\frac{1}{x} \right]_1^b = \lim_{b \to \infty} \left
 
 ---
 
-### **2. Type 2: Discontinuous Integrand**
+### **Type 2: Discontinuous Integrand**
 
 When the function $f(x)$ has a discontinuity within the interval of integration, the integral is called a **Type 2 improper integral**.
 
-#### **Definition**
+#### Definition
 
 If $f(x)$ is discontinuous at $x = c$, where $c \in [a, b]$, the improper integral is defined as:
 
@@ -38,7 +38,7 @@ $\int_a^b f(x) , dx = \lim_{c \to c^+} \int_a^c f(x) , dx + \lim_{c \to c^-} \in
 
 ---
 
-#### **Example**
+#### Example
 
 Evaluate $\int_0^1 \frac{1}{\sqrt{x}} , dx$:
 

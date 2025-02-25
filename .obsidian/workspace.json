@@ -6,7 +6,7 @@
       {
         "id": "e001f4e7e77cc1b9",
         "type": "tabs",
-        "dimension": 71.92642787996128,
+        "dimension": 76.88588007736944,
         "children": [
           {
             "id": "d4535471ef31515e",
@@ -35,12 +35,12 @@
         ]
       },
       {
-        "id": "c52f0b55f0d04f30",
+        "id": "deb54a5227f97c23",
         "type": "tabs",
-        "dimension": 28.07357212003872,
+        "dimension": 23.11411992263056,
         "children": [
           {
-            "id": "81ab5794e7c71496",
+            "id": "98ae7826c664389f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 106B - Programming Abstractions/Lecture Recordings/Programming Abstractions.md",
+                "file": "07 ENGR 108 - Introduction to Applied Linear Algebra/Lecture Recordings/Introduction to Applied Linear Algebra.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Programming Abstractions"
+              "title": "Backlinks for Introduction to Applied Linear Algebra.md"
             }
           },
           {
@@ -193,32 +193,32 @@
   },
   "active": "d4535471ef31515e",
   "lastOpenFiles": [
-    "28 STATS 216 - Introduction to Statistical Learning/Lecture Recordings/Introduction to Statistical Learning in Python.md",
+    "z_Obsidian Notes/Incidence Matrix.md",
     "07 ENGR 108 - Introduction to Applied Linear Algebra/Lecture Recordings/Introduction to Applied Linear Algebra.md.md",
+    "z_Obsidian Notes/Selector Matrix.md",
+    "z_Obsidian Notes/Matrices.md",
+    "z_Obsidian Notes/Transpose.md",
+    "z_Obsidian Notes/Inner Product.md",
+    "z_Obsidian Notes/Gram-Schmidt Algorithm.md",
+    "z_Obsidian Notes/Relation.md",
+    "z_Obsidian Notes/Graph.md",
+    "z_Obsidian Notes/Block Matrices.md",
+    "z_Obsidian Notes/Orthonormal Vectors.md",
+    "z_Obsidian Notes/Linear Independence.md",
+    "z_Obsidian Notes/Basis.md",
+    "z_Obsidian Notes/Linear Dependence.md",
+    "z_Obsidian Notes/Vector.md",
+    "z_Obsidian Notes/Set.md",
+    "z_Obsidian Notes/Linear Discriminant Analysis.md",
+    "z_Obsidian Notes/Linear Combination.md",
+    "z_Obsidian Notes/Generalized Additive Models.md",
+    "z_Obsidian Notes/Improper Integral.md",
+    "z_Obsidian Notes/Non-Parametric Models.md",
+    "28 STATS 216 - Introduction to Statistical Learning/Lecture Recordings/Introduction to Statistical Learning in Python.md",
     "z_Obsidian Notes/Conjecture.md",
     "z_Obsidian Notes/Benjamini-Hochberg Procedure.md",
     "z_Obsidian Notes/Bonferroni Method.md",
     "z_Obsidian Notes/False Discovery Rate.md",
-    "z_Obsidian Notes/Family-Wise Error Rate.md",
-    "z_Obsidian Notes/Multiple Testing.md",
-    "z_Obsidian Notes/Hierarchical Clustering.md",
-    "z_Obsidian Notes/Clustering.md",
-    "z_Obsidian Notes/Unsupervised Learning.md",
-    "z_Obsidian Notes/K-Means Clustering.md",
-    "z_Obsidian Notes/Principal Components Analysis.md",
-    "z_Obsidian Notes/Survival Analysis.md",
-    "z_Obsidian Notes/Censored Data.md",
-    "z_Obsidian Notes/Cox Proportional Hazards.md",
-    "z_Obsidian Notes/Kaplan-Meier Curve.md",
-    "z_Obsidian Notes/Survival Function.md",
-    "z_Obsidian Notes/Stochastic Gradient Descent.md",
-    "z_Obsidian Notes/Gradient Descent.md",
-    "z_Obsidian Notes/Backpropagation.md",
-    "z_Obsidian Notes/Recurrent Neural Networks.md",
-    "z_Obsidian Notes/Neural Networks.md",
-    "21 CS 230 - Deep Learning/Lecture Recordings/Deep Learning.md",
-    "z_Obsidian Notes/Convolutional Neural Networks.md",
-    "z_Obsidian Notes/Curse of Dimensionality.md",
     "z_Images/Corr Coef Image.png",
     "z_Images/Angle Image.png",
     "z_Images/StDev image.png",

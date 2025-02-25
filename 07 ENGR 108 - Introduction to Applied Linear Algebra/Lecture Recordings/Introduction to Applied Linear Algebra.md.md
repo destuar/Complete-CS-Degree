@@ -45,3 +45,35 @@
 
 **{Lecture 13/54}**
 [[Clustering]]
+
+**{Lecture 14/54}**
+[[Clustering]]
+
+**{Lecture 15/54}**
+[[Linear Dependence]]
+[[Linear Independence]]
+[[Basis]]
+[[Orthonormal Vectors]]
+
+**{Lecture 16/54}**
+[[Gram-Schmidt Algorithm]]
+
+**{Lecture 17/54}**
+[[Matrices]]
+[[Block Matrices]]
+[[Relation]] / [[Graph]]
+
+**{Lecture 18/54}**
+[[Transpose]]
+
+**{Lecture 19/54}**
+[[Transpose]]
+
+**{Lecture 20/54}**
+[[Selector Matrix]]
+
+**{Lecture 21/54}**
+[[Incidence Matrix]]
+
+
+
