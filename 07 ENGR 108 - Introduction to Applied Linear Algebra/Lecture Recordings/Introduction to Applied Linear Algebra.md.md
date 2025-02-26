@@ -75,5 +75,22 @@
 **{Lecture 21/54}**
 [[Incidence Matrix]]
 
+**{Lecture 22/54}**
+[[Convolution]]
+[[Polynomial Multiplication]]
 
+**{Lecture 23/54}**
+[[Superposition]]
+[[Affine Function]]
 
+**{Lecture 24/54}**
+[[Taylor Series]]
+[[Taylor Approximation]]
+[[Regression Model]]
+
+**{Lecture 25/54}**
+[[Linear Equations]]
+
+**{Lecture 26/54}**
+[[State Sequence]]
+[[Linear Dynamics]]
