@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"01 CS 105 - Introduction to Computers\"  ",
@@ -66,14 +66,14 @@
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 0.40625,
+  "lineSizeMultiplier": 0.202083333333333,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.0078125,
+  "linkDistance": 500,
+  "scale": 0.08317427835927599,
   "close": true
 }

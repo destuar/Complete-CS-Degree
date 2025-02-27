@@ -6,7 +6,7 @@
       {
         "id": "e001f4e7e77cc1b9",
         "type": "tabs",
-        "dimension": 76.88588007736944,
+        "dimension": 80.63891577928364,
         "children": [
           {
             "id": "d4535471ef31515e",
@@ -37,7 +37,7 @@
       {
         "id": "deb54a5227f97c23",
         "type": "tabs",
-        "dimension": 23.11411992263056,
+        "dimension": 19.36108422071636,
         "children": [
           {
             "id": "98ae7826c664389f",
@@ -191,11 +191,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4535471ef31515e",
+  "active": "98ae7826c664389f",
   "lastOpenFiles": [
+    "07 ENGR 108 - Introduction to Applied Linear Algebra/Lecture Recordings/Introduction to Applied Linear Algebra.md.md",
+    "z_Obsidian Notes/Matrix Multiplication.md",
     "z_Obsidian Notes/State Sequence.md",
     "z_Obsidian Notes/State Machine.md",
-    "07 ENGR 108 - Introduction to Applied Linear Algebra/Lecture Recordings/Introduction to Applied Linear Algebra.md.md",
     "28 STATS 216 - Introduction to Statistical Learning/Lecture Recordings/Introduction to Statistical Learning in Python.md",
     "z_Obsidian Notes/Linear Dynamics.md",
     "z_Obsidian Notes/Linear Equations.md",
@@ -218,7 +219,6 @@
     "z_Obsidian Notes/Orthonormal Vectors.md",
     "z_Obsidian Notes/Linear Independence.md",
     "z_Obsidian Notes/Basis.md",
-    "z_Obsidian Notes/Linear Dependence.md",
     "z_Images/Corr Coef Image.png",
     "z_Images/Angle Image.png",
     "z_Images/StDev image.png",

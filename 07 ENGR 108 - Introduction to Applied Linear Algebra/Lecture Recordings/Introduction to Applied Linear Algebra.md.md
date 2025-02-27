@@ -94,3 +94,6 @@
 **{Lecture 26/54}**
 [[State Sequence]]
 [[Linear Dynamics]]
+
+**{Lecture 27/54}**
+[[Matrix Multiplication]]
