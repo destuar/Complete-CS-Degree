@@ -97,3 +97,22 @@
 
 **{Lecture 27/54}**
 [[Matrix Multiplication]]
+
+**{Lecture 28/54}**
+[[Linear Combination]]
+
+**{Lecture 29/54}**
+[[Adjacency Matrix]]
+[[Gram-Schmidt Algorithm]]
+[[QR Factorization]]
+
+**{Lecture 30/54}**
+[[Left Inverse]]
+[[Right Inverse]]
+
+**{Lecture 31/54}**
+[[Linear Equations]]
+[[QR Factorization]]
+
+**{Lecture 32/54}**
+[[Pseudo-Inverse]]
