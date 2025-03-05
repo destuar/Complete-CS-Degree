@@ -157,3 +157,42 @@
 
 **{Lecture 44/54}**
 [[Regularization]]
+
+**{Lecture 45/54}**
+[[Constrained Least Squares]]
+
+**{Lecture 46/54}**
+[[Constrained Least Squares]]
+
+**{Lecture 47/54}**
+[[Constrained Least Squares]]
+
+**{Lecture 48/54}**
+[[Constrained Least Squares]]
+[[Linear Dynamics]]
+[[Control]]
+
+**{Lecture 49/54}**
+[[Constrained Least Squares]]
+[[State Sequence]]
+
+**{Lecture 50/54}**
+[[Nonlinear Equations]]
+[[Least Squares]]
+
+**{Lecture 51/54}**
+[[Levenberg-Marquardt Algorithm]]
+
+**{Lecture 52/54}**
+[[Nonlinear Equations]]
+[[Least Squares]]
+[[Classification]]
+
+**{Lecture 53/54}**
+[[Constrained Least Squares]]
+[[Lagrange Multiplier]]
+[[Levenberg-Marquardt Algorithm]]
+
+**{Lecture 54/54}**
+[[Lagrange Multiplier]]
+[[Levenberg-Marquardt Algorithm]]
