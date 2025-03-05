@@ -1,99 +1,90 @@
-**Time Series Analysis** involves studying data points collected over time to understand underlying patterns, make predictions, and analyze temporal dependencies. It combines statistical methods with domain-specific considerations of time-ordered data.
+Time Series Analysis involves studying data points collected over time to understand underlying patterns, make predictions, and analyze temporal dependencies.
 
-### Components
-1. **Trend**
-   - Long-term direction
+## Components
+
+1. **Trend**:
+   - Long-term direction in the data
    - Can be linear or non-linear
    - Often removed via differencing
+   - Examples: economic growth, population increase
 
-2. **Seasonality**
+2. **Seasonality**:
    - Regular periodic patterns
    - Fixed and known frequency
-   - Examples: daily, weekly, yearly
 
-3. **Cyclical**
+3. **Cyclical Component**:
    - Irregular fluctuations
    - Variable period length
-   - Business cycles
+   - No fixed frequency
 
-4. **Random**
+4. **Random Component**:
    - Unexplained variation
-   - Noise component
-   - Stochastic process
+   - Noise in the data
+   - Often modeled as a stochastic process
+   - Assumes certain probability distributions
 
-### Basic Models
-1. **Autoregressive (AR)**
-   $X_t = c + \sum_{i=1}^p \phi_i X_{t-i} + \epsilon_t$
-   - p is order of AR process
+## Basic Models
+
+1. **Autoregressive (AR)**:
+   $$ X_t = c + \sum_{i=1}^p \phi_i X_{t-i} + \epsilon_t $$
+   - $p$ is order of AR process
    - $\phi_i$ are parameters
    - $\epsilon_t$ is white noise
+   - Models dependency on past values
 
-2. **Moving Average (MA)**
-   $X_t = \mu + \epsilon_t + \sum_{i=1}^q \theta_i \epsilon_{t-i}$
-   - q is order of MA process
+2. **Moving Average (MA)**:
+   $$ X_t = \mu + \epsilon_t + \sum_{i=1}^q \theta_i \epsilon_{t-i} $$
+   - $q$ is order of MA process
    - $\theta_i$ are parameters
-   - $\epsilon_t$ is white noise
+   - Models dependency on past errors
 
-3. **ARIMA(p,d,q)**
-   - p: AR order
-   - d: Differencing order
-   - q: MA order
-   - Combines AR and MA with differencing
+3. **ARIMA(p,d,q)**:
+   - Combines AR and MA models
+   - $p$: AR order
+   - $d$: Differencing order
+   - $q$: MA order
+   - Most versatile classical model
 
-### Stationarity
-1. **Requirements**
+## Stationarity
+
+1. **Requirements**:
    - Constant mean
    - Constant variance
    - Time-invariant autocorrelation
-   
-2. **Testing**
-   - Augmented Dickey-Fuller
+   - Essential for many analyses
+
+2. **Testing Methods**:
+   - Augmented Dickey-Fuller test
    - KPSS test
    - Phillips-Perron test
+   - Visual inspection of plots
 
-### Model Selection
-1. **Identification**
-   - ACF plots
-   - PACF plots
-   - Information criteria (AIC, BIC)
-   - Cross-validation
+## Model Selection
 
-2. **Diagnostic Checks**
+1. **Identification Tools**:
+   - ACF (Autocorrelation Function) plots
+   - PACF (Partial Autocorrelation) plots
+   - Information criteria:
+     - AIC (Akaike)
+     - BIC (Bayesian)
+   - [[Cross-Validation]] techniques
+
+2. **Diagnostic Checks**:
    - Residual analysis
-   - Q-Q plots
+   - Q-Q plots for normality
    - Ljung-Box test
    - Heteroscedasticity tests
 
-### Forecasting
-1. **Point Forecasts**
-   - Conditional expectation
-   - Maximum likelihood
-   - Recursive computation
+## Advanced Methods
 
-2. **Interval Forecasts**
-   - Prediction intervals
-   - Bootstrap methods
-   - Fan charts
-
-### Advanced Methods
-1. **State Space Models**
+1. **State Space Models**:
    - Kalman filtering
+   - [[Linear Dynamics]]
    - Hidden Markov Models
-   - Structural models
+   - Structural decomposition
 
-2. **Neural Networks**
-   - RNNs/LSTMs
+2. **Neural Network Approaches**:
+   - [[Recurrent Neural Networks]]
+   - LSTMs (Long Short-Term Memory)
    - Temporal CNNs
    - Attention mechanisms
-
-### Preprocessing
-1. **Transformations**
-   - Log transform
-   - Box-Cox
-   - Differencing
-   - Deseasonalization
-
-2. **Missing Data**
-   - Interpolation
-   - Forward/backward fill
-   - Model-based imputation

@@ -116,3 +116,44 @@
 
 **{Lecture 32/54}**
 [[Pseudo-Inverse]]
+
+**{Lecture 33/54}**
+[[Least Squares]]
+
+**{Lecture 34/54}**
+[[Least Squares]]
+[[Regression Model]]
+
+**{Lecture 35/54}**
+[[Least Squares]]
+
+**{Lecture 36/54}**
+[[Univariate Functions]]
+[[Time Series Analysis]]
+
+**{Lecture 37/54}**
+[[Cross-Validation]]
+
+**{Lecture 38/54}**
+[[Classification]]
+[[Confusion Matrix]]
+
+**{Lecture 39/54}**
+[[Least Squares]]
+[[Classification]]
+
+**{Lecture 40/54}**
+[[Classification]]
+
+**{Lecture 41/54}**
+[[Multi-Objective Least Squares]]
+[[Pareto Optimal]]
+
+**{Lecture 42/54}**
+[[Control]]
+
+**{Lecture 43/54}**
+[[Regularized Inversion]]
+
+**{Lecture 44/54}**
+[[Regularization]]

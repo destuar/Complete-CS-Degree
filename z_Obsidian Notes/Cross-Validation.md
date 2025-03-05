@@ -29,20 +29,6 @@ where:
 - $\kappa(i)$ is the fold containing observation i
 - $\hat{f}^{-\kappa(i)}$ is the fitted function with fold $\kappa(i)$ removed
 
-### Applications
-
-1. **Model Selection**
-   - Choose between different model types
-   - Select optimal hyperparameters
-
-2. **Feature Selection**
-   - Evaluate different feature subsets
-   - Assess importance of individual features
-
-3. **Regularization**
-   - Select optimal regularization parameters
-   - Examples: λ in [[Ridge Regression]] or [[Lasso Regression]]
-
 ### Variations
 
 1. **Stratified K-Fold**
