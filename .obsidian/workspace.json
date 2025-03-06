@@ -11,12 +11,24 @@
             "id": "98ae7826c664389f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "07 ENGR 108 - Introduction to Applied Linear Algebra/Assignments/vmls-additional-exercises.pdf"
+                "file": "11 CS 161 - Design and Analysis of Algorithms/Lecture Recordings/Design and Analysis of Algorithms (Parts 1 & 2).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "vmls-additional-exercises"
+              "icon": "lucide-file",
+              "title": "Design and Analysis of Algorithms (Parts 1 & 2)"
             }
           },
           {
@@ -173,8 +185,10 @@
   },
   "active": "98ae7826c664389f",
   "lastOpenFiles": [
-    "07 ENGR 108 - Introduction to Applied Linear Algebra/Lecture Slides/vmls-slides.pdf",
+    "z_Obsidian Notes/[TWO.md",
+    "11 CS 161 - Design and Analysis of Algorithms/Lecture Recordings/Design and Analysis of Algorithms (Parts 1 & 2).md",
     "07 ENGR 108 - Introduction to Applied Linear Algebra/Assignments/vmls-additional-exercises.pdf",
+    "07 ENGR 108 - Introduction to Applied Linear Algebra/Lecture Slides/vmls-slides.pdf",
     "07 ENGR 108 - Introduction to Applied Linear Algebra/Lecture Recordings/Introduction to Applied Linear Algebra.md.md",
     "z_Obsidian Notes/Lagrange Multiplier.md",
     "z_Obsidian Notes/Constrained Least Squares.md",
@@ -184,7 +198,6 @@
     "z_Obsidian Notes/State Sequence.md",
     "z_Obsidian Notes/Linear Dynamics.md",
     "z_Obsidian Notes/QR Factorization.md",
-    "11 CS 161 - Design and Analysis of Algorithms/Lecture Recordings/Design and Analysis of Algorithms.md",
     "z_Obsidian Notes/Standard Deviation.md",
     "z_Obsidian Notes/Regularized Inversion.md",
     "z_Obsidian Notes/Regularization.md",

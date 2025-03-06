@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 11361494
       }
+    },
+    {
+      "query": "path:\"11 CS 161 - Design and Analysis of Algorithms\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
     }
   ],
   "collapse-display": false,
@@ -74,6 +81,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.08317427835927682,
+  "scale": 0.05932617187500114,
   "close": true
 }
