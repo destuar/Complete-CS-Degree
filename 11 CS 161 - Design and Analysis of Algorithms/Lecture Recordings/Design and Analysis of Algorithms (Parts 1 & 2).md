@@ -5,8 +5,18 @@
 [[Recursion]]
 
 **{Lecture 1.5}**
+[[Merge Sort]]
+[[Divide & Conquer Recurrence]]
+[[Insertion Sort]]
+[[Invariant]]
 
+**{Lecture 1.6}**
+[[Merge Sort]]
 
+**{Lecture 1.7}**
+[[Merge Sort]]
 
+**{Lecture 1.8}**
+[[Asymptotic Notation]]
 ## All Lectures (Playlist) - Part 2
 [![Watch the video](https://img.youtube.com/vi/R-ElS5wfcm4/0.jpg)](https://www.youtube.com/watch?v=R-ElS5wfcm4&list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6)

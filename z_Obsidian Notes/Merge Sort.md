@@ -4,6 +4,7 @@
 
 Runtime [[Big O-Notation]]:
 = $O(N *log N)$
+= $6N * logN + 6N$
 
 Implementation using [[Recursion]]:
 ![[Merge Sort Diagram 2.png]]
