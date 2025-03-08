@@ -1,5 +1,7 @@
 Describes the **growth rate** of functions, commonly used in **algorithm analysis** to classify the efficiency of an algorithm as input size **$n$** increases. 
 
+BIG IDEA = **Suppresses constant factors and lower-order terms.**
+
 It provides a way to compare algorithms without focusing on hardware or specific implementation details.
 
 **1. Common Asymptotic Notations**

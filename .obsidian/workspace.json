@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 CS 161 - Design and Analysis of Algorithms/Lecture Recordings/Design and Analysis of Algorithms (Parts 1 & 2).md",
+                "file": "11 CS 161 - Design and Analysis of Algorithms/Lecture Recordings/Design and Analysis of Algorithms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Design and Analysis of Algorithms (Parts 1 & 2)"
+              "title": "Design and Analysis of Algorithms"
             }
           },
           {
@@ -185,12 +185,12 @@
   },
   "active": "98ae7826c664389f",
   "lastOpenFiles": [
-    "11 CS 161 - Design and Analysis of Algorithms/Lecture Recordings/Design and Analysis of Algorithms (Parts 1 & 2).md",
+    "z_Obsidian Notes/Divide & Conquer Recurrence.md",
+    "11 CS 161 - Design and Analysis of Algorithms/Lecture Recordings/Design and Analysis of Algorithms.md",
     "z_Obsidian Notes/Asymptotic Notation.md",
     "z_Obsidian Notes/Merge Sort.md",
     "z_Obsidian Notes/Insertion Sort.md",
     "z_Obsidian Notes/Invariant.md",
-    "z_Obsidian Notes/Divide & Conquer Recurrence.md",
     "z_Obsidian Notes/[TWO.md",
     "07 ENGR 108 - Introduction to Applied Linear Algebra/Assignments/vmls-additional-exercises.pdf",
     "07 ENGR 108 - Introduction to Applied Linear Algebra/Lecture Slides/vmls-slides.pdf",
