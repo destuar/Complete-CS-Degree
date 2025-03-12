@@ -16,8 +16,23 @@
 **{Lecture 1.8 - 2.5}**
 [[Asymptotic Notation]]
 
-**{Lecture 3.1}**
+**{Lecture 3.1 - 3.2}**
 [[Divide & Conquer Recurrence]]
+
+**{Lecture 3.3}**
+[[Matrix Multiplication]]
+[[Divide & Conquer Recurrence]]
+[[Strassen's Algorithm]]
+
+**{Lecture 3.4 - 3.5}**
+[[Divide & Conquer Recurrence]]
+
+**{Lecture 4.1 - 4.6}**
+
+
+
+
+
 
 
 ## All Lectures (Playlist) - Part 2
