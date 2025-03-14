@@ -28,8 +28,10 @@
 [[Divide & Conquer Recurrence]]
 
 **{Lecture 4.1 - 4.6}**
+[[Master Method]]
 
-
+**{Lecture 5.1}**
+[[QuickSort]]
 
 
 
