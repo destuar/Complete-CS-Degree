@@ -1,4 +1,4 @@
-QuickSort is a highly efficient divide-and-conquer sorting algorithm that has become one of the most widely used sorting methods due to its excellent average-case performance, in-place operation, and elegant theoretical properties.
+QuickSort is a highly efficient [[Divide & Conquer Recurrence|divide-and-conquer]] sorting algorithm that has become one of the most widely used sorting methods due to its excellent average-case performance, in-place operation, and elegant theoretical properties.
 
 ## Basic Idea
 
@@ -65,33 +65,3 @@ function partition(arr, low, high):
 - **In-place sorting**: $O(1)$ auxiliary space for the iterative version
 - Recursive implementation requires $O(\log n)$ stack space on average
 - Worst case stack space: $O(n)$ with poor pivots
-
-## Key Features
-
-- Definitely a "greatest hit" algorithm in computer science
-- Prevalent in practice due to excellent performance
-- Beautiful theoretical analysis combining algorithm design and probability
-- $O(n \log n)$ time "on average" while working in-place
-- Minimal extra memory needed compared to other efficient sorting algorithms
-
-## Comparison with Other Sorting Algorithms
-
-1. **vs. Merge Sort**:
-   - QuickSort: in-place but not stable, $O(n^2)$ worst case
-   - Merge Sort: not in-place, stable, guaranteed $O(n \log n)$
-
-2. **vs. Heap Sort**:
-   - QuickSort: better cache locality, faster in practice
-   - Heap Sort: guaranteed $O(n \log n)$, in-place
-
-3. **vs. Insertion Sort**:
-   - QuickSort: better for large arrays
-   - Insertion Sort: better for small or nearly sorted arrays
-
-## Historical Significance
-
-- Developed by Tony Hoare in 1959
-- Published in 1961
-- One of the most studied algorithms in computer science
-- Demonstrates how probabilistic analysis can yield powerful insights
-- Showcases the power of divide-and-conquer paradigm
