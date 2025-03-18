@@ -33,10 +33,16 @@
 **{Lecture 5.1 - 5.4}**
 [[QuickSort|QuickSort Algorithm]]
 
-**{Lecture 6.1}**
+**{Lecture 6.1 - 6.3}**
+[[Random Variable]]
+[[Linearity of Expectation]]
+[[Decomposition]]
 
-
-
+**{Lecture 7.1 - 7.2}**
+[[Sample Space]]
+[[Random Variable]]
+[[Expected Value]]
+[[Linearity of Expectation]]
 
 
 
