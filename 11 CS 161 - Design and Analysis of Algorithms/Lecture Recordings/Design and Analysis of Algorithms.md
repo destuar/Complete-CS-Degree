@@ -4,28 +4,19 @@
 **{Lecture 1.3}**
 [[Recursion]]
 
-**{Lecture 1.5}**
+**{Lecture 1.5 - 1.7}**
 [[Merge Sort]]
 [[Divide & Conquer Recurrence]]
 [[Insertion Sort]]
 [[Invariant]]
 
-**{Lecture 1.6 - 1.7}**
-[[Merge Sort]]
-
 **{Lecture 1.8 - 2.5}**
 [[Asymptotic Notation]]
 
-**{Lecture 3.1 - 3.2}**
+**{Lecture 3.1 - 3.5}**
 [[Divide & Conquer Recurrence]]
-
-**{Lecture 3.3}**
 [[Matrix Multiplication]]
-[[Divide & Conquer Recurrence]]
 [[Strassen's Algorithm]]
-
-**{Lecture 3.4 - 3.5}**
-[[Divide & Conquer Recurrence]]
 
 **{Lecture 4.1 - 4.6}**
 [[Master Method]]
@@ -43,6 +34,24 @@
 [[Random Variable]]
 [[Expected Value]]
 [[Linearity of Expectation]]
+[[Conditional Probability]]
+[[Pairwise Independence]]
+
+**{Lecture 8.1 - 8.6}**
+[[RSelect Algorithm]]
+[[BucketSort Algorithm]]
+[[CountingSort Algorithm]]
+[[RadixSort Algorithm]]
+[[Pigeonhole Principle]]
+
+**{Lecture 9.1 - 9.5}**
+[[Graph]]
+[[Sparsity]]
+[[Adjacency Matrix]]
+
+
+
+
 
 
 

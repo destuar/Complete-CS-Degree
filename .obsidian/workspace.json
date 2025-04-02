@@ -30,7 +30,13 @@
               "icon": "lucide-file",
               "title": "Design and Analysis of Algorithms"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "64b53c0bea58c22c",
+        "type": "tabs",
+        "children": [
           {
             "id": "40976c07d548f962",
             "type": "leaf",
@@ -183,12 +189,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98ae7826c664389f",
+  "active": "40976c07d548f962",
   "lastOpenFiles": [
-    "z_Obsidian Notes/Sample Space.md",
     "11 CS 161 - Design and Analysis of Algorithms/Lecture Recordings/Design and Analysis of Algorithms.md",
+    "z_Obsidian Notes/Adjacency Matrix.md",
+    "z_Obsidian Notes/Sparsity.md",
+    "z_Obsidian Notes/Graph.md",
+    "z_Obsidian Notes/Pigeonhole Principle.md",
+    "z_Obsidian Notes/CountingSort Algorithm.md",
+    "z_Obsidian Notes/RadixSort Algorithm.md",
+    "z_Obsidian Notes/BucketSort Algorithm.md",
+    "z_Obsidian Notes/BucketSort.md",
+    "z_Obsidian Notes/RSelect Algorithm.md",
+    "z_Obsidian Notes/Divide & Conquer Recurrence.md",
+    "z_Obsidian Notes/Pairwise Independence.md",
+    "z_Obsidian Notes/Mutual Independence.md",
     "z_Obsidian Notes/Linearity of Expectation.md",
     "z_Obsidian Notes/Expected Value.md",
+    "z_Obsidian Notes/Sample Space.md",
     "z_Obsidian Notes/Decomposition.md",
     "11 CS 161 - Design and Analysis of Algorithms/Lecture Slides/Part I/Part 9/slides_algo-karger-counting_typed.pdf",
     "11 CS 161 - Design and Analysis of Algorithms/Lecture Slides/Part I/Part 9/slides_algo-karger-representations_typed.pdf",
@@ -202,7 +220,6 @@
     "11 CS 161 - Design and Analysis of Algorithms/Lecture Slides/Part I/Part 8/slides_algo-select-danalysis2_typed.pdf",
     "z_Obsidian Notes/Master Method.md",
     "z_Obsidian Notes/QuickSort.md",
-    "z_Obsidian Notes/Divide & Conquer Recurrence.md",
     "z_Obsidian Notes/Strassen's Algorithm.md",
     "z_Obsidian Notes/Matrix Multiplication.md",
     "z_Obsidian Notes/Asymptotic Notation.md",
@@ -210,17 +227,6 @@
     "z_Obsidian Notes/Insertion Sort.md",
     "z_Obsidian Notes/Invariant.md",
     "z_Obsidian Notes/[TWO.md",
-    "07 ENGR 108 - Introduction to Applied Linear Algebra/Lecture Recordings/Introduction to Applied Linear Algebra.md.md",
-    "z_Obsidian Notes/Lagrange Multiplier.md",
-    "z_Obsidian Notes/Constrained Least Squares.md",
-    "z_Obsidian Notes/Levenberg-Marquardt Algorithm.md",
-    "z_Obsidian Notes/Lavenberg-Marquardt Algorithm.md",
-    "z_Obsidian Notes/Nonlinear Equations.md",
-    "z_Obsidian Notes/State Sequence.md",
-    "z_Obsidian Notes/Linear Dynamics.md",
-    "z_Obsidian Notes/QR Factorization.md",
-    "z_Obsidian Notes/Standard Deviation.md",
-    "z_Obsidian Notes/Regularized Inversion.md",
     "z_Images/Corr Coef Image.png",
     "z_Images/Angle Image.png",
     "z_Images/StDev image.png",
