@@ -48,6 +48,7 @@
 [[Graph]]
 [[Sparsity]]
 [[Adjacency Matrix]]
+[[Adjacency List]]
 
 
 
