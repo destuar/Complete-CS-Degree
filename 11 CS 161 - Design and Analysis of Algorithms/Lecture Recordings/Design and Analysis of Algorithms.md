@@ -50,6 +50,13 @@
 [[Adjacency Matrix]]
 [[Adjacency List]]
 
+**{Lecture 10.1 - 10.9}**
+[[Graph]]
+[[Breadth-First Search (BFS)]]
+[[Depth-First Search (DFS)]]
+[[Backtracking]]
+[[Topological Sort]]
+
 
 
 

@@ -6,6 +6,7 @@
       {
         "id": "deb54a5227f97c23",
         "type": "tabs",
+        "dimension": 77.6595744680851,
         "children": [
           {
             "id": "98ae7826c664389f",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 CS 161 - Design and Analysis of Algorithms/Lecture Recordings/Design and Analysis of Algorithms.md",
+                "file": "z_Obsidian Notes/Topological Sort.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Design and Analysis of Algorithms"
+              "title": "Topological Sort"
             }
           }
         ]
@@ -36,6 +37,7 @@
       {
         "id": "64b53c0bea58c22c",
         "type": "tabs",
+        "dimension": 22.340425531914892,
         "children": [
           {
             "id": "40976c07d548f962",
@@ -191,11 +193,13 @@
   },
   "active": "98ae7826c664389f",
   "lastOpenFiles": [
-    "z_Obsidian Notes/Adjacency List.md",
     "11 CS 161 - Design and Analysis of Algorithms/Lecture Recordings/Design and Analysis of Algorithms.md",
+    "z_Obsidian Notes/Graph.md",
+    "z_Obsidian Notes/Backtracking.md",
+    "z_Obsidian Notes/Breadth-First Search (BFS).md",
+    "z_Obsidian Notes/Adjacency List.md",
     "z_Obsidian Notes/Adjacency Matrix.md",
     "z_Obsidian Notes/Sparsity.md",
-    "z_Obsidian Notes/Graph.md",
     "z_Obsidian Notes/Pigeonhole Principle.md",
     "z_Obsidian Notes/CountingSort Algorithm.md",
     "z_Obsidian Notes/RadixSort Algorithm.md",
@@ -225,8 +229,6 @@
     "z_Obsidian Notes/Matrix Multiplication.md",
     "z_Obsidian Notes/Asymptotic Notation.md",
     "z_Obsidian Notes/Merge Sort.md",
-    "z_Obsidian Notes/Insertion Sort.md",
-    "z_Obsidian Notes/Invariant.md",
     "z_Images/Corr Coef Image.png",
     "z_Images/Angle Image.png",
     "z_Images/StDev image.png",
