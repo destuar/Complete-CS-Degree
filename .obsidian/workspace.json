@@ -6,7 +6,7 @@
       {
         "id": "deb54a5227f97c23",
         "type": "tabs",
-        "dimension": 77.6595744680851,
+        "dimension": 75.21781219748306,
         "children": [
           {
             "id": "98ae7826c664389f",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Obsidian Notes/Topological Sort.md",
+                "file": "11 CS 161 - Design and Analysis of Algorithms/Lecture Recordings/Design and Analysis of Algorithms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Topological Sort"
+              "title": "Design and Analysis of Algorithms"
             }
           }
         ]
@@ -37,7 +37,7 @@
       {
         "id": "64b53c0bea58c22c",
         "type": "tabs",
-        "dimension": 22.340425531914892,
+        "dimension": 24.78218780251694,
         "children": [
           {
             "id": "40976c07d548f962",
@@ -193,7 +193,9 @@
   },
   "active": "98ae7826c664389f",
   "lastOpenFiles": [
+    "z_Obsidian Notes/Kosaraju's Two-Pass Algorithm.md",
     "11 CS 161 - Design and Analysis of Algorithms/Lecture Recordings/Design and Analysis of Algorithms.md",
+    "z_Obsidian Notes/Topological Sort.md",
     "z_Obsidian Notes/Graph.md",
     "z_Obsidian Notes/Backtracking.md",
     "z_Obsidian Notes/Breadth-First Search (BFS).md",
@@ -227,8 +229,6 @@
     "z_Obsidian Notes/QuickSort.md",
     "z_Obsidian Notes/Strassen's Algorithm.md",
     "z_Obsidian Notes/Matrix Multiplication.md",
-    "z_Obsidian Notes/Asymptotic Notation.md",
-    "z_Obsidian Notes/Merge Sort.md",
     "z_Images/Corr Coef Image.png",
     "z_Images/Angle Image.png",
     "z_Images/StDev image.png",

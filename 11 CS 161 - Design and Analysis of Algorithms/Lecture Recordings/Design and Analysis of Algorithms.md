@@ -56,7 +56,7 @@
 [[Depth-First Search (DFS)]]
 [[Backtracking]]
 [[Topological Sort]]
-
+[[Kosaraju's Two-Pass Algorithm]]
 
 
 
