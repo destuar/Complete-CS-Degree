@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 CS 161 - Design and Analysis of Algorithms/Lecture Recordings/Design and Analysis of Algorithms.md",
+                "file": "z_Obsidian Notes/Database Management System (DBMS).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Design and Analysis of Algorithms"
+              "title": "Database Management System (DBMS)"
             }
           }
         ]
@@ -183,6 +183,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -193,8 +194,13 @@
   },
   "active": "98ae7826c664389f",
   "lastOpenFiles": [
-    "z_Obsidian Notes/Kosaraju's Two-Pass Algorithm.md",
+    "13 CS 145 - Data Management and Data Systems/Lecture Recordings/Data Management and Data Systems.md",
+    "z_Obsidian Notes/Database Management System (DBMS).md",
+    "Database Management System (DBMS).md",
+    "10 CS 110 - Principles of Computer Systems/Lecture Recordings/Principles of Computer Systems.md",
+    "08 CS 107 - Computer Organization and Systems/Lecture Recordings/Computer Organization and Systems.md",
     "11 CS 161 - Design and Analysis of Algorithms/Lecture Recordings/Design and Analysis of Algorithms.md",
+    "z_Obsidian Notes/Kosaraju's Two-Pass Algorithm.md",
     "z_Obsidian Notes/Topological Sort.md",
     "z_Obsidian Notes/Graph.md",
     "z_Obsidian Notes/Backtracking.md",
@@ -214,7 +220,6 @@
     "z_Obsidian Notes/Linearity of Expectation.md",
     "z_Obsidian Notes/Expected Value.md",
     "z_Obsidian Notes/Sample Space.md",
-    "z_Obsidian Notes/Decomposition.md",
     "11 CS 161 - Design and Analysis of Algorithms/Lecture Slides/Part I/Part 9/slides_algo-karger-counting_typed.pdf",
     "11 CS 161 - Design and Analysis of Algorithms/Lecture Slides/Part I/Part 9/slides_algo-karger-representations_typed.pdf",
     "11 CS 161 - Design and Analysis of Algorithms/Lecture Slides/Part I/Part 9/slides_algo-karger-analysis_typed.pdf",
@@ -225,10 +230,6 @@
     "11 CS 161 - Design and Analysis of Algorithms/Lecture Slides/Part I/Part 8/slides_algo-select-ralgorithm_typed.pdf",
     "11 CS 161 - Design and Analysis of Algorithms/Lecture Slides/Part I/Part 8/slides_algo-select-danalysis_typed.pdf",
     "11 CS 161 - Design and Analysis of Algorithms/Lecture Slides/Part I/Part 8/slides_algo-select-danalysis2_typed.pdf",
-    "z_Obsidian Notes/Master Method.md",
-    "z_Obsidian Notes/QuickSort.md",
-    "z_Obsidian Notes/Strassen's Algorithm.md",
-    "z_Obsidian Notes/Matrix Multiplication.md",
     "z_Images/Corr Coef Image.png",
     "z_Images/Angle Image.png",
     "z_Images/StDev image.png",
