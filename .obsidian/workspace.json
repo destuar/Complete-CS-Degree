@@ -4,40 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "deb54a5227f97c23",
-        "type": "tabs",
-        "dimension": 75.21781219748306,
-        "children": [
-          {
-            "id": "98ae7826c664389f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Obsidian Notes/Database Management System (DBMS).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Database Management System (DBMS)"
-            }
-          }
-        ]
-      },
-      {
         "id": "64b53c0bea58c22c",
         "type": "tabs",
-        "dimension": 24.78218780251694,
         "children": [
           {
             "id": "40976c07d548f962",
@@ -192,10 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98ae7826c664389f",
+  "active": "40976c07d548f962",
   "lastOpenFiles": [
-    "13 CS 145 - Data Management and Data Systems/Lecture Recordings/Data Management and Data Systems.md",
     "z_Obsidian Notes/Database Management System (DBMS).md",
+    "13 CS 145 - Data Management and Data Systems/Lecture Recordings/Data Management and Data Systems.md",
     "Database Management System (DBMS).md",
     "10 CS 110 - Principles of Computer Systems/Lecture Recordings/Principles of Computer Systems.md",
     "08 CS 107 - Computer Organization and Systems/Lecture Recordings/Computer Organization and Systems.md",

@@ -33,3 +33,7 @@
 [[SQL]]
 [[Data Definition Language (DDL)]]
 [[Data Manipulation Language (DML)]]
+
+**{Lecture 12-19/58}**
+[[Relation]]
+[[Attribute]]
