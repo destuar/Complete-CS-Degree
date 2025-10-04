@@ -1,4 +1,8 @@
 # Lecture Recordings
+
+### Due to copyright claims (original lectures were removed) the new playlist can be found here:
+https://www.youtube.com/watch?v=kMzH3tfP6f8&list=PLFE6E58F856038C69
+
 ## Lecture #1
 
 [![Watch the video](https://img.youtube.com/vi/L6lvEkCj7Us/0.jpg)](https://www.youtube.com/watch?v=L6lvEkCj7Us&list=PL-h0BZdG_K4mfItKR5nUChmnuus-q-Tbc)
