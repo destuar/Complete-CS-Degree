@@ -16,7 +16,7 @@
 [[SQL]]
 
 **{Lecture 4/58}**
-[[Extensible Markup Langauge (XML)]]
+[[Extensible Markup Language (XML)]]
 
 **{Lecture 5-6/58}**
 [[XML Schema (XSD)]]

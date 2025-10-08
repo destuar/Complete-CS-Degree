@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 14048429
       }
+    },
+    {
+      "query": "path:\"13 CS 145 - Data Management and Data Systems\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
     }
   ],
   "collapse-display": false,
@@ -76,11 +83,11 @@
   "textFadeMultiplier": -1.5,
   "nodeSizeMultiplier": 0.40625,
   "lineSizeMultiplier": 0.151041666666667,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.5,
   "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 500,
-  "scale": 0.4505081176757845,
-  "close": true
+  "linkDistance": 30,
+  "scale": 0.08317427835927815,
+  "close": false
 }

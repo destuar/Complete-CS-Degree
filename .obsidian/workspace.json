@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "64b53c0bea58c22c",
+        "id": "7b55bac3bb97f3ae",
         "type": "tabs",
         "children": [
           {
-            "id": "40976c07d548f962",
+            "id": "465da4ab8c5d701c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -70,11 +70,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 361.5
   },
   "right": {
     "id": "56b321b238dbfd19",
@@ -160,10 +161,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40976c07d548f962",
+  "active": "465da4ab8c5d701c",
   "lastOpenFiles": [
-    "z_Obsidian Notes/Database Management System (DBMS).md",
+    "Extensible Markup Langauge (XML).md",
     "13 CS 145 - Data Management and Data Systems/Lecture Recordings/Data Management and Data Systems.md",
+    "z_Obsidian Notes/Extensible Markup Language (XML).md",
+    "z_Obsidian Notes/Database Management System (DBMS).md",
+    "z_Obsidian Notes/Attribute.md",
     "Database Management System (DBMS).md",
     "10 CS 110 - Principles of Computer Systems/Lecture Recordings/Principles of Computer Systems.md",
     "08 CS 107 - Computer Organization and Systems/Lecture Recordings/Computer Organization and Systems.md",
@@ -185,9 +189,6 @@
     "z_Obsidian Notes/Divide & Conquer Recurrence.md",
     "z_Obsidian Notes/Pairwise Independence.md",
     "z_Obsidian Notes/Mutual Independence.md",
-    "z_Obsidian Notes/Linearity of Expectation.md",
-    "z_Obsidian Notes/Expected Value.md",
-    "z_Obsidian Notes/Sample Space.md",
     "11 CS 161 - Design and Analysis of Algorithms/Lecture Slides/Part I/Part 9/slides_algo-karger-counting_typed.pdf",
     "11 CS 161 - Design and Analysis of Algorithms/Lecture Slides/Part I/Part 9/slides_algo-karger-representations_typed.pdf",
     "11 CS 161 - Design and Analysis of Algorithms/Lecture Slides/Part I/Part 9/slides_algo-karger-analysis_typed.pdf",
