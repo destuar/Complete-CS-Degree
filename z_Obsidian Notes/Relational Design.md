@@ -508,6 +508,10 @@ Normalization is a systematic approach to decomposition that eliminates anomalie
 
 ## Related Concepts
 
+- **[[Unified Modeling Language (UML)]]**: Visual notation for expressing relational designs
+- **[[Functional Dependencies]]**: Constraints that guide decomposition and normalization
+- **[[Normal Form]]**: Design criteria for eliminating redundancy and anomalies
+- **[[Boyce-Codd Normal Form]]**: Strictest FD-based normal form for relational design
 - **[[Relation]]**: Tables that form the foundation of relational design
 - **[[Attribute]]**: Columns whose dependencies drive design decisions
 - **[[Schema]]**: Formal specification resulting from design process

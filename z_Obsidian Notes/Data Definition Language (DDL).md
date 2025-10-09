@@ -306,8 +306,11 @@ FROM table1
 
 ## Related Concepts
 
-- **[[Schema]]**: Formal specification of data structure and organization
+- **[[SQL]]**: DDL is a subset of SQL for structure definition
+- **[[Schema]]**: DDL defines the database schema
+- **[[Data Manipulation Language (DML)]]**: Complementary SQL subset for data operations
 - **[[Database Management System (DBMS)]]**: Software systems that implement DDL
-- **[[Array]]**: Basic data structure for organizing related data elements
-- **[[Collection]]**: Abstract data type for grouping data items
-- **[[Data Model]]**: Conceptual framework for data organization
+- **[[Relational Database]]**: Database systems that use DDL
+- **[[Constraint]]**: Integrity constraints defined using DDL statements
+- **[[Trigger]]**: Database triggers created using DDL commands
+- **[[Index]]**: Indexes created and managed through DDL

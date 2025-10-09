@@ -167,9 +167,12 @@ A DBMS must maintain these properties for transactions:
 
 ## Related Concepts
 
-- **[[Array]]**: Basic data structure for storing related data
-- **[[Collection]]**: Abstract data type for organizing data
-- **[[Abstract Data Types (ADTs)]]**: Specification of data and operations
-- **[[Least Squares]]**: Mathematical optimization used in database analytics
-- **[[Matrix Multiplication]]**: Fundamental operation in database operations
-- **[[Linear Equations]]**: Basis for database query optimization
+- **[[Relational Database]]**: Type of database system managed by DBMS
+- **[[Data Model]]**: Conceptual framework implemented by DBMS
+- **[[Schema]]**: Database structure managed by DBMS
+- **[[SQL]]**: Standard language for interacting with DBMS
+- **[[Index]]**: Performance optimization structures managed by DBMS
+- **[[Constraint]]**: Integrity rules enforced by DBMS
+- **[[Trigger]]**: Event-driven mechanisms implemented by DBMS
+- **[[Data Definition Language (DDL)]]**: Commands for defining database structure in DBMS
+- **[[Data Manipulation Language (DML)]]**: Commands for manipulating data in DBMS

@@ -617,6 +617,7 @@ BCNF_Decompose(R, F):
 ## Related Concepts
 
 - **[[Normal Form]]**: Progressive levels of normalization using FDs
+- **[[Boyce-Codd Normal Form]]**: Strictest normal form based solely on functional dependencies
 - **[[Relational Design]]**: Overall design process guided by FDs
 - **[[Decomposition]]**: Technique for achieving normal forms
 - **[[Relation]]**: Structure constrained by FDs

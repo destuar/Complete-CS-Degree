@@ -283,7 +283,14 @@ A relational database represents data as a collection of **relations** (tables),
 ## Related Concepts
 
 - **[[Database Management System (DBMS)]]**: Software systems that implement relational databases
-- **[[Data Model]]**: Conceptual framework for data organization
-- **[[Collection]]**: Abstract data type for grouping data items
-- **[[Array]]**: Basic data structure for organizing related data elements
-- **[[Schema]]**: Formal specification of data structure and organization
+- **[[Data Model]]**: Relational database implements the relational data model
+- **[[Schema]]**: Formal specification of relational database structure
+- **[[SQL]]**: Standard language for relational database operations
+- **[[Relational Design]]**: Process of creating well-structured relational schemas
+- **[[Normal Form]]**: Design criteria for eliminating redundancy and anomalies
+- **[[Functional Dependencies]]**: Constraints that guide normalization
+- **[[Unified Modeling Language (UML)]]**: Visual notation for designing relational database schemas
+- **[[Index]]**: Data structures for optimizing query performance
+- **[[Constraint]]**: Integrity constraints that ensure data validity
+- **[[Trigger]]**: Event-driven mechanisms for maintaining data integrity
+- **[[Relational Algebra]]**: Mathematical foundation for relational operations

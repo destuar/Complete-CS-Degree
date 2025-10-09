@@ -515,6 +515,9 @@ ANALYZE TABLE employees;
 
 ## Related Concepts
 
+- **[[Constraint]]**: Integrity rules enforced through SQL declarations
+- **[[Trigger]]**: Event-Condition-Action rules defined using SQL
+- **[[Index]]**: Data structures for optimizing SQL query performance
 - **[[Data Manipulation Language (DML)]]**: SQL subset for data operations
 - **[[Data Definition Language (DDL)]]**: SQL subset for structure definition
 - **[[Relational Database]]**: Database systems that use SQL

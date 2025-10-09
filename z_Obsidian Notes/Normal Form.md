@@ -643,10 +643,12 @@ $$\text{1NF} \subseteq \text{2NF} \subseteq \text{3NF} \subseteq \text{BCNF} \su
 
 ## Related Concepts
 
+- **[[Functional Dependencies]]**: Foundation for 1NF through BCNF normalization
+- **[[Boyce-Codd Normal Form]]**: Dedicated treatment of the strictest FD-based normal form
+- **[[Multivalued Dependencies]]**: Foundation for 4NF and higher normal forms
 - **[[Relational Design]]**: Overall process using normal forms
+- **[[Relational Database]]**: Database systems that implement normal forms
 - **[[Decomposition]]**: Technique for achieving normal forms
+- **[[Schema]]**: Result of normalization process
 - **[[Relation]]**: Structure being normalized
 - **[[Attribute]]**: Elements involved in dependencies
-- **[[Schema]]**: Result of normalization process
-- **[[Database Management System (DBMS)]]**: System enforcing normal forms
-- **[[Relational Algebra]]**: Operations on normalized relations

@@ -245,9 +245,12 @@ A schema provides a logical framework that separates the **structure** of data f
 
 ## Related Concepts
 
-- **[[Data Model]]**: Conceptual framework for data organization
-- **[[Abstract Data Types (ADTs)]]**: Specification of data and operations
-- **[[Array]]**: Basic data structure for organizing related data elements
-- **[[Collection]]**: Abstract data type for grouping data items
-- **[[Database Management System (DBMS)]]**: Software systems that implement schemas
-- **[[Variable]]**: Runtime containers for data values
+- **[[Data Model]]**: Conceptual framework that schemas implement
+- **[[Relational Database]]**: Systems that implement relational schemas
+- **[[Database Management System (DBMS)]]**: Software systems that manage schemas
+- **[[SQL]]**: Language for defining and manipulating schemas
+- **[[Data Definition Language (DDL)]]**: SQL subset for defining schemas
+- **[[Constraint]]**: Integrity rules that are part of schema definition
+- **[[Trigger]]**: Event-Condition-Action rules defined in schema
+- **[[Index]]**: Physical schema component for optimizing query performance
+- **[[Relational Design]]**: Process of creating well-designed schemas

@@ -323,8 +323,11 @@ DELETE FROM table_name
 
 ## Related Concepts
 
-- **[[Data Definition Language (DDL)]]**: Commands for defining database structure
+- **[[SQL]]**: DML is a subset of SQL for data operations
+- **[[Data Definition Language (DDL)]]**: Complementary SQL subset for defining database structure
+- **[[Relational Algebra]]**: Mathematical foundation for DML operations
 - **[[Database Management System (DBMS)]]**: Software systems that implement DML
-- **[[Array]]**: Basic data structure for organizing related data elements
-- **[[Collection]]**: Abstract data type for grouping data items
-- **[[Schema]]**: Formal specification of data structure and organization
+- **[[Relational Database]]**: Database systems that use DML
+- **[[Constraint]]**: Constraints checked when DML operations execute
+- **[[Trigger]]**: Triggers activated by DML operations (INSERT, UPDATE, DELETE)
+- **[[Index]]**: Indexes used to optimize DML query performance

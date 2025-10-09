@@ -16,7 +16,7 @@
 [[SQL]]
 
 **{Lecture 4/58}**
-[[Extensible Markup Language (XML)]]
+[[Extensible Markup Langauge (XML)]]
 
 **{Lecture 5-6/58}**
 [[XML Schema (XSD)]]
@@ -37,3 +37,18 @@
 **{Lecture 12-19/58}**
 [[Relation]]
 [[Attribute]]
+
+**{Lecture 20/58}**
+[[Schema]]
+[[Relational Design]]
+[[Normal Form]]
+
+**{Lecture 21-22/58}**
+[[Functional Dependencies]]
+[[Boyce-Codd Normal Form]]
+
+**{Lecture 23-24/58}**
+[[Multivalued Dependencies]]
+
+**{Lecture 24-29/58}**
+[[Extensible Markup Language (XML)]]

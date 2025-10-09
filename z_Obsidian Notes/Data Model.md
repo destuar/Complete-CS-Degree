@@ -142,26 +142,6 @@ A data model abstracts the complexity of data storage and provides a logical vie
 - **Model-Agnostic APIs**: Abstract data model differences from applications
 - **Schema Evolution**: Adapt models as requirements change
 
-## Key Features
-
-### **Flexibility & Expressiveness**
-- **Schema Evolution**: Adapt to changing data requirements
-- **Relationship Modeling**: Represent complex entity connections
-- **Query Capability**: Support diverse access patterns and operations
-- **Scalability**: Handle growing data volumes and complexity
-
-### **Performance & Efficiency**
-- **Storage Optimization**: Minimize space requirements
-- **Query Performance**: Fast data retrieval and manipulation
-- **Indexing Strategies**: Efficient access to specific data elements
-- **Caching Mechanisms**: Reduce repeated computation and I/O
-
-### **Standards & Interoperability**
-- **Industry Standards**: XML, JSON, RDF, GraphQL specifications
-- **Data Exchange**: Import/export between different systems
-- **API Compatibility**: Standard interfaces for data access
-- **Tool Ecosystem**: Rich set of supporting tools and libraries
-
 ## Important Notes
 
 - **Model Selection**: Choose based on data characteristics, query patterns, and performance requirements
@@ -172,9 +152,9 @@ A data model abstracts the complexity of data storage and provides a logical vie
 
 ## Related Concepts
 
+- **[[Unified Modeling Language (UML)]]**: Visual notation for expressing data models
+- **[[Relational Database]]**: Implements the relational data model
+- **[[Schema]]**: Formal specification of a data model instance
 - **[[Database Management System (DBMS)]]**: Software systems that implement data models
-- **[[Graph]]**: Mathematical structure for representing relationships
-- **[[Graph Theory]]**: Mathematical study of graph properties and algorithms
-- **[[Array]]**: Basic data structure for organizing related data elements
-- **[[Collection]]**: Abstract data type for grouping data items
-- **[[Abstract Data Types (ADTs)]]**: Specification of data and operations
+- **[[Graph]]**: Mathematical structure for graph data models
+- **[[Extensible Markup Language (XML)]]**: Implementation of hierarchical data model
