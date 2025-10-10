@@ -327,7 +327,3 @@ DELETE FROM table_name
 - **[[Data Definition Language (DDL)]]**: Complementary SQL subset for defining database structure
 - **[[Relational Algebra]]**: Mathematical foundation for DML operations
 - **[[Database Management System (DBMS)]]**: Software systems that implement DML
-- **[[Relational Database]]**: Database systems that use DML
-- **[[Constraint]]**: Constraints checked when DML operations execute
-- **[[Trigger]]**: Triggers activated by DML operations (INSERT, UPDATE, DELETE)
-- **[[Index]]**: Indexes used to optimize DML query performance

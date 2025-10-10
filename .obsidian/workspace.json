@@ -11,13 +11,38 @@
             "id": "465da4ab8c5d701c",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13 CS 145 - Data Management and Data Systems/Lecture Recordings/Data Management and Data Systems.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Data Management and Data Systems"
+            }
+          },
+          {
+            "id": "31ff1e06cc414a06",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,8 +95,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,10 +185,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "465da4ab8c5d701c",
+  "active": "31ff1e06cc414a06",
   "lastOpenFiles": [
-    "Extensible Markup Langauge (XML).md",
     "13 CS 145 - Data Management and Data Systems/Lecture Recordings/Data Management and Data Systems.md",
+    "z_Obsidian Notes/NoSQL.md",
+    "z_Obsidian Notes/Online Analytical Processing (OLAP).md",
+    "z_Obsidian Notes/Online Transaction Processing (OLTP).md",
+    "z_Obsidian Notes/Authorization.md",
+    "z_Obsidian Notes/Data Manipulation Language (DML).md",
+    "z_Obsidian Notes/Data Definition Language (DDL).md",
+    "z_Obsidian Notes/Functional Dependencies.md",
+    "z_Obsidian Notes/Multivalued Dependencies.md",
+    "z_Obsidian Notes/Data Model.md",
+    "z_Obsidian Notes/Unified Modeling Language (UML).md",
+    "z_Obsidian Notes/Views.md",
+    "z_Obsidian Notes/Isolation Levels.md",
+    "z_Obsidian Notes/Inference.md",
+    "Extensible Markup Langauge (XML).md",
     "z_Obsidian Notes/Extensible Markup Language (XML).md",
     "z_Obsidian Notes/Database Management System (DBMS).md",
     "z_Obsidian Notes/Attribute.md",
@@ -176,19 +213,6 @@
     "z_Obsidian Notes/Topological Sort.md",
     "z_Obsidian Notes/Graph.md",
     "z_Obsidian Notes/Backtracking.md",
-    "z_Obsidian Notes/Breadth-First Search (BFS).md",
-    "z_Obsidian Notes/Adjacency List.md",
-    "z_Obsidian Notes/Adjacency Matrix.md",
-    "z_Obsidian Notes/Sparsity.md",
-    "z_Obsidian Notes/Pigeonhole Principle.md",
-    "z_Obsidian Notes/CountingSort Algorithm.md",
-    "z_Obsidian Notes/RadixSort Algorithm.md",
-    "z_Obsidian Notes/BucketSort Algorithm.md",
-    "z_Obsidian Notes/BucketSort.md",
-    "z_Obsidian Notes/RSelect Algorithm.md",
-    "z_Obsidian Notes/Divide & Conquer Recurrence.md",
-    "z_Obsidian Notes/Pairwise Independence.md",
-    "z_Obsidian Notes/Mutual Independence.md",
     "11 CS 161 - Design and Analysis of Algorithms/Lecture Slides/Part I/Part 9/slides_algo-karger-counting_typed.pdf",
     "11 CS 161 - Design and Analysis of Algorithms/Lecture Slides/Part I/Part 9/slides_algo-karger-representations_typed.pdf",
     "11 CS 161 - Design and Analysis of Algorithms/Lecture Slides/Part I/Part 9/slides_algo-karger-analysis_typed.pdf",

@@ -480,6 +480,3 @@ Output: Set of relations in 4NF
 - **[[Normal Form]]**: 4NF is highest commonly used normal form
 - **[[Relational Design]]**: Overall design process including MVD analysis
 - **[[Decomposition]]**: Technique for achieving 4NF
-- **[[Relation]]**: Structure potentially containing MVDs
-- **[[Attribute]]**: Elements involved in multivalued dependencies
-- **[[Schema]]**: Formal specification including MVDs

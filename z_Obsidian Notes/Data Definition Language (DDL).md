@@ -310,7 +310,3 @@ FROM table1
 - **[[Schema]]**: DDL defines the database schema
 - **[[Data Manipulation Language (DML)]]**: Complementary SQL subset for data operations
 - **[[Database Management System (DBMS)]]**: Software systems that implement DDL
-- **[[Relational Database]]**: Database systems that use DDL
-- **[[Constraint]]**: Integrity constraints defined using DDL statements
-- **[[Trigger]]**: Database triggers created using DDL commands
-- **[[Index]]**: Indexes created and managed through DDL

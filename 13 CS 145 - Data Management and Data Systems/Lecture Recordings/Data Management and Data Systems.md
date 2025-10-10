@@ -63,3 +63,24 @@
 **{Lecture 33-38/54}**
 [[Constraint]]
 [[Trigger]]
+
+**{Lecture 39-41/54}**
+[[Concurrency]]
+[[Transactions]]
+[[Isolation Levels]]
+
+**{Lecture 42-46/54}**
+[[Views]]
+
+**{Lecture 47/54}**
+[[Authorization]]
+
+**{Lecture 48-50/54}**
+[[Recursion]]
+
+**{Lecture 51-52/54}**
+[[Online Transaction Processing (OLTP)]]
+[[Online Analytical Processing (OLAP)]]
+
+**{Lecture 53-54/54}**
+[[NoSQL]]

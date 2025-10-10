@@ -376,11 +376,4 @@ Both composition and aggregation represent "part-of" or "belongs to" relationshi
 
 - **[[Data Model]]**: UML is a visual notation for expressing data models
 - **[[Relational Database]]**: Target implementation for UML class diagrams
-- **[[Schema]]**: UML diagrams specify database schemas
-- **[[Class]]**: Core concept in UML representing entities
-- **[[Relation]]**: Relational equivalent of UML classes
-- **[[Object-Oriented Programming]]**: UML originates from OOP design
-- **[[Relational Design]]**: Process of creating well-structured relational schemas
-- **[[Functional Dependencies]]**: Constraints that guide normalization of UML designs
-- **[[Normal Form]]**: Design goals for eliminating redundancy in UML models
 
