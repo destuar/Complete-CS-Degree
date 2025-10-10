@@ -2,9 +2,14 @@
 
 ## Lecture 01
 [![Watch the video](https://img.youtube.com/vi/Ps8jOj7diA0/0.jpg)](https://www.youtube.com/watch?v=Ps8jOj7diA0)
+[[Python]]
+[[C++]]
+[[Object-Oriented Programming]]
 
 ## Lecture 02
 [![Watch the video](https://img.youtube.com/vi/jTSvthW34GU/0.jpg)](https://www.youtube.com/watch?v=jTSvthW34GU)
+[[Byte]]
+[[Bit]]
 
 ## Lecture 03
 [![Watch the video](https://img.youtube.com/vi/H4MQXBF6FN4/0.jpg)](https://www.youtube.com/watch?v=H4MQXBF6FN4)

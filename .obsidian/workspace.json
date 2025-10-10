@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "465da4ab8c5d701c",
+            "id": "31ff1e06cc414a06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13 CS 145 - Data Management and Data Systems/Lecture Recordings/Data Management and Data Systems.md",
+                "file": "08 CS 107 - Computer Organization and Systems/Lecture Recordings/Computer Organization and Systems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,21 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Data Management and Data Systems"
-            }
-          },
-          {
-            "id": "31ff1e06cc414a06",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Computer Organization and Systems"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,6 +176,7 @@
   },
   "active": "31ff1e06cc414a06",
   "lastOpenFiles": [
+    "08 CS 107 - Computer Organization and Systems/Lecture Recordings/Computer Organization and Systems.md",
     "13 CS 145 - Data Management and Data Systems/Lecture Recordings/Data Management and Data Systems.md",
     "z_Obsidian Notes/NoSQL.md",
     "z_Obsidian Notes/Online Analytical Processing (OLAP).md",
@@ -207,7 +197,6 @@
     "z_Obsidian Notes/Attribute.md",
     "Database Management System (DBMS).md",
     "10 CS 110 - Principles of Computer Systems/Lecture Recordings/Principles of Computer Systems.md",
-    "08 CS 107 - Computer Organization and Systems/Lecture Recordings/Computer Organization and Systems.md",
     "11 CS 161 - Design and Analysis of Algorithms/Lecture Recordings/Design and Analysis of Algorithms.md",
     "z_Obsidian Notes/Kosaraju's Two-Pass Algorithm.md",
     "z_Obsidian Notes/Topological Sort.md",
