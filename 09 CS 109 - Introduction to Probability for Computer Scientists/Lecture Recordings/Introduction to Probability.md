@@ -3,6 +3,7 @@
 ## Lecture 01
 [![Watch the video](https://img.youtube.com/vi/2MuDZIAzBMY/0.jpg)](https://www.youtube.com/watch?v=2MuDZIAzBMY)
 
+
 ## Lecture 02
 [![Watch the video](https://img.youtube.com/vi/ag4Ei15CG0c/0.jpg)](https://www.youtube.com/watch?v=ag4Ei15CG0c)
 

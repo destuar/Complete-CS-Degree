@@ -5,89 +5,18 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "path:\"01 CS 105 - Introduction to Computers\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "path:\"02 MATH 19 - Calculus I\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "path:\"03 CS 106A - Programming Methodology\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "path:\"04 CS 106B - Programming Abstractions\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084188
-      }
-    },
-    {
-      "query": "path:\"05 MATH 20 - Calculus II\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084269
-      }
-    },
-    {
-      "query": "path:\"06 CS 103 - Mathematical Foundations of Computing\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6073814
-      }
-    },
-    {
-      "query": "path:\"07 ENGR 108 - Introduction to Applied Linear Algebra/Lecture Recordings\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6053078
-      }
-    },
-    {
-      "query": "path:\"28 STATS 216 - Introduction to Statistical Learning\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11361494
-      }
-    },
-    {
-      "query": "path:\"11 CS 161 - Design and Analysis of Algorithms\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048429
-      }
-    },
-    {
-      "query": "path:\"13 CS 145 - Data Management and Data Systems\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    }
-  ],
-  "collapse-display": false,
+  "collapse-color-groups": false,
+  "colorGroups": [],
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -1.5,
-  "nodeSizeMultiplier": 0.40625,
-  "lineSizeMultiplier": 0.151041666666667,
-  "collapse-forces": true,
-  "centerStrength": 0.5,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.610416666666667,
+  "lineSizeMultiplier": 0.1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.08317427835927561,
+  "scale": 0.08317427835927645,
   "close": true
 }

@@ -11,24 +11,10 @@
             "id": "31ff1e06cc414a06",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 CS 107 - Computer Organization and Systems/Lecture Recordings/Computer Organization and Systems.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Computer Organization and Systems"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -176,7 +162,17 @@
   },
   "active": "31ff1e06cc414a06",
   "lastOpenFiles": [
-    "08 CS 107 - Computer Organization and Systems/Lecture Recordings/Computer Organization and Systems.md",
+    "10 CS 110 - Principles of Computer Systems/Lecture Recordings/Principles of Computer Systems.md",
+    "09 CS 109 - Introduction to Probability for Computer Scientists/Lecture Recordings/Introduction to Probability.md",
+    "z_Obsidian Notes/Inclusion-Exclusion Principle.md",
+    "z_Obsidian Notes/Counting Theory.md",
+    "z_Obsidian Notes/Char.md",
+    "z_Obsidian Notes/Double.md",
+    "z_Obsidian Notes/Int.md",
+    "z_Obsidian Notes/Short.md",
+    "z_Obsidian Notes/Float.md",
+    "08 CS 107 - Programming Paradigms/Lecture Recordings/Programming Paradigms.md",
+    "08 CS 107 - Programming Paradigms/Lecture Recordings/Computer Organization and Systems.md",
     "13 CS 145 - Data Management and Data Systems/Lecture Recordings/Data Management and Data Systems.md",
     "z_Obsidian Notes/NoSQL.md",
     "z_Obsidian Notes/Online Analytical Processing (OLAP).md",
@@ -192,16 +188,6 @@
     "z_Obsidian Notes/Isolation Levels.md",
     "z_Obsidian Notes/Inference.md",
     "Extensible Markup Langauge (XML).md",
-    "z_Obsidian Notes/Extensible Markup Language (XML).md",
-    "z_Obsidian Notes/Database Management System (DBMS).md",
-    "z_Obsidian Notes/Attribute.md",
-    "Database Management System (DBMS).md",
-    "10 CS 110 - Principles of Computer Systems/Lecture Recordings/Principles of Computer Systems.md",
-    "11 CS 161 - Design and Analysis of Algorithms/Lecture Recordings/Design and Analysis of Algorithms.md",
-    "z_Obsidian Notes/Kosaraju's Two-Pass Algorithm.md",
-    "z_Obsidian Notes/Topological Sort.md",
-    "z_Obsidian Notes/Graph.md",
-    "z_Obsidian Notes/Backtracking.md",
     "11 CS 161 - Design and Analysis of Algorithms/Lecture Slides/Part I/Part 9/slides_algo-karger-counting_typed.pdf",
     "11 CS 161 - Design and Analysis of Algorithms/Lecture Slides/Part I/Part 9/slides_algo-karger-representations_typed.pdf",
     "11 CS 161 - Design and Analysis of Algorithms/Lecture Slides/Part I/Part 9/slides_algo-karger-analysis_typed.pdf",
