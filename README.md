@@ -31,8 +31,8 @@ Each course folder includes subfolders with **Assignments**, **Final Exams**, **
 - **ENGR 108 - Introduction to Applied Linear Algebra**  
   Introduction to linear algebra concepts used in computer science, including matrices, vectors, and eigenvalues.
 
-- **CS 107 - Computer Organization and Systems**  
-  Explores the relationship between hardware and software, covering topics such as memory hierarchy, data representation, and systems programming.
+- **CS 107 - Programming Paradigms**  
+  Explores core programming paradigms and abstraction techniques used across modern software systems.
 
 - **CS 109 - Introduction to Probability for Computer Scientists**  
   Covers probability theory with applications in computer science, including random variables, distributions, and probabilistic reasoning.
@@ -45,6 +45,9 @@ Each course folder includes subfolders with **Assignments**, **Final Exams**, **
 
 - **MATH 21 - Calculus III**  
   Covers multivariable calculus, including partial derivatives, multiple integrals, and vector calculus.
+
+- **CS 144 - Introduction to Computer Networking**  
+  Covers the fundamentals of Internet architecture, protocols, and end-to-end communication.
 
 - **CS 145 - Data Management and Data Systems**  
   Introduction to database systems, data models, and basics of query processing, with a focus on relational databases and SQL.
@@ -59,6 +62,9 @@ Each course folder includes subfolders with **Assignments**, **Final Exams**, **
 
 - **CS 221 - Artificial Intelligence: Principles and Techniques**  
   Introduction to the foundational concepts and techniques in AI, including search, knowledge representation, and machine learning.
+
+- **STATS 216 - Introduction to Statistical Learning**  
+  Covers core supervised and unsupervised learning methods used in modern data science and AI.
 
 - **CS 228 - Probabilistic Graphical Models: Principles and Techniques**  
   Covers probabilistic models and their use in reasoning and decision-making, with a focus on graphical models like Bayesian networks and Markov random fields.
@@ -89,15 +95,6 @@ Each course folder includes subfolders with **Assignments**, **Final Exams**, **
 
 - **CS 236 - Deep Generative Models**  
   Advanced course on generative models, including variational autoencoders (VAEs) and generative adversarial networks (GANs).
-
-- **CS 330 - Deep Multi-Task and Meta Learning**  
-  Covers multi-task and meta-learning techniques within deep learning frameworks.
-
-- **CS 238 - Decision Making under Uncertainty**  
-  Focuses on decision-making under uncertainty, using decision theory, game theory, and planning.
-
-- **CS 131 - Computer Vision**  
-  Explores the foundations of computer vision, covering algorithms for image recognition, object detection, and analysis.
 
 - **CS 149 - Parallel Computing**  
   Introduction to parallel computing, covering algorithms and programming techniques for high-performance computing.
