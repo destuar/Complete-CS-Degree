@@ -1,5 +1,3 @@
-# 4-Layer Internet Model
-
 ## Definition
 
 The **4-Layer Internet Model** is a practical networking stack used to explain how Internet communication is organized.
@@ -25,9 +23,23 @@ Each layer adds its own header information as data moves down the stack at the s
 - Enables interoperability across heterogeneous networks.
 - Makes troubleshooting easier by isolating problems per layer.
 
+## Quick Comparison
+
+| Layer | Data Unit | Main Addressing | Typical Device/Focus |
+|---|---|---|---|
+| Application | Message | App-level identifiers (URL/domain) | End-host processes ([[Client]], [[Server]]) |
+| Transport | Segment (TCP) / Datagram (UDP) | Port numbers | End-to-end process delivery on hosts |
+| Network | Packet (IP datagram) | IP addresses | Routers and path routing across networks |
+| Link | Frame | MAC addresses | NICs/switches and local-hop delivery |
+
 ## Related Concepts
 
 - [[HTTP]]
 - [[Client]]
 - [[Server]]
 - [[NAT]]
+- [[7-Layer OSI Model]]
+- [[End-to-End Principle]]
+- [[Encapsulation]]
+- [[Virtual Private Network (VPN)]]
+

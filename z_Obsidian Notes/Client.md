@@ -1,5 +1,3 @@
-# Client
-
 ## Definition
 
 A **client** is a host/process that initiates communication to request a service or resource from another host/process (usually a [[Server]]).
@@ -25,3 +23,4 @@ In the [[4-Layer Internet Model]], clients mainly operate at the application lay
 - [[Server]]
 - [[HTTP]]
 - [[4-Layer Internet Model]]
+

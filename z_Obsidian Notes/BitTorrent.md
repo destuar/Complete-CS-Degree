@@ -1,5 +1,3 @@
-# BitTorrent
-
 ## Definition
 
 **BitTorrent** is a peer-to-peer (P2P) file distribution protocol where participants download and upload file pieces to each other instead of relying on one central server.
@@ -28,3 +26,4 @@
 - [[Server]]
 - [[NAT]]
 - [[4-Layer Internet Model]]
+

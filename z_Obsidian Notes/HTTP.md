@@ -1,5 +1,3 @@
-# HTTP
-
 ## Definition
 
 **HyperText Transfer Protocol (HTTP)** is an application-layer protocol used by web clients and web servers to exchange resources such as HTML pages, images, JSON, and video metadata.
@@ -27,3 +25,4 @@ State across requests is usually implemented with cookies, tokens, or session id
 - [[Client]]
 - [[Server]]
 - [[4-Layer Internet Model]]
+

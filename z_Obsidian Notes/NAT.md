@@ -1,5 +1,3 @@
-# NAT
-
 ## Definition
 
 **Network Address Translation (NAT)** is a router function that maps private internal IP addresses to one (or a few) public IP addresses, allowing many devices to share limited public IPv4 space.
@@ -29,3 +27,4 @@
 - [[Client]]
 - [[Server]]
 - [[4-Layer Internet Model]]
+

@@ -1,5 +1,3 @@
-# Skype
-
 ## Definition
 
 **Skype** is a real-time communication application (voice, video, chat) that historically used hybrid P2P techniques and later shifted toward more cloud-based infrastructure.
@@ -28,3 +26,4 @@ Skype is a useful case study in trade-offs between:
 - [[Server]]
 - [[NAT]]
 - [[4-Layer Internet Model]]
+

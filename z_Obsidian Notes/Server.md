@@ -1,5 +1,3 @@
-# Server
-
 ## Definition
 
 A **server** is a host/process that listens for incoming requests and provides services, data, or computation to requesting entities (typically [[Client]]s).
@@ -25,3 +23,4 @@ In the [[4-Layer Internet Model]], server logic is at the application layer whil
 - [[Client]]
 - [[HTTP]]
 - [[4-Layer Internet Model]]
+
