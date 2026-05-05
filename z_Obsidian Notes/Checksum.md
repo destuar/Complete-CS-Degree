@@ -1,5 +1,3 @@
-# Checksum
-
 ## Definition
 
 A **checksum** is an error-detection value computed from data and transmitted with it so the receiver can detect accidental corruption.
@@ -32,4 +30,6 @@ A **checksum** is an error-detection value computed from data and transmitted wi
 - [[Internet Protocol (IP)]]
 - [[Transmission Control Protocol (TCP)]]
 - [[User Datagram Protocol (UDP)]]
-- [[Encapsulation]]`r`n- [[Cyclic Redundancy Check (CRC)]]
+- [[Encapsulation]]
+- [[Cyclic Redundancy Check (CRC)]]
+- [[Message Auth Code (MAC)]]

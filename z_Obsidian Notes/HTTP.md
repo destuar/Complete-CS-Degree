@@ -24,5 +24,6 @@ State across requests is usually implemented with cookies, tokens, or session id
 
 - [[Client]]
 - [[Server]]
+- [[Finite State Machine (FSM)]]
 - [[4-Layer Internet Model]]
 

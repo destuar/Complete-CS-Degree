@@ -24,10 +24,11 @@
 ## Packet Switching vs Circuit Switching
 
 - **Packet switching**: dynamic resource sharing, flexible routing, no fixed path reservation.
-- **Circuit switching**: dedicated end-to-end path for the duration of a session.
+- **Circuit switching**: dedicated end-to-end path for the duration of a session (see [[Circuit Switching]]).
 
 ## Related Concepts
 
+- [[Circuit Switching]]
 - [[Network]]
 - [[Internet Protocol (IP)]]
 - [[Transmission Control Protocol (TCP)]]

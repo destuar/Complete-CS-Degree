@@ -25,6 +25,7 @@ Routers operate primarily at this layer, selecting next hops to move packets tow
 - [[Internet Protocol (IP)]]
 - [[Internet Control Message Protocol (ICMP)]]
 - [[Packet Switching]]
+- [[Circuit Switching]]
 - [[NAT]]
 - [[4-Layer Internet Model]]
 

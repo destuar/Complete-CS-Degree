@@ -1,5 +1,3 @@
-# TLS
-
 ## Definition
 
 **TLS (Transport Layer Security)** is a cryptographic protocol that provides confidentiality, integrity, and endpoint authentication for application traffic over untrusted networks.
@@ -35,3 +33,4 @@
 - [[Application]]
 - [[Virtual Private Network (VPN)]]
 - [[End-to-End Principle]]
+- [[Message Auth Code (MAC)]]
