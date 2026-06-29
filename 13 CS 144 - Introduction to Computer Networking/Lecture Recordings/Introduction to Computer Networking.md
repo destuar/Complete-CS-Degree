@@ -29,6 +29,8 @@
 [[Transmission Control Protocol (TCP)]]
 [[User Datagram Protocol (UDP)]]
 [[Flow Control]]
+[[Congestion Control]]
+[[TCP Sliding Window]]
 [[7-Layer OSI Model]]
 [[End-to-End Principle]]
 [[Circuit Switching]]

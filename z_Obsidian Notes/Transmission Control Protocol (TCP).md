@@ -13,8 +13,9 @@
 
 - Connection setup with a three-way handshake.
 - Data is segmented, acknowledged, and retransmitted if needed.
-- Flow control prevents overwhelming the receiver.
-- Congestion-related algorithms adapt sending behavior based on network conditions.
+- [[TCP Sliding Window]] pipelines data using `min(rwnd, cwnd)`.
+- [[Flow Control]] prevents overwhelming the receiver.
+- [[Congestion Control]] algorithms adapt sending behavior based on network conditions.
 
 ## Why It Matters
 
@@ -31,5 +32,7 @@ TCP is used when correctness and ordered data matter more than minimal latency o
 - [[Internet Protocol (IP)]]
 - [[HTTP]]
 - [[Flow Control]]
+- [[Congestion Control]]
+- [[TCP Sliding Window]]
 - [[4-Layer Internet Model]]
 

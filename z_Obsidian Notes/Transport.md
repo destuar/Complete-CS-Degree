@@ -7,7 +7,7 @@ The **Transport layer** provides end-to-end communication between application pr
 - Process-to-process delivery using port numbers
 - Multiplexing and demultiplexing of application streams
 - Reliability and ordering (with TCP)
-- Flow/congestion-related mechanisms (protocol-dependent)
+- [[Flow Control]] / [[Congestion Control]] mechanisms (protocol-dependent)
 
 ## Main Internet Protocols
 
@@ -25,5 +25,6 @@ Application behavior (latency, reliability, throughput) is strongly affected by 
 - [[Transmission Control Protocol (TCP)]]
 - [[User Datagram Protocol (UDP)]]
 - [[Flow Control]]
+- [[Congestion Control]]
 - [[4-Layer Internet Model]]
 

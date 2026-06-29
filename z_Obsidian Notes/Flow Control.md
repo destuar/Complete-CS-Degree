@@ -27,6 +27,7 @@
 - Sender may transmit multiple units before receiving ACKs.
 - ACKs "slide" the window forward, allowing new data to be sent.
 - Much better throughput than stop-and-wait, especially with long RTTs.
+- In TCP, see [[TCP Sliding Window]] for `rwnd`, `cwnd`, and effective window behavior.
 
 ### Go-Back-N (ARQ family)
 
@@ -43,7 +44,7 @@
 ## Flow Control vs Congestion Control
 
 - **Flow control** protects the receiver endpoint.
-- **Congestion control** protects the network path/routers from overload.
+- **Congestion control** protects the network path/routers from overload (see [[Congestion Control]]).
 - TCP uses both, and effective sending rate is constrained by both limits.
 
 ## Why It Matters
@@ -55,6 +56,8 @@
 ## Related Concepts
 
 - [[Transmission Control Protocol (TCP)]]
+- [[TCP Sliding Window]]
+- [[Congestion Control]]
 - [[Transport]]
 - [[Finite State Machine (FSM)]]
 - [[Packet Switching]]
